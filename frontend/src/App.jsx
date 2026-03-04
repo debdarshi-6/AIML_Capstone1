@@ -4,7 +4,7 @@ import ResultCard from "./components/ResultCard";
 
 function App() {
   const [result, setResult] = useState(null);
-
+  
   return (
     <div
       style={{
@@ -29,7 +29,6 @@ function App() {
       </h1>
 
       <TicketForm setResult={setResult} />
-
       <ResultCard result={result} />
     </div>
   );

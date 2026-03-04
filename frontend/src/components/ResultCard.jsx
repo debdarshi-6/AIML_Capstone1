@@ -39,7 +39,7 @@ export default function ResultCard({ result }) {
       <p style={{ fontSize: "16px" }}>
         Department:{" "}
         <span style={{ fontWeight: "bold", color: "#0077cc" }}>
-          {result.department}
+          {result.Department}
         </span>
       </p>
 
@@ -52,7 +52,7 @@ export default function ResultCard({ result }) {
             textTransform: "capitalize",
           }}
         >
-          {result.priority}
+          {result.Priority}
         </span>
       </p>
     </div>

@@ -14,6 +14,7 @@ export default function TicketForm({ setResult }) {
 
     try {
       const data = await predictTicket(text);
+      console.log(data);
       setResult(data);
     } catch (error) {
       console.error("Prediction failed:", error);

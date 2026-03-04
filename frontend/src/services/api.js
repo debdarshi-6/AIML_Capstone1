@@ -4,15 +4,15 @@ import axios from "axios";
 const USE_MOCK = false;
 
 // Your deployed API
-const API_URL = "https://aiml-capstone1.onrender.com/predict";
+// Change this to your local IP while testing
+const API_URL = "https://aiml-capstone1.onrender.com"; 
 
-// Axios instance (optional but cleaner)
 const api = axios.create({
-  baseURL: "https://aiml-capstone1.onrender.com",
+  baseURL: API_URL, // Use the variable here
   headers: {
     "Content-Type": "application/json",
   },
-  timeout: 60000, // helps with Render cold start
+  timeout: 60000,
 });
 
 export const predictTicket = async (ticket_text) => {
@@ -34,8 +34,8 @@ export const predictTicket = async (ticket_text) => {
     const response = await api.post("/predict", {
       ticket_text: ticket_text,
     });
-
     return response.data;
+    
   } catch (error) {
     console.error("Prediction failed:", error);
     throw error;
