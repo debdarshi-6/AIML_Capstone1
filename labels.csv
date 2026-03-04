@@ -1,0 +1,3001 @@
+ticket_id,department,priority
+TKT00000,Product Feedback,Low
+TKT00001,Product Feedback,Medium
+TKT00002,Sales,Medium
+TKT00003,Technical Support,Low
+TKT00004,Technical Support,Low
+TKT00005,Billing,Low
+TKT00006,Product Feedback,Low
+TKT00007,Sales,Low
+TKT00008,Technical Support,High
+TKT00009,Sales,Medium
+TKT00010,Product Feedback,High
+TKT00011,Product Feedback,Low
+TKT00012,Account Management,Medium
+TKT00013,Sales,Medium
+TKT00014,Sales,Medium
+TKT00015,Billing,Medium
+TKT00016,Sales,High
+TKT00017,Billing,Medium
+TKT00018,Billing,Low
+TKT00019,Product Feedback,Medium
+TKT00020,Technical Support,Low
+TKT00021,Product Feedback,Medium
+TKT00022,Billing,Medium
+TKT00023,Technical Support,Low
+TKT00024,Billing,Medium
+TKT00025,Account Management,Medium
+TKT00026,Sales,Low
+TKT00027,Product Feedback,Medium
+TKT00028,Sales,Low
+TKT00029,Billing,Low
+TKT00030,Product Feedback,Low
+TKT00031,Technical Support,Medium
+TKT00032,Product Feedback,Low
+TKT00033,Technical Support,Medium
+TKT00034,Billing,Medium
+TKT00035,Sales,Medium
+TKT00036,Product Feedback,High
+TKT00037,Sales,Medium
+TKT00038,Account Management,Medium
+TKT00039,Product Feedback,Low
+TKT00040,Product Feedback,Medium
+TKT00041,Product Feedback,Medium
+TKT00042,Account Management,High
+TKT00043,Billing,Medium
+TKT00044,Account Management,Low
+TKT00045,Billing,Medium
+TKT00046,Product Feedback,Low
+TKT00047,Product Feedback,Medium
+TKT00048,Sales,High
+TKT00049,Billing,Medium
+TKT00050,Technical Support,Low
+TKT00051,Account Management,Medium
+TKT00052,Technical Support,High
+TKT00053,Technical Support,Low
+TKT00054,Account Management,Low
+TKT00055,Sales,Low
+TKT00056,Product Feedback,Low
+TKT00057,Sales,High
+TKT00058,Sales,Low
+TKT00059,Account Management,Medium
+TKT00060,Account Management,High
+TKT00061,Sales,Low
+TKT00062,Sales,Low
+TKT00063,Account Management,Low
+TKT00064,Technical Support,Medium
+TKT00065,Billing,Low
+TKT00066,Billing,Low
+TKT00067,Account Management,High
+TKT00068,Sales,Medium
+TKT00069,Billing,High
+TKT00070,Product Feedback,High
+TKT00071,Product Feedback,High
+TKT00072,Sales,Low
+TKT00073,Technical Support,High
+TKT00074,Technical Support,Low
+TKT00075,Account Management,Medium
+TKT00076,Sales,Medium
+TKT00077,Product Feedback,Low
+TKT00078,Product Feedback,Low
+TKT00079,Product Feedback,Medium
+TKT00080,Sales,Low
+TKT00081,Technical Support,Medium
+TKT00082,Account Management,Medium
+TKT00083,Product Feedback,Medium
+TKT00084,Product Feedback,Medium
+TKT00085,Account Management,Low
+TKT00086,Technical Support,Medium
+TKT00087,Sales,Low
+TKT00088,Billing,Medium
+TKT00089,Product Feedback,Low
+TKT00090,Product Feedback,Medium
+TKT00091,Technical Support,Low
+TKT00092,Billing,Low
+TKT00093,Product Feedback,High
+TKT00094,Billing,High
+TKT00095,Sales,Medium
+TKT00096,Sales,Medium
+TKT00097,Product Feedback,Medium
+TKT00098,Billing,Medium
+TKT00099,Technical Support,Medium
+TKT00100,Sales,High
+TKT00101,Product Feedback,Low
+TKT00102,Account Management,Low
+TKT00103,Billing,Low
+TKT00104,Account Management,Medium
+TKT00105,Technical Support,Medium
+TKT00106,Product Feedback,Low
+TKT00107,Account Management,Low
+TKT00108,Billing,Medium
+TKT00109,Product Feedback,Low
+TKT00110,Technical Support,Medium
+TKT00111,Billing,Low
+TKT00112,Account Management,Low
+TKT00113,Billing,Low
+TKT00114,Product Feedback,Medium
+TKT00115,Account Management,High
+TKT00116,Sales,Low
+TKT00117,Billing,Medium
+TKT00118,Billing,High
+TKT00119,Billing,Low
+TKT00120,Product Feedback,Low
+TKT00121,Sales,High
+TKT00122,Billing,Medium
+TKT00123,Product Feedback,Medium
+TKT00124,Technical Support,High
+TKT00125,Sales,High
+TKT00126,Sales,Medium
+TKT00127,Sales,Low
+TKT00128,Account Management,Medium
+TKT00129,Technical Support,Low
+TKT00130,Product Feedback,Medium
+TKT00131,Technical Support,High
+TKT00132,Account Management,Low
+TKT00133,Product Feedback,Medium
+TKT00134,Account Management,High
+TKT00135,Account Management,Low
+TKT00136,Technical Support,Medium
+TKT00137,Sales,Medium
+TKT00138,Technical Support,Medium
+TKT00139,Sales,Low
+TKT00140,Billing,Low
+TKT00141,Billing,Low
+TKT00142,Technical Support,Medium
+TKT00143,Product Feedback,Medium
+TKT00144,Account Management,Low
+TKT00145,Sales,Medium
+TKT00146,Sales,Medium
+TKT00147,Account Management,Low
+TKT00148,Sales,Low
+TKT00149,Account Management,Low
+TKT00150,Account Management,High
+TKT00151,Billing,Low
+TKT00152,Product Feedback,Medium
+TKT00153,Account Management,Medium
+TKT00154,Product Feedback,High
+TKT00155,Billing,Low
+TKT00156,Product Feedback,High
+TKT00157,Billing,Low
+TKT00158,Product Feedback,Low
+TKT00159,Billing,Medium
+TKT00160,Technical Support,Low
+TKT00161,Billing,Low
+TKT00162,Technical Support,Low
+TKT00163,Technical Support,Low
+TKT00164,Account Management,Low
+TKT00165,Technical Support,High
+TKT00166,Billing,Low
+TKT00167,Account Management,Medium
+TKT00168,Sales,Medium
+TKT00169,Technical Support,Low
+TKT00170,Account Management,Medium
+TKT00171,Product Feedback,High
+TKT00172,Account Management,Medium
+TKT00173,Sales,Low
+TKT00174,Billing,Low
+TKT00175,Technical Support,High
+TKT00176,Sales,Medium
+TKT00177,Account Management,High
+TKT00178,Account Management,Medium
+TKT00179,Product Feedback,Medium
+TKT00180,Technical Support,Low
+TKT00181,Technical Support,High
+TKT00182,Billing,Medium
+TKT00183,Product Feedback,Medium
+TKT00184,Account Management,Medium
+TKT00185,Billing,Medium
+TKT00186,Account Management,Low
+TKT00187,Sales,High
+TKT00188,Sales,Medium
+TKT00189,Sales,Low
+TKT00190,Account Management,Medium
+TKT00191,Billing,High
+TKT00192,Account Management,Medium
+TKT00193,Account Management,Medium
+TKT00194,Billing,Medium
+TKT00195,Billing,Medium
+TKT00196,Billing,Low
+TKT00197,Sales,Medium
+TKT00198,Billing,Medium
+TKT00199,Technical Support,Low
+TKT00200,Account Management,Low
+TKT00201,Technical Support,High
+TKT00202,Account Management,Low
+TKT00203,Account Management,Medium
+TKT00204,Product Feedback,Medium
+TKT00205,Technical Support,Low
+TKT00206,Billing,Medium
+TKT00207,Billing,Medium
+TKT00208,Account Management,High
+TKT00209,Product Feedback,Medium
+TKT00210,Sales,Low
+TKT00211,Billing,Low
+TKT00212,Sales,Medium
+TKT00213,Technical Support,Medium
+TKT00214,Billing,Medium
+TKT00215,Account Management,Low
+TKT00216,Sales,Low
+TKT00217,Technical Support,Low
+TKT00218,Sales,High
+TKT00219,Billing,Low
+TKT00220,Technical Support,Medium
+TKT00221,Sales,Low
+TKT00222,Account Management,Low
+TKT00223,Billing,Medium
+TKT00224,Technical Support,Medium
+TKT00225,Account Management,Low
+TKT00226,Account Management,Low
+TKT00227,Sales,High
+TKT00228,Sales,Low
+TKT00229,Technical Support,Medium
+TKT00230,Billing,High
+TKT00231,Account Management,Medium
+TKT00232,Technical Support,Medium
+TKT00233,Billing,Low
+TKT00234,Sales,Low
+TKT00235,Technical Support,Low
+TKT00236,Billing,Low
+TKT00237,Product Feedback,Low
+TKT00238,Product Feedback,Medium
+TKT00239,Product Feedback,Low
+TKT00240,Billing,Medium
+TKT00241,Product Feedback,High
+TKT00242,Billing,Medium
+TKT00243,Sales,Medium
+TKT00244,Technical Support,Low
+TKT00245,Technical Support,Medium
+TKT00246,Account Management,Low
+TKT00247,Account Management,Low
+TKT00248,Technical Support,Low
+TKT00249,Sales,Low
+TKT00250,Product Feedback,Medium
+TKT00251,Product Feedback,Low
+TKT00252,Product Feedback,Low
+TKT00253,Account Management,Medium
+TKT00254,Sales,High
+TKT00255,Account Management,Low
+TKT00256,Sales,Medium
+TKT00257,Account Management,High
+TKT00258,Account Management,High
+TKT00259,Product Feedback,High
+TKT00260,Billing,Medium
+TKT00261,Technical Support,High
+TKT00262,Billing,Medium
+TKT00263,Technical Support,Medium
+TKT00264,Technical Support,Medium
+TKT00265,Product Feedback,Medium
+TKT00266,Account Management,Medium
+TKT00267,Sales,Low
+TKT00268,Product Feedback,Medium
+TKT00269,Billing,Medium
+TKT00270,Sales,Medium
+TKT00271,Product Feedback,Low
+TKT00272,Technical Support,Low
+TKT00273,Product Feedback,Low
+TKT00274,Technical Support,High
+TKT00275,Product Feedback,Medium
+TKT00276,Billing,Low
+TKT00277,Billing,Medium
+TKT00278,Product Feedback,Low
+TKT00279,Product Feedback,Medium
+TKT00280,Product Feedback,Low
+TKT00281,Sales,Medium
+TKT00282,Sales,High
+TKT00283,Product Feedback,High
+TKT00284,Sales,Medium
+TKT00285,Billing,Low
+TKT00286,Sales,Low
+TKT00287,Product Feedback,Low
+TKT00288,Product Feedback,Low
+TKT00289,Billing,Medium
+TKT00290,Billing,Low
+TKT00291,Sales,Low
+TKT00292,Sales,Medium
+TKT00293,Billing,High
+TKT00294,Billing,Medium
+TKT00295,Technical Support,Medium
+TKT00296,Account Management,Low
+TKT00297,Technical Support,Medium
+TKT00298,Billing,Low
+TKT00299,Billing,Low
+TKT00300,Billing,Medium
+TKT00301,Billing,Medium
+TKT00302,Account Management,Medium
+TKT00303,Billing,Medium
+TKT00304,Account Management,Low
+TKT00305,Account Management,Medium
+TKT00306,Sales,Medium
+TKT00307,Billing,Low
+TKT00308,Billing,High
+TKT00309,Account Management,Medium
+TKT00310,Technical Support,High
+TKT00311,Billing,Low
+TKT00312,Technical Support,High
+TKT00313,Billing,High
+TKT00314,Billing,Low
+TKT00315,Technical Support,Medium
+TKT00316,Product Feedback,Medium
+TKT00317,Account Management,Medium
+TKT00318,Billing,Medium
+TKT00319,Technical Support,Low
+TKT00320,Account Management,Medium
+TKT00321,Billing,Medium
+TKT00322,Sales,High
+TKT00323,Product Feedback,Medium
+TKT00324,Sales,Low
+TKT00325,Sales,Low
+TKT00326,Product Feedback,Medium
+TKT00327,Billing,Low
+TKT00328,Product Feedback,Low
+TKT00329,Account Management,Medium
+TKT00330,Account Management,Medium
+TKT00331,Product Feedback,Low
+TKT00332,Account Management,Low
+TKT00333,Technical Support,Low
+TKT00334,Account Management,High
+TKT00335,Account Management,Medium
+TKT00336,Account Management,Medium
+TKT00337,Technical Support,Low
+TKT00338,Product Feedback,Medium
+TKT00339,Billing,Low
+TKT00340,Product Feedback,Medium
+TKT00341,Product Feedback,High
+TKT00342,Account Management,High
+TKT00343,Technical Support,Medium
+TKT00344,Sales,Medium
+TKT00345,Sales,Medium
+TKT00346,Sales,High
+TKT00347,Billing,High
+TKT00348,Product Feedback,Low
+TKT00349,Account Management,Low
+TKT00350,Sales,Medium
+TKT00351,Billing,Low
+TKT00352,Technical Support,Low
+TKT00353,Account Management,Medium
+TKT00354,Billing,Low
+TKT00355,Billing,High
+TKT00356,Sales,Medium
+TKT00357,Account Management,Medium
+TKT00358,Sales,Low
+TKT00359,Product Feedback,Medium
+TKT00360,Account Management,Low
+TKT00361,Account Management,Medium
+TKT00362,Billing,High
+TKT00363,Technical Support,Low
+TKT00364,Sales,Medium
+TKT00365,Product Feedback,Medium
+TKT00366,Sales,Low
+TKT00367,Account Management,Low
+TKT00368,Account Management,Medium
+TKT00369,Billing,Medium
+TKT00370,Billing,Low
+TKT00371,Product Feedback,Medium
+TKT00372,Product Feedback,Medium
+TKT00373,Technical Support,Medium
+TKT00374,Product Feedback,Medium
+TKT00375,Product Feedback,Low
+TKT00376,Sales,Low
+TKT00377,Account Management,Medium
+TKT00378,Account Management,Low
+TKT00379,Product Feedback,Low
+TKT00380,Product Feedback,Low
+TKT00381,Sales,Medium
+TKT00382,Technical Support,Low
+TKT00383,Product Feedback,High
+TKT00384,Sales,Medium
+TKT00385,Sales,Medium
+TKT00386,Product Feedback,Medium
+TKT00387,Account Management,Medium
+TKT00388,Sales,Low
+TKT00389,Billing,Low
+TKT00390,Product Feedback,Medium
+TKT00391,Account Management,Low
+TKT00392,Technical Support,Medium
+TKT00393,Sales,High
+TKT00394,Technical Support,High
+TKT00395,Billing,Low
+TKT00396,Account Management,Low
+TKT00397,Billing,High
+TKT00398,Account Management,Low
+TKT00399,Technical Support,High
+TKT00400,Sales,Low
+TKT00401,Technical Support,Medium
+TKT00402,Product Feedback,Low
+TKT00403,Billing,Low
+TKT00404,Sales,Medium
+TKT00405,Account Management,Low
+TKT00406,Account Management,Medium
+TKT00407,Technical Support,Medium
+TKT00408,Account Management,Low
+TKT00409,Billing,Low
+TKT00410,Account Management,Medium
+TKT00411,Account Management,Medium
+TKT00412,Account Management,Medium
+TKT00413,Sales,Medium
+TKT00414,Product Feedback,Low
+TKT00415,Product Feedback,Low
+TKT00416,Sales,High
+TKT00417,Product Feedback,High
+TKT00418,Product Feedback,High
+TKT00419,Technical Support,Medium
+TKT00420,Billing,Low
+TKT00421,Sales,Medium
+TKT00422,Billing,Medium
+TKT00423,Technical Support,Medium
+TKT00424,Product Feedback,Medium
+TKT00425,Product Feedback,Low
+TKT00426,Product Feedback,Low
+TKT00427,Account Management,Low
+TKT00428,Sales,High
+TKT00429,Product Feedback,Low
+TKT00430,Billing,Low
+TKT00431,Account Management,Low
+TKT00432,Billing,High
+TKT00433,Billing,Low
+TKT00434,Technical Support,High
+TKT00435,Billing,Low
+TKT00436,Product Feedback,Medium
+TKT00437,Account Management,Low
+TKT00438,Sales,High
+TKT00439,Technical Support,Low
+TKT00440,Technical Support,Low
+TKT00441,Billing,High
+TKT00442,Account Management,Low
+TKT00443,Billing,Medium
+TKT00444,Sales,Low
+TKT00445,Product Feedback,Low
+TKT00446,Product Feedback,Medium
+TKT00447,Technical Support,Low
+TKT00448,Product Feedback,Low
+TKT00449,Product Feedback,Low
+TKT00450,Account Management,Low
+TKT00451,Product Feedback,Medium
+TKT00452,Technical Support,Low
+TKT00453,Account Management,High
+TKT00454,Sales,Low
+TKT00455,Billing,Medium
+TKT00456,Sales,Medium
+TKT00457,Product Feedback,Medium
+TKT00458,Billing,Medium
+TKT00459,Technical Support,Low
+TKT00460,Billing,Low
+TKT00461,Account Management,High
+TKT00462,Billing,High
+TKT00463,Technical Support,Medium
+TKT00464,Technical Support,Low
+TKT00465,Billing,High
+TKT00466,Sales,Low
+TKT00467,Technical Support,Medium
+TKT00468,Product Feedback,High
+TKT00469,Technical Support,High
+TKT00470,Account Management,Low
+TKT00471,Product Feedback,Low
+TKT00472,Sales,High
+TKT00473,Product Feedback,Low
+TKT00474,Account Management,Medium
+TKT00475,Account Management,High
+TKT00476,Account Management,Low
+TKT00477,Account Management,High
+TKT00478,Sales,Low
+TKT00479,Account Management,Medium
+TKT00480,Sales,Medium
+TKT00481,Account Management,High
+TKT00482,Technical Support,Low
+TKT00483,Account Management,High
+TKT00484,Sales,Medium
+TKT00485,Technical Support,Low
+TKT00486,Billing,Medium
+TKT00487,Billing,Low
+TKT00488,Account Management,Medium
+TKT00489,Product Feedback,Medium
+TKT00490,Account Management,Medium
+TKT00491,Sales,Medium
+TKT00492,Account Management,Low
+TKT00493,Sales,Low
+TKT00494,Billing,High
+TKT00495,Product Feedback,Medium
+TKT00496,Technical Support,Medium
+TKT00497,Account Management,High
+TKT00498,Account Management,Medium
+TKT00499,Product Feedback,Medium
+TKT00500,Product Feedback,Low
+TKT00501,Product Feedback,Medium
+TKT00502,Account Management,Low
+TKT00503,Billing,Medium
+TKT00504,Sales,High
+TKT00505,Product Feedback,Medium
+TKT00506,Billing,Medium
+TKT00507,Account Management,Medium
+TKT00508,Account Management,High
+TKT00509,Product Feedback,High
+TKT00510,Product Feedback,Low
+TKT00511,Account Management,Medium
+TKT00512,Technical Support,Low
+TKT00513,Product Feedback,Low
+TKT00514,Account Management,Medium
+TKT00515,Product Feedback,High
+TKT00516,Technical Support,Low
+TKT00517,Technical Support,Medium
+TKT00518,Technical Support,Low
+TKT00519,Account Management,Low
+TKT00520,Account Management,Medium
+TKT00521,Sales,Medium
+TKT00522,Product Feedback,Medium
+TKT00523,Account Management,Low
+TKT00524,Technical Support,Medium
+TKT00525,Account Management,High
+TKT00526,Technical Support,High
+TKT00527,Billing,Low
+TKT00528,Sales,Medium
+TKT00529,Product Feedback,High
+TKT00530,Sales,Medium
+TKT00531,Product Feedback,Medium
+TKT00532,Billing,Low
+TKT00533,Technical Support,Low
+TKT00534,Sales,Low
+TKT00535,Sales,High
+TKT00536,Product Feedback,Low
+TKT00537,Sales,Low
+TKT00538,Sales,Medium
+TKT00539,Billing,Medium
+TKT00540,Account Management,Medium
+TKT00541,Billing,Medium
+TKT00542,Sales,Medium
+TKT00543,Product Feedback,Medium
+TKT00544,Product Feedback,Medium
+TKT00545,Technical Support,Low
+TKT00546,Technical Support,High
+TKT00547,Technical Support,Medium
+TKT00548,Technical Support,Low
+TKT00549,Account Management,Low
+TKT00550,Product Feedback,Low
+TKT00551,Product Feedback,Low
+TKT00552,Technical Support,High
+TKT00553,Billing,Medium
+TKT00554,Product Feedback,Medium
+TKT00555,Billing,Low
+TKT00556,Technical Support,Medium
+TKT00557,Account Management,Low
+TKT00558,Product Feedback,Medium
+TKT00559,Technical Support,High
+TKT00560,Technical Support,High
+TKT00561,Product Feedback,Medium
+TKT00562,Billing,Medium
+TKT00563,Billing,High
+TKT00564,Billing,Low
+TKT00565,Technical Support,Medium
+TKT00566,Sales,Medium
+TKT00567,Billing,Low
+TKT00568,Account Management,High
+TKT00569,Account Management,Medium
+TKT00570,Sales,Low
+TKT00571,Product Feedback,Low
+TKT00572,Account Management,Medium
+TKT00573,Account Management,Low
+TKT00574,Product Feedback,Medium
+TKT00575,Technical Support,Medium
+TKT00576,Technical Support,Low
+TKT00577,Sales,Low
+TKT00578,Technical Support,Low
+TKT00579,Account Management,High
+TKT00580,Account Management,Low
+TKT00581,Billing,Medium
+TKT00582,Account Management,Low
+TKT00583,Account Management,High
+TKT00584,Account Management,High
+TKT00585,Account Management,Medium
+TKT00586,Billing,High
+TKT00587,Product Feedback,Medium
+TKT00588,Account Management,Medium
+TKT00589,Account Management,Low
+TKT00590,Technical Support,Low
+TKT00591,Sales,High
+TKT00592,Technical Support,Low
+TKT00593,Sales,Medium
+TKT00594,Account Management,Low
+TKT00595,Sales,Medium
+TKT00596,Sales,Low
+TKT00597,Technical Support,Low
+TKT00598,Product Feedback,Low
+TKT00599,Technical Support,High
+TKT00600,Product Feedback,Medium
+TKT00601,Product Feedback,Medium
+TKT00602,Technical Support,Medium
+TKT00603,Technical Support,Medium
+TKT00604,Account Management,Low
+TKT00605,Sales,Medium
+TKT00606,Product Feedback,Low
+TKT00607,Technical Support,Low
+TKT00608,Account Management,Low
+TKT00609,Technical Support,High
+TKT00610,Billing,High
+TKT00611,Account Management,Low
+TKT00612,Technical Support,Medium
+TKT00613,Technical Support,Low
+TKT00614,Product Feedback,Medium
+TKT00615,Account Management,Medium
+TKT00616,Product Feedback,Medium
+TKT00617,Billing,Medium
+TKT00618,Technical Support,Medium
+TKT00619,Billing,High
+TKT00620,Product Feedback,Medium
+TKT00621,Product Feedback,Low
+TKT00622,Billing,Low
+TKT00623,Product Feedback,Medium
+TKT00624,Account Management,Low
+TKT00625,Billing,Medium
+TKT00626,Product Feedback,Low
+TKT00627,Product Feedback,High
+TKT00628,Technical Support,Low
+TKT00629,Account Management,Medium
+TKT00630,Billing,Medium
+TKT00631,Billing,Low
+TKT00632,Billing,Low
+TKT00633,Technical Support,Low
+TKT00634,Technical Support,Low
+TKT00635,Account Management,Medium
+TKT00636,Product Feedback,Low
+TKT00637,Product Feedback,Low
+TKT00638,Sales,Low
+TKT00639,Account Management,Medium
+TKT00640,Account Management,Low
+TKT00641,Sales,Medium
+TKT00642,Billing,Medium
+TKT00643,Account Management,Medium
+TKT00644,Account Management,High
+TKT00645,Product Feedback,Low
+TKT00646,Technical Support,Medium
+TKT00647,Product Feedback,Low
+TKT00648,Sales,Low
+TKT00649,Account Management,Medium
+TKT00650,Account Management,Low
+TKT00651,Sales,Low
+TKT00652,Billing,Medium
+TKT00653,Sales,Low
+TKT00654,Product Feedback,Low
+TKT00655,Technical Support,Medium
+TKT00656,Account Management,Low
+TKT00657,Billing,Medium
+TKT00658,Account Management,Medium
+TKT00659,Account Management,High
+TKT00660,Technical Support,High
+TKT00661,Product Feedback,Medium
+TKT00662,Account Management,Low
+TKT00663,Sales,High
+TKT00664,Sales,Medium
+TKT00665,Product Feedback,Medium
+TKT00666,Product Feedback,Low
+TKT00667,Sales,High
+TKT00668,Product Feedback,High
+TKT00669,Billing,Low
+TKT00670,Product Feedback,Low
+TKT00671,Product Feedback,High
+TKT00672,Product Feedback,Medium
+TKT00673,Account Management,Low
+TKT00674,Product Feedback,Low
+TKT00675,Product Feedback,High
+TKT00676,Billing,Low
+TKT00677,Product Feedback,High
+TKT00678,Technical Support,Low
+TKT00679,Account Management,Low
+TKT00680,Technical Support,High
+TKT00681,Account Management,Low
+TKT00682,Sales,Low
+TKT00683,Product Feedback,High
+TKT00684,Technical Support,Low
+TKT00685,Sales,Medium
+TKT00686,Account Management,Low
+TKT00687,Technical Support,Medium
+TKT00688,Sales,High
+TKT00689,Product Feedback,High
+TKT00690,Product Feedback,Medium
+TKT00691,Billing,High
+TKT00692,Billing,High
+TKT00693,Sales,Medium
+TKT00694,Account Management,Low
+TKT00695,Account Management,Low
+TKT00696,Product Feedback,Low
+TKT00697,Account Management,High
+TKT00698,Sales,Low
+TKT00699,Product Feedback,Medium
+TKT00700,Account Management,Medium
+TKT00701,Technical Support,Medium
+TKT00702,Billing,Medium
+TKT00703,Sales,Medium
+TKT00704,Billing,Low
+TKT00705,Billing,High
+TKT00706,Technical Support,Medium
+TKT00707,Billing,Medium
+TKT00708,Billing,Medium
+TKT00709,Account Management,Low
+TKT00710,Technical Support,Low
+TKT00711,Technical Support,Low
+TKT00712,Billing,Medium
+TKT00713,Sales,Medium
+TKT00714,Sales,Low
+TKT00715,Product Feedback,Low
+TKT00716,Technical Support,Low
+TKT00717,Account Management,High
+TKT00718,Product Feedback,Medium
+TKT00719,Billing,Low
+TKT00720,Account Management,Low
+TKT00721,Billing,Low
+TKT00722,Product Feedback,Low
+TKT00723,Technical Support,High
+TKT00724,Billing,High
+TKT00725,Billing,Medium
+TKT00726,Product Feedback,Low
+TKT00727,Account Management,Low
+TKT00728,Sales,High
+TKT00729,Billing,Medium
+TKT00730,Technical Support,Low
+TKT00731,Product Feedback,Low
+TKT00732,Billing,High
+TKT00733,Billing,High
+TKT00734,Billing,Medium
+TKT00735,Technical Support,Low
+TKT00736,Billing,Low
+TKT00737,Sales,Medium
+TKT00738,Account Management,Low
+TKT00739,Product Feedback,Low
+TKT00740,Technical Support,High
+TKT00741,Product Feedback,Low
+TKT00742,Technical Support,Medium
+TKT00743,Account Management,Medium
+TKT00744,Billing,Medium
+TKT00745,Technical Support,Medium
+TKT00746,Product Feedback,Low
+TKT00747,Account Management,High
+TKT00748,Sales,Low
+TKT00749,Technical Support,Low
+TKT00750,Billing,Low
+TKT00751,Technical Support,Medium
+TKT00752,Product Feedback,Medium
+TKT00753,Sales,Low
+TKT00754,Product Feedback,High
+TKT00755,Product Feedback,Medium
+TKT00756,Account Management,Low
+TKT00757,Product Feedback,Medium
+TKT00758,Account Management,Medium
+TKT00759,Billing,Medium
+TKT00760,Product Feedback,High
+TKT00761,Sales,Medium
+TKT00762,Product Feedback,Medium
+TKT00763,Billing,Medium
+TKT00764,Technical Support,Low
+TKT00765,Sales,Low
+TKT00766,Billing,Medium
+TKT00767,Account Management,Medium
+TKT00768,Billing,Medium
+TKT00769,Billing,Low
+TKT00770,Product Feedback,Low
+TKT00771,Sales,Low
+TKT00772,Product Feedback,Medium
+TKT00773,Product Feedback,Medium
+TKT00774,Product Feedback,Low
+TKT00775,Product Feedback,Medium
+TKT00776,Billing,Low
+TKT00777,Account Management,Low
+TKT00778,Billing,Low
+TKT00779,Account Management,Medium
+TKT00780,Account Management,Medium
+TKT00781,Account Management,Medium
+TKT00782,Billing,Low
+TKT00783,Account Management,High
+TKT00784,Sales,Low
+TKT00785,Sales,High
+TKT00786,Sales,High
+TKT00787,Billing,Low
+TKT00788,Sales,Low
+TKT00789,Technical Support,Low
+TKT00790,Billing,High
+TKT00791,Billing,High
+TKT00792,Billing,Medium
+TKT00793,Account Management,Low
+TKT00794,Technical Support,Low
+TKT00795,Product Feedback,High
+TKT00796,Sales,High
+TKT00797,Product Feedback,Low
+TKT00798,Account Management,Low
+TKT00799,Technical Support,Medium
+TKT00800,Billing,Medium
+TKT00801,Sales,Medium
+TKT00802,Product Feedback,High
+TKT00803,Product Feedback,High
+TKT00804,Account Management,Low
+TKT00805,Product Feedback,Low
+TKT00806,Technical Support,Low
+TKT00807,Technical Support,Medium
+TKT00808,Sales,Medium
+TKT00809,Account Management,Medium
+TKT00810,Product Feedback,High
+TKT00811,Account Management,Low
+TKT00812,Sales,Low
+TKT00813,Sales,Low
+TKT00814,Account Management,Low
+TKT00815,Account Management,High
+TKT00816,Sales,High
+TKT00817,Billing,Low
+TKT00818,Technical Support,High
+TKT00819,Product Feedback,Medium
+TKT00820,Sales,Low
+TKT00821,Sales,Low
+TKT00822,Sales,High
+TKT00823,Sales,Low
+TKT00824,Technical Support,Low
+TKT00825,Technical Support,Medium
+TKT00826,Account Management,High
+TKT00827,Account Management,High
+TKT00828,Product Feedback,Low
+TKT00829,Billing,Low
+TKT00830,Technical Support,High
+TKT00831,Billing,Medium
+TKT00832,Product Feedback,High
+TKT00833,Technical Support,Low
+TKT00834,Technical Support,Medium
+TKT00835,Product Feedback,High
+TKT00836,Account Management,Medium
+TKT00837,Technical Support,Low
+TKT00838,Technical Support,Low
+TKT00839,Account Management,Medium
+TKT00840,Technical Support,Medium
+TKT00841,Sales,Medium
+TKT00842,Billing,Medium
+TKT00843,Technical Support,Medium
+TKT00844,Product Feedback,Medium
+TKT00845,Technical Support,Medium
+TKT00846,Account Management,Low
+TKT00847,Billing,Medium
+TKT00848,Account Management,High
+TKT00849,Sales,Medium
+TKT00850,Account Management,Medium
+TKT00851,Account Management,Low
+TKT00852,Billing,Low
+TKT00853,Account Management,Low
+TKT00854,Sales,Low
+TKT00855,Account Management,High
+TKT00856,Product Feedback,Low
+TKT00857,Product Feedback,Medium
+TKT00858,Account Management,High
+TKT00859,Sales,Medium
+TKT00860,Technical Support,Medium
+TKT00861,Sales,High
+TKT00862,Sales,Low
+TKT00863,Account Management,Medium
+TKT00864,Product Feedback,Low
+TKT00865,Technical Support,Medium
+TKT00866,Account Management,High
+TKT00867,Sales,High
+TKT00868,Product Feedback,Low
+TKT00869,Product Feedback,Low
+TKT00870,Technical Support,Low
+TKT00871,Product Feedback,High
+TKT00872,Technical Support,Low
+TKT00873,Billing,Medium
+TKT00874,Sales,Low
+TKT00875,Product Feedback,Medium
+TKT00876,Billing,Medium
+TKT00877,Sales,High
+TKT00878,Product Feedback,Medium
+TKT00879,Product Feedback,Medium
+TKT00880,Sales,Low
+TKT00881,Technical Support,Medium
+TKT00882,Billing,Medium
+TKT00883,Product Feedback,Medium
+TKT00884,Account Management,Low
+TKT00885,Billing,High
+TKT00886,Product Feedback,High
+TKT00887,Technical Support,Low
+TKT00888,Billing,Low
+TKT00889,Billing,Medium
+TKT00890,Sales,Low
+TKT00891,Billing,Low
+TKT00892,Sales,Low
+TKT00893,Product Feedback,Medium
+TKT00894,Account Management,Medium
+TKT00895,Product Feedback,High
+TKT00896,Sales,Low
+TKT00897,Billing,High
+TKT00898,Billing,Low
+TKT00899,Product Feedback,Medium
+TKT00900,Sales,Low
+TKT00901,Product Feedback,High
+TKT00902,Billing,Medium
+TKT00903,Product Feedback,Medium
+TKT00904,Product Feedback,Low
+TKT00905,Billing,High
+TKT00906,Sales,High
+TKT00907,Product Feedback,Low
+TKT00908,Sales,Medium
+TKT00909,Sales,High
+TKT00910,Account Management,Low
+TKT00911,Technical Support,Low
+TKT00912,Billing,High
+TKT00913,Billing,Medium
+TKT00914,Product Feedback,Low
+TKT00915,Product Feedback,High
+TKT00916,Technical Support,Medium
+TKT00917,Technical Support,Low
+TKT00918,Technical Support,Medium
+TKT00919,Sales,Low
+TKT00920,Technical Support,Low
+TKT00921,Technical Support,Low
+TKT00922,Account Management,Low
+TKT00923,Billing,Low
+TKT00924,Product Feedback,Medium
+TKT00925,Account Management,Low
+TKT00926,Account Management,Low
+TKT00927,Technical Support,High
+TKT00928,Technical Support,High
+TKT00929,Billing,Low
+TKT00930,Sales,Low
+TKT00931,Product Feedback,Medium
+TKT00932,Technical Support,Low
+TKT00933,Sales,Low
+TKT00934,Account Management,Low
+TKT00935,Sales,Low
+TKT00936,Product Feedback,High
+TKT00937,Billing,Medium
+TKT00938,Product Feedback,Low
+TKT00939,Product Feedback,Medium
+TKT00940,Account Management,Low
+TKT00941,Sales,Low
+TKT00942,Billing,Low
+TKT00943,Product Feedback,Low
+TKT00944,Account Management,Low
+TKT00945,Billing,Medium
+TKT00946,Product Feedback,Medium
+TKT00947,Sales,Low
+TKT00948,Product Feedback,Low
+TKT00949,Sales,High
+TKT00950,Technical Support,Low
+TKT00951,Product Feedback,Medium
+TKT00952,Account Management,High
+TKT00953,Account Management,Medium
+TKT00954,Billing,Low
+TKT00955,Technical Support,Low
+TKT00956,Account Management,Medium
+TKT00957,Billing,Low
+TKT00958,Billing,Medium
+TKT00959,Technical Support,Medium
+TKT00960,Technical Support,Medium
+TKT00961,Billing,High
+TKT00962,Product Feedback,High
+TKT00963,Technical Support,Medium
+TKT00964,Technical Support,Medium
+TKT00965,Product Feedback,Medium
+TKT00966,Sales,Low
+TKT00967,Billing,Low
+TKT00968,Account Management,Low
+TKT00969,Technical Support,Medium
+TKT00970,Billing,Low
+TKT00971,Billing,Medium
+TKT00972,Technical Support,Medium
+TKT00973,Account Management,Low
+TKT00974,Account Management,Medium
+TKT00975,Product Feedback,Medium
+TKT00976,Billing,Medium
+TKT00977,Sales,Low
+TKT00978,Sales,Medium
+TKT00979,Account Management,Medium
+TKT00980,Technical Support,Medium
+TKT00981,Billing,Low
+TKT00982,Technical Support,Medium
+TKT00983,Sales,Low
+TKT00984,Product Feedback,Low
+TKT00985,Account Management,Medium
+TKT00986,Product Feedback,Medium
+TKT00987,Product Feedback,Low
+TKT00988,Sales,High
+TKT00989,Technical Support,Medium
+TKT00990,Technical Support,Low
+TKT00991,Product Feedback,Medium
+TKT00992,Billing,Low
+TKT00993,Account Management,Medium
+TKT00994,Account Management,Low
+TKT00995,Account Management,Medium
+TKT00996,Product Feedback,Low
+TKT00997,Technical Support,Medium
+TKT00998,Billing,Medium
+TKT00999,Product Feedback,Low
+TKT01000,Account Management,Low
+TKT01001,Billing,Low
+TKT01002,Product Feedback,Medium
+TKT01003,Technical Support,Low
+TKT01004,Billing,Medium
+TKT01005,Technical Support,Low
+TKT01006,Billing,Low
+TKT01007,Technical Support,Low
+TKT01008,Product Feedback,Low
+TKT01009,Technical Support,Medium
+TKT01010,Account Management,Medium
+TKT01011,Sales,Medium
+TKT01012,Technical Support,High
+TKT01013,Billing,Low
+TKT01014,Product Feedback,High
+TKT01015,Account Management,Low
+TKT01016,Billing,High
+TKT01017,Technical Support,Low
+TKT01018,Sales,Low
+TKT01019,Product Feedback,Low
+TKT01020,Product Feedback,Medium
+TKT01021,Account Management,Low
+TKT01022,Account Management,Medium
+TKT01023,Account Management,Low
+TKT01024,Product Feedback,Medium
+TKT01025,Account Management,Medium
+TKT01026,Sales,Low
+TKT01027,Product Feedback,Low
+TKT01028,Account Management,Medium
+TKT01029,Product Feedback,Low
+TKT01030,Billing,Medium
+TKT01031,Account Management,Medium
+TKT01032,Account Management,Low
+TKT01033,Product Feedback,Low
+TKT01034,Product Feedback,High
+TKT01035,Billing,Medium
+TKT01036,Sales,Low
+TKT01037,Billing,Medium
+TKT01038,Account Management,Medium
+TKT01039,Technical Support,Low
+TKT01040,Account Management,Low
+TKT01041,Sales,Low
+TKT01042,Sales,Medium
+TKT01043,Billing,Low
+TKT01044,Account Management,Low
+TKT01045,Product Feedback,Low
+TKT01046,Billing,High
+TKT01047,Account Management,Low
+TKT01048,Product Feedback,Medium
+TKT01049,Billing,Medium
+TKT01050,Technical Support,Medium
+TKT01051,Billing,High
+TKT01052,Sales,High
+TKT01053,Account Management,Low
+TKT01054,Technical Support,Medium
+TKT01055,Billing,High
+TKT01056,Sales,Medium
+TKT01057,Sales,Medium
+TKT01058,Technical Support,Low
+TKT01059,Sales,Medium
+TKT01060,Product Feedback,Medium
+TKT01061,Account Management,Low
+TKT01062,Account Management,Low
+TKT01063,Technical Support,Low
+TKT01064,Product Feedback,Medium
+TKT01065,Technical Support,Medium
+TKT01066,Technical Support,Medium
+TKT01067,Sales,Medium
+TKT01068,Account Management,Low
+TKT01069,Sales,High
+TKT01070,Billing,Medium
+TKT01071,Technical Support,High
+TKT01072,Product Feedback,High
+TKT01073,Technical Support,Low
+TKT01074,Sales,Medium
+TKT01075,Billing,Medium
+TKT01076,Billing,Low
+TKT01077,Account Management,Medium
+TKT01078,Product Feedback,Low
+TKT01079,Account Management,Low
+TKT01080,Billing,Medium
+TKT01081,Product Feedback,Low
+TKT01082,Account Management,High
+TKT01083,Technical Support,Low
+TKT01084,Account Management,Low
+TKT01085,Product Feedback,Low
+TKT01086,Product Feedback,Medium
+TKT01087,Sales,Low
+TKT01088,Technical Support,Low
+TKT01089,Technical Support,Medium
+TKT01090,Account Management,Medium
+TKT01091,Technical Support,Low
+TKT01092,Account Management,Medium
+TKT01093,Technical Support,Medium
+TKT01094,Technical Support,High
+TKT01095,Technical Support,Medium
+TKT01096,Account Management,High
+TKT01097,Billing,Low
+TKT01098,Account Management,Low
+TKT01099,Account Management,High
+TKT01100,Account Management,Medium
+TKT01101,Product Feedback,Low
+TKT01102,Technical Support,Medium
+TKT01103,Sales,Medium
+TKT01104,Sales,Low
+TKT01105,Billing,Medium
+TKT01106,Technical Support,High
+TKT01107,Product Feedback,Low
+TKT01108,Technical Support,Medium
+TKT01109,Technical Support,Low
+TKT01110,Technical Support,High
+TKT01111,Sales,Medium
+TKT01112,Account Management,Low
+TKT01113,Product Feedback,Low
+TKT01114,Account Management,High
+TKT01115,Billing,Medium
+TKT01116,Sales,Medium
+TKT01117,Sales,Medium
+TKT01118,Billing,Medium
+TKT01119,Account Management,High
+TKT01120,Technical Support,Medium
+TKT01121,Billing,Medium
+TKT01122,Product Feedback,High
+TKT01123,Technical Support,Low
+TKT01124,Account Management,High
+TKT01125,Technical Support,Low
+TKT01126,Product Feedback,Low
+TKT01127,Product Feedback,High
+TKT01128,Sales,Medium
+TKT01129,Billing,Medium
+TKT01130,Technical Support,Low
+TKT01131,Product Feedback,Medium
+TKT01132,Billing,Low
+TKT01133,Account Management,Medium
+TKT01134,Account Management,Medium
+TKT01135,Technical Support,Low
+TKT01136,Billing,High
+TKT01137,Technical Support,Medium
+TKT01138,Account Management,Medium
+TKT01139,Product Feedback,Medium
+TKT01140,Account Management,Medium
+TKT01141,Product Feedback,Medium
+TKT01142,Sales,Low
+TKT01143,Account Management,Low
+TKT01144,Account Management,High
+TKT01145,Billing,Low
+TKT01146,Billing,High
+TKT01147,Product Feedback,Medium
+TKT01148,Technical Support,High
+TKT01149,Product Feedback,Medium
+TKT01150,Technical Support,Medium
+TKT01151,Technical Support,Low
+TKT01152,Billing,Low
+TKT01153,Billing,Medium
+TKT01154,Technical Support,Low
+TKT01155,Sales,Medium
+TKT01156,Billing,High
+TKT01157,Product Feedback,Medium
+TKT01158,Product Feedback,High
+TKT01159,Sales,High
+TKT01160,Technical Support,High
+TKT01161,Technical Support,Low
+TKT01162,Account Management,Low
+TKT01163,Account Management,Low
+TKT01164,Account Management,High
+TKT01165,Product Feedback,Low
+TKT01166,Product Feedback,Medium
+TKT01167,Account Management,Medium
+TKT01168,Account Management,Low
+TKT01169,Sales,Medium
+TKT01170,Billing,Low
+TKT01171,Product Feedback,Medium
+TKT01172,Technical Support,High
+TKT01173,Sales,Medium
+TKT01174,Billing,Medium
+TKT01175,Billing,Medium
+TKT01176,Product Feedback,Medium
+TKT01177,Product Feedback,Low
+TKT01178,Product Feedback,Medium
+TKT01179,Account Management,High
+TKT01180,Technical Support,Medium
+TKT01181,Sales,Low
+TKT01182,Product Feedback,High
+TKT01183,Sales,Low
+TKT01184,Technical Support,Medium
+TKT01185,Technical Support,Medium
+TKT01186,Sales,High
+TKT01187,Product Feedback,High
+TKT01188,Account Management,Medium
+TKT01189,Sales,Low
+TKT01190,Technical Support,Medium
+TKT01191,Account Management,Medium
+TKT01192,Billing,Low
+TKT01193,Account Management,High
+TKT01194,Billing,High
+TKT01195,Billing,Medium
+TKT01196,Product Feedback,Low
+TKT01197,Account Management,Low
+TKT01198,Technical Support,Medium
+TKT01199,Sales,High
+TKT01200,Product Feedback,Low
+TKT01201,Technical Support,Medium
+TKT01202,Product Feedback,Medium
+TKT01203,Product Feedback,Medium
+TKT01204,Account Management,Medium
+TKT01205,Account Management,Medium
+TKT01206,Billing,High
+TKT01207,Technical Support,Medium
+TKT01208,Account Management,Low
+TKT01209,Sales,Low
+TKT01210,Technical Support,Medium
+TKT01211,Billing,High
+TKT01212,Account Management,High
+TKT01213,Sales,High
+TKT01214,Account Management,Low
+TKT01215,Technical Support,Medium
+TKT01216,Account Management,Low
+TKT01217,Account Management,Low
+TKT01218,Product Feedback,Low
+TKT01219,Account Management,Medium
+TKT01220,Billing,Low
+TKT01221,Product Feedback,Low
+TKT01222,Technical Support,Low
+TKT01223,Account Management,Low
+TKT01224,Billing,Medium
+TKT01225,Account Management,High
+TKT01226,Sales,High
+TKT01227,Product Feedback,Medium
+TKT01228,Product Feedback,High
+TKT01229,Product Feedback,Medium
+TKT01230,Billing,Medium
+TKT01231,Sales,Low
+TKT01232,Sales,Medium
+TKT01233,Billing,High
+TKT01234,Account Management,Medium
+TKT01235,Sales,Low
+TKT01236,Sales,High
+TKT01237,Sales,Low
+TKT01238,Sales,Low
+TKT01239,Technical Support,Low
+TKT01240,Account Management,High
+TKT01241,Account Management,High
+TKT01242,Product Feedback,Medium
+TKT01243,Sales,Low
+TKT01244,Account Management,Medium
+TKT01245,Billing,Low
+TKT01246,Sales,Low
+TKT01247,Account Management,Low
+TKT01248,Sales,High
+TKT01249,Technical Support,High
+TKT01250,Billing,Medium
+TKT01251,Technical Support,High
+TKT01252,Account Management,Low
+TKT01253,Product Feedback,Low
+TKT01254,Technical Support,Medium
+TKT01255,Technical Support,Medium
+TKT01256,Technical Support,Low
+TKT01257,Billing,Medium
+TKT01258,Technical Support,Medium
+TKT01259,Technical Support,Low
+TKT01260,Technical Support,Medium
+TKT01261,Sales,High
+TKT01262,Product Feedback,Low
+TKT01263,Billing,High
+TKT01264,Account Management,Low
+TKT01265,Technical Support,Medium
+TKT01266,Sales,Low
+TKT01267,Sales,Medium
+TKT01268,Account Management,Low
+TKT01269,Account Management,Low
+TKT01270,Billing,Low
+TKT01271,Product Feedback,Medium
+TKT01272,Product Feedback,Medium
+TKT01273,Product Feedback,Low
+TKT01274,Product Feedback,Medium
+TKT01275,Product Feedback,High
+TKT01276,Product Feedback,Medium
+TKT01277,Product Feedback,Low
+TKT01278,Billing,Low
+TKT01279,Product Feedback,Low
+TKT01280,Account Management,Low
+TKT01281,Product Feedback,Low
+TKT01282,Product Feedback,High
+TKT01283,Account Management,Medium
+TKT01284,Account Management,Low
+TKT01285,Sales,Low
+TKT01286,Product Feedback,Low
+TKT01287,Account Management,High
+TKT01288,Product Feedback,Low
+TKT01289,Account Management,Medium
+TKT01290,Account Management,Low
+TKT01291,Account Management,Low
+TKT01292,Billing,Medium
+TKT01293,Product Feedback,High
+TKT01294,Product Feedback,High
+TKT01295,Product Feedback,Low
+TKT01296,Product Feedback,Medium
+TKT01297,Technical Support,Low
+TKT01298,Account Management,Medium
+TKT01299,Product Feedback,Medium
+TKT01300,Product Feedback,Low
+TKT01301,Sales,Medium
+TKT01302,Account Management,High
+TKT01303,Sales,Low
+TKT01304,Billing,Low
+TKT01305,Technical Support,Low
+TKT01306,Product Feedback,Low
+TKT01307,Account Management,Low
+TKT01308,Technical Support,Low
+TKT01309,Billing,Low
+TKT01310,Billing,Low
+TKT01311,Sales,High
+TKT01312,Account Management,Low
+TKT01313,Billing,Medium
+TKT01314,Billing,Low
+TKT01315,Billing,High
+TKT01316,Sales,Low
+TKT01317,Sales,Medium
+TKT01318,Account Management,Medium
+TKT01319,Account Management,Medium
+TKT01320,Technical Support,High
+TKT01321,Sales,Medium
+TKT01322,Billing,Low
+TKT01323,Technical Support,Medium
+TKT01324,Product Feedback,Low
+TKT01325,Billing,Low
+TKT01326,Product Feedback,High
+TKT01327,Product Feedback,Medium
+TKT01328,Technical Support,Medium
+TKT01329,Technical Support,Low
+TKT01330,Product Feedback,Medium
+TKT01331,Sales,Low
+TKT01332,Technical Support,Medium
+TKT01333,Technical Support,High
+TKT01334,Sales,Medium
+TKT01335,Sales,Low
+TKT01336,Technical Support,High
+TKT01337,Product Feedback,Medium
+TKT01338,Billing,Medium
+TKT01339,Product Feedback,Low
+TKT01340,Billing,Low
+TKT01341,Billing,Medium
+TKT01342,Sales,Low
+TKT01343,Sales,Medium
+TKT01344,Account Management,Low
+TKT01345,Product Feedback,Low
+TKT01346,Product Feedback,Medium
+TKT01347,Product Feedback,Low
+TKT01348,Technical Support,High
+TKT01349,Product Feedback,Medium
+TKT01350,Sales,Low
+TKT01351,Technical Support,Low
+TKT01352,Account Management,Low
+TKT01353,Product Feedback,Medium
+TKT01354,Billing,Medium
+TKT01355,Product Feedback,Medium
+TKT01356,Account Management,Medium
+TKT01357,Sales,Medium
+TKT01358,Technical Support,Medium
+TKT01359,Technical Support,Medium
+TKT01360,Technical Support,Low
+TKT01361,Technical Support,Low
+TKT01362,Billing,Medium
+TKT01363,Sales,Low
+TKT01364,Sales,Medium
+TKT01365,Sales,Low
+TKT01366,Billing,Medium
+TKT01367,Sales,Low
+TKT01368,Technical Support,Low
+TKT01369,Sales,Medium
+TKT01370,Sales,Medium
+TKT01371,Product Feedback,Medium
+TKT01372,Sales,Low
+TKT01373,Technical Support,High
+TKT01374,Account Management,Medium
+TKT01375,Billing,High
+TKT01376,Product Feedback,Low
+TKT01377,Technical Support,High
+TKT01378,Billing,Low
+TKT01379,Technical Support,High
+TKT01380,Sales,Low
+TKT01381,Billing,Medium
+TKT01382,Product Feedback,Medium
+TKT01383,Account Management,High
+TKT01384,Product Feedback,Low
+TKT01385,Product Feedback,Low
+TKT01386,Account Management,High
+TKT01387,Sales,High
+TKT01388,Account Management,Medium
+TKT01389,Product Feedback,Medium
+TKT01390,Technical Support,Low
+TKT01391,Account Management,Medium
+TKT01392,Account Management,Medium
+TKT01393,Account Management,Low
+TKT01394,Technical Support,Low
+TKT01395,Sales,Low
+TKT01396,Account Management,Medium
+TKT01397,Account Management,Low
+TKT01398,Billing,Medium
+TKT01399,Sales,Low
+TKT01400,Account Management,Low
+TKT01401,Product Feedback,Low
+TKT01402,Billing,Medium
+TKT01403,Sales,Low
+TKT01404,Product Feedback,Medium
+TKT01405,Billing,Medium
+TKT01406,Account Management,Low
+TKT01407,Billing,Medium
+TKT01408,Technical Support,Low
+TKT01409,Sales,Medium
+TKT01410,Account Management,High
+TKT01411,Billing,Low
+TKT01412,Account Management,Low
+TKT01413,Billing,Low
+TKT01414,Account Management,High
+TKT01415,Sales,Medium
+TKT01416,Technical Support,Medium
+TKT01417,Billing,High
+TKT01418,Sales,High
+TKT01419,Technical Support,Low
+TKT01420,Account Management,Medium
+TKT01421,Account Management,Medium
+TKT01422,Account Management,Low
+TKT01423,Product Feedback,Medium
+TKT01424,Product Feedback,Medium
+TKT01425,Technical Support,Low
+TKT01426,Technical Support,Medium
+TKT01427,Account Management,High
+TKT01428,Product Feedback,Low
+TKT01429,Account Management,Low
+TKT01430,Billing,Medium
+TKT01431,Billing,High
+TKT01432,Sales,Low
+TKT01433,Billing,Low
+TKT01434,Sales,High
+TKT01435,Product Feedback,Medium
+TKT01436,Product Feedback,Medium
+TKT01437,Product Feedback,Low
+TKT01438,Account Management,Low
+TKT01439,Technical Support,Medium
+TKT01440,Account Management,Low
+TKT01441,Technical Support,High
+TKT01442,Technical Support,Medium
+TKT01443,Product Feedback,Low
+TKT01444,Billing,Low
+TKT01445,Sales,Low
+TKT01446,Sales,Medium
+TKT01447,Account Management,High
+TKT01448,Product Feedback,Low
+TKT01449,Product Feedback,Low
+TKT01450,Product Feedback,Medium
+TKT01451,Product Feedback,Low
+TKT01452,Account Management,Medium
+TKT01453,Product Feedback,Medium
+TKT01454,Technical Support,Medium
+TKT01455,Technical Support,Medium
+TKT01456,Technical Support,Low
+TKT01457,Product Feedback,High
+TKT01458,Billing,Medium
+TKT01459,Product Feedback,Medium
+TKT01460,Billing,High
+TKT01461,Account Management,High
+TKT01462,Billing,High
+TKT01463,Product Feedback,Medium
+TKT01464,Billing,Low
+TKT01465,Billing,High
+TKT01466,Billing,Low
+TKT01467,Sales,Medium
+TKT01468,Billing,High
+TKT01469,Product Feedback,Low
+TKT01470,Sales,Low
+TKT01471,Billing,High
+TKT01472,Sales,Medium
+TKT01473,Product Feedback,Low
+TKT01474,Technical Support,Medium
+TKT01475,Sales,Medium
+TKT01476,Account Management,Medium
+TKT01477,Account Management,Medium
+TKT01478,Account Management,Low
+TKT01479,Product Feedback,Low
+TKT01480,Account Management,Low
+TKT01481,Billing,Low
+TKT01482,Billing,Low
+TKT01483,Sales,Medium
+TKT01484,Sales,Low
+TKT01485,Account Management,Low
+TKT01486,Technical Support,High
+TKT01487,Product Feedback,Medium
+TKT01488,Billing,Low
+TKT01489,Account Management,Medium
+TKT01490,Product Feedback,Medium
+TKT01491,Account Management,Low
+TKT01492,Account Management,Low
+TKT01493,Account Management,Low
+TKT01494,Account Management,Medium
+TKT01495,Technical Support,Low
+TKT01496,Technical Support,Low
+TKT01497,Sales,High
+TKT01498,Account Management,Low
+TKT01499,Product Feedback,Medium
+TKT01500,Sales,Low
+TKT01501,Technical Support,Medium
+TKT01502,Technical Support,Low
+TKT01503,Product Feedback,Low
+TKT01504,Sales,High
+TKT01505,Sales,Medium
+TKT01506,Technical Support,Low
+TKT01507,Product Feedback,High
+TKT01508,Billing,Low
+TKT01509,Product Feedback,High
+TKT01510,Billing,Medium
+TKT01511,Technical Support,Low
+TKT01512,Account Management,Medium
+TKT01513,Billing,High
+TKT01514,Billing,High
+TKT01515,Sales,Medium
+TKT01516,Product Feedback,Low
+TKT01517,Technical Support,Low
+TKT01518,Product Feedback,Low
+TKT01519,Product Feedback,High
+TKT01520,Sales,High
+TKT01521,Account Management,Medium
+TKT01522,Account Management,Medium
+TKT01523,Account Management,Low
+TKT01524,Product Feedback,Low
+TKT01525,Sales,Low
+TKT01526,Technical Support,High
+TKT01527,Technical Support,Medium
+TKT01528,Account Management,High
+TKT01529,Technical Support,Low
+TKT01530,Product Feedback,Medium
+TKT01531,Sales,Medium
+TKT01532,Technical Support,Medium
+TKT01533,Product Feedback,Medium
+TKT01534,Technical Support,High
+TKT01535,Account Management,Low
+TKT01536,Technical Support,Medium
+TKT01537,Account Management,Medium
+TKT01538,Account Management,Low
+TKT01539,Account Management,High
+TKT01540,Account Management,Low
+TKT01541,Billing,Medium
+TKT01542,Technical Support,High
+TKT01543,Technical Support,High
+TKT01544,Product Feedback,Low
+TKT01545,Billing,Medium
+TKT01546,Account Management,High
+TKT01547,Sales,Low
+TKT01548,Billing,Low
+TKT01549,Technical Support,Low
+TKT01550,Technical Support,High
+TKT01551,Account Management,Medium
+TKT01552,Product Feedback,Medium
+TKT01553,Billing,Medium
+TKT01554,Sales,Medium
+TKT01555,Product Feedback,Low
+TKT01556,Technical Support,Low
+TKT01557,Billing,High
+TKT01558,Billing,Low
+TKT01559,Technical Support,Low
+TKT01560,Billing,Low
+TKT01561,Technical Support,Low
+TKT01562,Product Feedback,Low
+TKT01563,Product Feedback,Low
+TKT01564,Technical Support,Low
+TKT01565,Product Feedback,High
+TKT01566,Product Feedback,Low
+TKT01567,Sales,Low
+TKT01568,Sales,Medium
+TKT01569,Product Feedback,Low
+TKT01570,Account Management,Low
+TKT01571,Technical Support,High
+TKT01572,Billing,Low
+TKT01573,Technical Support,Medium
+TKT01574,Product Feedback,Low
+TKT01575,Technical Support,Low
+TKT01576,Product Feedback,High
+TKT01577,Product Feedback,Low
+TKT01578,Technical Support,Low
+TKT01579,Product Feedback,Low
+TKT01580,Product Feedback,Medium
+TKT01581,Sales,High
+TKT01582,Technical Support,High
+TKT01583,Billing,Medium
+TKT01584,Sales,High
+TKT01585,Technical Support,Low
+TKT01586,Account Management,Medium
+TKT01587,Account Management,Medium
+TKT01588,Technical Support,Low
+TKT01589,Technical Support,High
+TKT01590,Billing,High
+TKT01591,Product Feedback,Low
+TKT01592,Sales,Low
+TKT01593,Sales,Medium
+TKT01594,Billing,Low
+TKT01595,Technical Support,Medium
+TKT01596,Product Feedback,Medium
+TKT01597,Billing,Medium
+TKT01598,Billing,Low
+TKT01599,Sales,Medium
+TKT01600,Account Management,High
+TKT01601,Billing,High
+TKT01602,Billing,Low
+TKT01603,Product Feedback,Low
+TKT01604,Technical Support,Medium
+TKT01605,Account Management,High
+TKT01606,Billing,Medium
+TKT01607,Technical Support,Medium
+TKT01608,Product Feedback,High
+TKT01609,Sales,Medium
+TKT01610,Product Feedback,Low
+TKT01611,Technical Support,Low
+TKT01612,Sales,High
+TKT01613,Sales,High
+TKT01614,Billing,Low
+TKT01615,Billing,Medium
+TKT01616,Product Feedback,Medium
+TKT01617,Technical Support,Low
+TKT01618,Technical Support,Medium
+TKT01619,Billing,Low
+TKT01620,Technical Support,Low
+TKT01621,Account Management,Low
+TKT01622,Technical Support,High
+TKT01623,Product Feedback,Medium
+TKT01624,Sales,Medium
+TKT01625,Technical Support,High
+TKT01626,Technical Support,Low
+TKT01627,Sales,Medium
+TKT01628,Sales,High
+TKT01629,Product Feedback,Medium
+TKT01630,Technical Support,High
+TKT01631,Product Feedback,High
+TKT01632,Technical Support,Low
+TKT01633,Account Management,High
+TKT01634,Billing,Low
+TKT01635,Product Feedback,Medium
+TKT01636,Product Feedback,Low
+TKT01637,Technical Support,Medium
+TKT01638,Technical Support,Medium
+TKT01639,Billing,Low
+TKT01640,Account Management,Low
+TKT01641,Billing,Medium
+TKT01642,Account Management,High
+TKT01643,Technical Support,High
+TKT01644,Sales,High
+TKT01645,Technical Support,Low
+TKT01646,Billing,Low
+TKT01647,Sales,Low
+TKT01648,Product Feedback,Medium
+TKT01649,Product Feedback,High
+TKT01650,Product Feedback,High
+TKT01651,Sales,High
+TKT01652,Sales,Low
+TKT01653,Account Management,Low
+TKT01654,Account Management,High
+TKT01655,Billing,Low
+TKT01656,Sales,High
+TKT01657,Product Feedback,High
+TKT01658,Product Feedback,Medium
+TKT01659,Billing,Low
+TKT01660,Account Management,Medium
+TKT01661,Technical Support,High
+TKT01662,Account Management,Medium
+TKT01663,Sales,Low
+TKT01664,Billing,High
+TKT01665,Billing,Medium
+TKT01666,Technical Support,Low
+TKT01667,Product Feedback,Low
+TKT01668,Sales,Low
+TKT01669,Product Feedback,Medium
+TKT01670,Sales,Low
+TKT01671,Billing,Medium
+TKT01672,Product Feedback,Medium
+TKT01673,Sales,Medium
+TKT01674,Billing,High
+TKT01675,Account Management,Low
+TKT01676,Billing,Medium
+TKT01677,Account Management,Low
+TKT01678,Account Management,Medium
+TKT01679,Product Feedback,Low
+TKT01680,Billing,Medium
+TKT01681,Sales,Medium
+TKT01682,Product Feedback,Medium
+TKT01683,Technical Support,High
+TKT01684,Account Management,Medium
+TKT01685,Sales,Low
+TKT01686,Billing,Low
+TKT01687,Account Management,Low
+TKT01688,Billing,High
+TKT01689,Account Management,Low
+TKT01690,Technical Support,Low
+TKT01691,Account Management,Medium
+TKT01692,Account Management,High
+TKT01693,Product Feedback,High
+TKT01694,Technical Support,High
+TKT01695,Product Feedback,Low
+TKT01696,Account Management,Low
+TKT01697,Billing,Low
+TKT01698,Product Feedback,Low
+TKT01699,Sales,Low
+TKT01700,Sales,Low
+TKT01701,Technical Support,Medium
+TKT01702,Technical Support,Medium
+TKT01703,Sales,High
+TKT01704,Billing,Medium
+TKT01705,Product Feedback,Low
+TKT01706,Account Management,High
+TKT01707,Technical Support,High
+TKT01708,Technical Support,Medium
+TKT01709,Account Management,Low
+TKT01710,Account Management,Medium
+TKT01711,Product Feedback,Low
+TKT01712,Product Feedback,Medium
+TKT01713,Sales,Low
+TKT01714,Account Management,Medium
+TKT01715,Account Management,Medium
+TKT01716,Billing,Low
+TKT01717,Technical Support,Medium
+TKT01718,Account Management,Low
+TKT01719,Technical Support,Low
+TKT01720,Technical Support,Medium
+TKT01721,Account Management,Low
+TKT01722,Account Management,Low
+TKT01723,Account Management,High
+TKT01724,Billing,High
+TKT01725,Account Management,Low
+TKT01726,Technical Support,Low
+TKT01727,Technical Support,Low
+TKT01728,Sales,Low
+TKT01729,Account Management,Low
+TKT01730,Sales,Low
+TKT01731,Account Management,Low
+TKT01732,Billing,Low
+TKT01733,Billing,Medium
+TKT01734,Billing,Medium
+TKT01735,Technical Support,High
+TKT01736,Technical Support,Low
+TKT01737,Sales,Low
+TKT01738,Billing,Medium
+TKT01739,Technical Support,Medium
+TKT01740,Sales,Low
+TKT01741,Account Management,Medium
+TKT01742,Billing,Low
+TKT01743,Technical Support,Low
+TKT01744,Product Feedback,Medium
+TKT01745,Technical Support,Medium
+TKT01746,Billing,Low
+TKT01747,Sales,Medium
+TKT01748,Technical Support,Low
+TKT01749,Product Feedback,Low
+TKT01750,Product Feedback,Low
+TKT01751,Billing,Medium
+TKT01752,Product Feedback,High
+TKT01753,Product Feedback,Low
+TKT01754,Sales,Medium
+TKT01755,Product Feedback,Low
+TKT01756,Product Feedback,Low
+TKT01757,Technical Support,Medium
+TKT01758,Product Feedback,Low
+TKT01759,Product Feedback,Low
+TKT01760,Account Management,High
+TKT01761,Account Management,Low
+TKT01762,Billing,Medium
+TKT01763,Technical Support,Low
+TKT01764,Product Feedback,Low
+TKT01765,Billing,Low
+TKT01766,Product Feedback,Medium
+TKT01767,Product Feedback,Low
+TKT01768,Product Feedback,Low
+TKT01769,Technical Support,Medium
+TKT01770,Billing,High
+TKT01771,Sales,Low
+TKT01772,Sales,Medium
+TKT01773,Product Feedback,Low
+TKT01774,Product Feedback,Low
+TKT01775,Account Management,Medium
+TKT01776,Billing,Low
+TKT01777,Billing,Medium
+TKT01778,Account Management,Low
+TKT01779,Product Feedback,Medium
+TKT01780,Sales,Low
+TKT01781,Billing,High
+TKT01782,Account Management,Medium
+TKT01783,Billing,Medium
+TKT01784,Sales,Medium
+TKT01785,Sales,Low
+TKT01786,Billing,Low
+TKT01787,Technical Support,Low
+TKT01788,Account Management,High
+TKT01789,Technical Support,Medium
+TKT01790,Billing,Low
+TKT01791,Account Management,High
+TKT01792,Sales,Medium
+TKT01793,Sales,Low
+TKT01794,Technical Support,Low
+TKT01795,Technical Support,Medium
+TKT01796,Account Management,Medium
+TKT01797,Account Management,Low
+TKT01798,Sales,Low
+TKT01799,Technical Support,Medium
+TKT01800,Sales,Low
+TKT01801,Billing,Low
+TKT01802,Product Feedback,Low
+TKT01803,Product Feedback,Low
+TKT01804,Sales,Medium
+TKT01805,Product Feedback,High
+TKT01806,Billing,Low
+TKT01807,Account Management,Medium
+TKT01808,Account Management,Medium
+TKT01809,Account Management,High
+TKT01810,Sales,Medium
+TKT01811,Account Management,Medium
+TKT01812,Sales,Low
+TKT01813,Product Feedback,Medium
+TKT01814,Billing,Medium
+TKT01815,Account Management,Medium
+TKT01816,Account Management,Low
+TKT01817,Technical Support,Low
+TKT01818,Sales,High
+TKT01819,Sales,Medium
+TKT01820,Account Management,High
+TKT01821,Sales,Low
+TKT01822,Account Management,Medium
+TKT01823,Billing,Medium
+TKT01824,Account Management,Medium
+TKT01825,Technical Support,High
+TKT01826,Technical Support,Low
+TKT01827,Billing,Low
+TKT01828,Product Feedback,Medium
+TKT01829,Product Feedback,Low
+TKT01830,Product Feedback,Low
+TKT01831,Account Management,Low
+TKT01832,Technical Support,Low
+TKT01833,Sales,High
+TKT01834,Billing,Medium
+TKT01835,Product Feedback,Low
+TKT01836,Billing,High
+TKT01837,Technical Support,Medium
+TKT01838,Billing,Low
+TKT01839,Account Management,Low
+TKT01840,Billing,Medium
+TKT01841,Product Feedback,Low
+TKT01842,Technical Support,Low
+TKT01843,Account Management,Medium
+TKT01844,Sales,High
+TKT01845,Account Management,Low
+TKT01846,Account Management,Medium
+TKT01847,Sales,High
+TKT01848,Technical Support,High
+TKT01849,Sales,Medium
+TKT01850,Product Feedback,Low
+TKT01851,Billing,Low
+TKT01852,Account Management,Low
+TKT01853,Account Management,Medium
+TKT01854,Product Feedback,High
+TKT01855,Product Feedback,Low
+TKT01856,Account Management,Medium
+TKT01857,Technical Support,Low
+TKT01858,Technical Support,High
+TKT01859,Technical Support,High
+TKT01860,Product Feedback,Low
+TKT01861,Account Management,High
+TKT01862,Billing,High
+TKT01863,Account Management,Medium
+TKT01864,Product Feedback,High
+TKT01865,Account Management,High
+TKT01866,Account Management,High
+TKT01867,Technical Support,High
+TKT01868,Sales,Medium
+TKT01869,Account Management,Low
+TKT01870,Product Feedback,High
+TKT01871,Billing,Medium
+TKT01872,Product Feedback,Medium
+TKT01873,Billing,Medium
+TKT01874,Billing,High
+TKT01875,Product Feedback,Medium
+TKT01876,Account Management,Medium
+TKT01877,Sales,Low
+TKT01878,Account Management,Medium
+TKT01879,Account Management,Low
+TKT01880,Sales,High
+TKT01881,Product Feedback,High
+TKT01882,Account Management,Low
+TKT01883,Product Feedback,Low
+TKT01884,Technical Support,Low
+TKT01885,Billing,Medium
+TKT01886,Account Management,High
+TKT01887,Product Feedback,Low
+TKT01888,Technical Support,Low
+TKT01889,Billing,Medium
+TKT01890,Account Management,Low
+TKT01891,Account Management,High
+TKT01892,Account Management,Low
+TKT01893,Account Management,Medium
+TKT01894,Billing,High
+TKT01895,Technical Support,Low
+TKT01896,Product Feedback,High
+TKT01897,Account Management,Low
+TKT01898,Technical Support,Low
+TKT01899,Billing,Medium
+TKT01900,Sales,Low
+TKT01901,Technical Support,High
+TKT01902,Billing,Medium
+TKT01903,Sales,Medium
+TKT01904,Technical Support,High
+TKT01905,Billing,Low
+TKT01906,Product Feedback,High
+TKT01907,Account Management,Medium
+TKT01908,Product Feedback,Low
+TKT01909,Technical Support,Medium
+TKT01910,Technical Support,Medium
+TKT01911,Technical Support,Low
+TKT01912,Sales,Medium
+TKT01913,Product Feedback,Medium
+TKT01914,Technical Support,Medium
+TKT01915,Technical Support,Low
+TKT01916,Account Management,Low
+TKT01917,Product Feedback,Low
+TKT01918,Billing,Low
+TKT01919,Account Management,High
+TKT01920,Sales,Low
+TKT01921,Product Feedback,Medium
+TKT01922,Account Management,High
+TKT01923,Account Management,Low
+TKT01924,Account Management,High
+TKT01925,Sales,Low
+TKT01926,Product Feedback,Medium
+TKT01927,Technical Support,Low
+TKT01928,Product Feedback,Low
+TKT01929,Technical Support,Low
+TKT01930,Sales,Low
+TKT01931,Sales,Low
+TKT01932,Technical Support,Medium
+TKT01933,Technical Support,Medium
+TKT01934,Billing,Medium
+TKT01935,Billing,High
+TKT01936,Account Management,Low
+TKT01937,Billing,Low
+TKT01938,Technical Support,Low
+TKT01939,Sales,High
+TKT01940,Product Feedback,Low
+TKT01941,Technical Support,Medium
+TKT01942,Billing,Medium
+TKT01943,Product Feedback,Low
+TKT01944,Sales,Low
+TKT01945,Billing,Low
+TKT01946,Product Feedback,Low
+TKT01947,Technical Support,High
+TKT01948,Sales,Medium
+TKT01949,Billing,Medium
+TKT01950,Product Feedback,Low
+TKT01951,Sales,Low
+TKT01952,Technical Support,Medium
+TKT01953,Account Management,High
+TKT01954,Sales,Medium
+TKT01955,Billing,Medium
+TKT01956,Sales,Low
+TKT01957,Product Feedback,High
+TKT01958,Sales,High
+TKT01959,Technical Support,Low
+TKT01960,Product Feedback,Medium
+TKT01961,Technical Support,High
+TKT01962,Technical Support,Medium
+TKT01963,Account Management,Medium
+TKT01964,Billing,Medium
+TKT01965,Billing,High
+TKT01966,Account Management,Medium
+TKT01967,Product Feedback,Low
+TKT01968,Billing,Medium
+TKT01969,Technical Support,Medium
+TKT01970,Billing,Low
+TKT01971,Technical Support,Low
+TKT01972,Product Feedback,Low
+TKT01973,Product Feedback,Low
+TKT01974,Technical Support,Medium
+TKT01975,Billing,Low
+TKT01976,Product Feedback,Low
+TKT01977,Technical Support,Medium
+TKT01978,Sales,Low
+TKT01979,Account Management,Low
+TKT01980,Product Feedback,Medium
+TKT01981,Product Feedback,High
+TKT01982,Account Management,Low
+TKT01983,Account Management,Medium
+TKT01984,Billing,Low
+TKT01985,Product Feedback,Medium
+TKT01986,Product Feedback,High
+TKT01987,Account Management,High
+TKT01988,Product Feedback,Low
+TKT01989,Billing,High
+TKT01990,Account Management,Low
+TKT01991,Account Management,Low
+TKT01992,Billing,Low
+TKT01993,Billing,Low
+TKT01994,Account Management,Medium
+TKT01995,Sales,Medium
+TKT01996,Account Management,Medium
+TKT01997,Billing,High
+TKT01998,Sales,Low
+TKT01999,Billing,Medium
+TKT02000,Technical Support,Low
+TKT02001,Sales,Medium
+TKT02002,Billing,Low
+TKT02003,Billing,High
+TKT02004,Account Management,Low
+TKT02005,Technical Support,Medium
+TKT02006,Product Feedback,High
+TKT02007,Sales,Medium
+TKT02008,Sales,Low
+TKT02009,Product Feedback,High
+TKT02010,Sales,High
+TKT02011,Technical Support,Medium
+TKT02012,Billing,High
+TKT02013,Billing,High
+TKT02014,Billing,Medium
+TKT02015,Sales,Low
+TKT02016,Product Feedback,Low
+TKT02017,Sales,Medium
+TKT02018,Technical Support,Medium
+TKT02019,Sales,Low
+TKT02020,Billing,Low
+TKT02021,Sales,Low
+TKT02022,Account Management,High
+TKT02023,Sales,Low
+TKT02024,Billing,Low
+TKT02025,Technical Support,Medium
+TKT02026,Sales,High
+TKT02027,Sales,High
+TKT02028,Account Management,High
+TKT02029,Product Feedback,Low
+TKT02030,Sales,Medium
+TKT02031,Billing,Medium
+TKT02032,Billing,Low
+TKT02033,Sales,Medium
+TKT02034,Account Management,Medium
+TKT02035,Technical Support,Medium
+TKT02036,Sales,Low
+TKT02037,Sales,Medium
+TKT02038,Billing,Low
+TKT02039,Account Management,High
+TKT02040,Product Feedback,Medium
+TKT02041,Product Feedback,Medium
+TKT02042,Billing,Medium
+TKT02043,Billing,Medium
+TKT02044,Sales,Medium
+TKT02045,Product Feedback,High
+TKT02046,Account Management,High
+TKT02047,Technical Support,Medium
+TKT02048,Sales,Low
+TKT02049,Account Management,Medium
+TKT02050,Product Feedback,Low
+TKT02051,Technical Support,High
+TKT02052,Product Feedback,Medium
+TKT02053,Technical Support,Medium
+TKT02054,Technical Support,Medium
+TKT02055,Technical Support,Medium
+TKT02056,Product Feedback,Medium
+TKT02057,Technical Support,High
+TKT02058,Product Feedback,Medium
+TKT02059,Billing,Low
+TKT02060,Product Feedback,Low
+TKT02061,Account Management,Low
+TKT02062,Sales,High
+TKT02063,Technical Support,Low
+TKT02064,Account Management,High
+TKT02065,Product Feedback,Low
+TKT02066,Product Feedback,Medium
+TKT02067,Technical Support,High
+TKT02068,Account Management,Low
+TKT02069,Technical Support,High
+TKT02070,Account Management,Low
+TKT02071,Technical Support,Low
+TKT02072,Technical Support,Low
+TKT02073,Billing,Medium
+TKT02074,Sales,Medium
+TKT02075,Account Management,Low
+TKT02076,Account Management,Medium
+TKT02077,Product Feedback,High
+TKT02078,Product Feedback,Medium
+TKT02079,Account Management,Medium
+TKT02080,Billing,High
+TKT02081,Product Feedback,Medium
+TKT02082,Billing,Medium
+TKT02083,Billing,Medium
+TKT02084,Billing,Low
+TKT02085,Product Feedback,Medium
+TKT02086,Account Management,Low
+TKT02087,Product Feedback,Low
+TKT02088,Technical Support,Low
+TKT02089,Sales,Low
+TKT02090,Product Feedback,Low
+TKT02091,Sales,Medium
+TKT02092,Product Feedback,Low
+TKT02093,Account Management,Low
+TKT02094,Product Feedback,Low
+TKT02095,Technical Support,Low
+TKT02096,Sales,Medium
+TKT02097,Sales,Low
+TKT02098,Product Feedback,High
+TKT02099,Billing,Medium
+TKT02100,Product Feedback,Low
+TKT02101,Product Feedback,Medium
+TKT02102,Product Feedback,Medium
+TKT02103,Account Management,Low
+TKT02104,Account Management,High
+TKT02105,Billing,Low
+TKT02106,Product Feedback,Low
+TKT02107,Account Management,Low
+TKT02108,Account Management,Low
+TKT02109,Account Management,Medium
+TKT02110,Product Feedback,Low
+TKT02111,Product Feedback,Low
+TKT02112,Billing,Medium
+TKT02113,Product Feedback,Medium
+TKT02114,Product Feedback,High
+TKT02115,Technical Support,Low
+TKT02116,Account Management,Low
+TKT02117,Product Feedback,High
+TKT02118,Sales,Medium
+TKT02119,Account Management,Low
+TKT02120,Product Feedback,High
+TKT02121,Product Feedback,Medium
+TKT02122,Technical Support,Medium
+TKT02123,Account Management,Low
+TKT02124,Billing,Low
+TKT02125,Technical Support,Low
+TKT02126,Account Management,High
+TKT02127,Sales,Low
+TKT02128,Sales,High
+TKT02129,Sales,Low
+TKT02130,Technical Support,High
+TKT02131,Billing,Medium
+TKT02132,Technical Support,High
+TKT02133,Sales,Low
+TKT02134,Sales,High
+TKT02135,Product Feedback,Low
+TKT02136,Technical Support,Low
+TKT02137,Technical Support,Medium
+TKT02138,Product Feedback,Low
+TKT02139,Sales,Low
+TKT02140,Sales,Medium
+TKT02141,Product Feedback,Medium
+TKT02142,Sales,Medium
+TKT02143,Technical Support,Low
+TKT02144,Billing,Medium
+TKT02145,Billing,High
+TKT02146,Technical Support,Medium
+TKT02147,Product Feedback,Medium
+TKT02148,Technical Support,Low
+TKT02149,Product Feedback,Medium
+TKT02150,Technical Support,Low
+TKT02151,Sales,High
+TKT02152,Product Feedback,High
+TKT02153,Account Management,Medium
+TKT02154,Product Feedback,High
+TKT02155,Account Management,Low
+TKT02156,Technical Support,Low
+TKT02157,Account Management,Low
+TKT02158,Sales,High
+TKT02159,Billing,Medium
+TKT02160,Technical Support,Medium
+TKT02161,Product Feedback,Low
+TKT02162,Sales,Low
+TKT02163,Product Feedback,Low
+TKT02164,Account Management,High
+TKT02165,Technical Support,Medium
+TKT02166,Technical Support,Low
+TKT02167,Sales,High
+TKT02168,Product Feedback,Low
+TKT02169,Billing,High
+TKT02170,Sales,Low
+TKT02171,Sales,Low
+TKT02172,Product Feedback,Low
+TKT02173,Sales,Medium
+TKT02174,Technical Support,Low
+TKT02175,Sales,High
+TKT02176,Technical Support,Medium
+TKT02177,Product Feedback,Medium
+TKT02178,Technical Support,Medium
+TKT02179,Technical Support,Medium
+TKT02180,Billing,Medium
+TKT02181,Product Feedback,High
+TKT02182,Sales,Medium
+TKT02183,Sales,Low
+TKT02184,Product Feedback,Medium
+TKT02185,Account Management,Low
+TKT02186,Account Management,High
+TKT02187,Product Feedback,Low
+TKT02188,Sales,Low
+TKT02189,Sales,Low
+TKT02190,Sales,Medium
+TKT02191,Technical Support,Low
+TKT02192,Product Feedback,Medium
+TKT02193,Billing,Low
+TKT02194,Technical Support,Medium
+TKT02195,Account Management,Low
+TKT02196,Sales,Medium
+TKT02197,Billing,Medium
+TKT02198,Product Feedback,Medium
+TKT02199,Technical Support,High
+TKT02200,Technical Support,Low
+TKT02201,Account Management,Low
+TKT02202,Technical Support,Low
+TKT02203,Product Feedback,Low
+TKT02204,Billing,Low
+TKT02205,Technical Support,Medium
+TKT02206,Product Feedback,Low
+TKT02207,Technical Support,Low
+TKT02208,Sales,Medium
+TKT02209,Product Feedback,High
+TKT02210,Sales,High
+TKT02211,Technical Support,Low
+TKT02212,Account Management,Low
+TKT02213,Product Feedback,High
+TKT02214,Technical Support,Medium
+TKT02215,Billing,Medium
+TKT02216,Technical Support,Low
+TKT02217,Sales,Medium
+TKT02218,Sales,Medium
+TKT02219,Sales,Low
+TKT02220,Product Feedback,Medium
+TKT02221,Billing,Medium
+TKT02222,Technical Support,High
+TKT02223,Technical Support,Medium
+TKT02224,Account Management,Medium
+TKT02225,Product Feedback,Medium
+TKT02226,Product Feedback,High
+TKT02227,Technical Support,Low
+TKT02228,Account Management,Low
+TKT02229,Product Feedback,Low
+TKT02230,Account Management,Medium
+TKT02231,Account Management,Medium
+TKT02232,Technical Support,High
+TKT02233,Account Management,High
+TKT02234,Sales,High
+TKT02235,Product Feedback,Low
+TKT02236,Account Management,Medium
+TKT02237,Sales,Medium
+TKT02238,Technical Support,Low
+TKT02239,Account Management,High
+TKT02240,Sales,Medium
+TKT02241,Billing,Medium
+TKT02242,Account Management,Low
+TKT02243,Sales,High
+TKT02244,Product Feedback,Low
+TKT02245,Billing,High
+TKT02246,Technical Support,Low
+TKT02247,Account Management,Low
+TKT02248,Billing,Low
+TKT02249,Product Feedback,Low
+TKT02250,Billing,High
+TKT02251,Account Management,Low
+TKT02252,Product Feedback,Medium
+TKT02253,Billing,Medium
+TKT02254,Product Feedback,Low
+TKT02255,Sales,Low
+TKT02256,Product Feedback,Low
+TKT02257,Account Management,Medium
+TKT02258,Billing,Low
+TKT02259,Sales,Medium
+TKT02260,Billing,Low
+TKT02261,Sales,Medium
+TKT02262,Technical Support,Medium
+TKT02263,Technical Support,Medium
+TKT02264,Sales,Medium
+TKT02265,Technical Support,Medium
+TKT02266,Product Feedback,Medium
+TKT02267,Billing,Low
+TKT02268,Product Feedback,Low
+TKT02269,Technical Support,Medium
+TKT02270,Product Feedback,Low
+TKT02271,Sales,Medium
+TKT02272,Billing,Medium
+TKT02273,Sales,Medium
+TKT02274,Account Management,High
+TKT02275,Billing,Medium
+TKT02276,Billing,Medium
+TKT02277,Sales,Low
+TKT02278,Technical Support,Low
+TKT02279,Account Management,High
+TKT02280,Product Feedback,Medium
+TKT02281,Billing,Medium
+TKT02282,Technical Support,High
+TKT02283,Account Management,Medium
+TKT02284,Product Feedback,Low
+TKT02285,Product Feedback,Low
+TKT02286,Sales,Medium
+TKT02287,Product Feedback,Medium
+TKT02288,Sales,Medium
+TKT02289,Product Feedback,Low
+TKT02290,Technical Support,High
+TKT02291,Technical Support,Low
+TKT02292,Account Management,High
+TKT02293,Account Management,Medium
+TKT02294,Technical Support,Medium
+TKT02295,Technical Support,Medium
+TKT02296,Technical Support,Medium
+TKT02297,Billing,Low
+TKT02298,Sales,Low
+TKT02299,Account Management,High
+TKT02300,Account Management,Medium
+TKT02301,Account Management,Medium
+TKT02302,Sales,Medium
+TKT02303,Technical Support,Medium
+TKT02304,Sales,Medium
+TKT02305,Account Management,High
+TKT02306,Account Management,Low
+TKT02307,Product Feedback,Low
+TKT02308,Billing,Low
+TKT02309,Account Management,Low
+TKT02310,Sales,Low
+TKT02311,Product Feedback,Medium
+TKT02312,Product Feedback,Low
+TKT02313,Sales,Medium
+TKT02314,Account Management,High
+TKT02315,Billing,Low
+TKT02316,Billing,Low
+TKT02317,Billing,Low
+TKT02318,Sales,Low
+TKT02319,Technical Support,Medium
+TKT02320,Sales,Low
+TKT02321,Product Feedback,Low
+TKT02322,Account Management,Medium
+TKT02323,Technical Support,Low
+TKT02324,Product Feedback,Medium
+TKT02325,Billing,High
+TKT02326,Account Management,Low
+TKT02327,Account Management,Medium
+TKT02328,Technical Support,Low
+TKT02329,Product Feedback,Medium
+TKT02330,Sales,Low
+TKT02331,Sales,High
+TKT02332,Technical Support,Low
+TKT02333,Billing,Low
+TKT02334,Account Management,Medium
+TKT02335,Account Management,High
+TKT02336,Technical Support,High
+TKT02337,Technical Support,High
+TKT02338,Product Feedback,High
+TKT02339,Product Feedback,High
+TKT02340,Billing,Medium
+TKT02341,Sales,Low
+TKT02342,Product Feedback,Low
+TKT02343,Sales,Medium
+TKT02344,Billing,Low
+TKT02345,Billing,High
+TKT02346,Product Feedback,Low
+TKT02347,Billing,Medium
+TKT02348,Product Feedback,Medium
+TKT02349,Account Management,Medium
+TKT02350,Product Feedback,Medium
+TKT02351,Account Management,Medium
+TKT02352,Account Management,Medium
+TKT02353,Product Feedback,Low
+TKT02354,Billing,High
+TKT02355,Technical Support,Low
+TKT02356,Sales,High
+TKT02357,Billing,Low
+TKT02358,Account Management,Low
+TKT02359,Billing,Low
+TKT02360,Product Feedback,High
+TKT02361,Sales,Medium
+TKT02362,Product Feedback,Low
+TKT02363,Sales,High
+TKT02364,Technical Support,Medium
+TKT02365,Sales,Medium
+TKT02366,Product Feedback,Medium
+TKT02367,Billing,Medium
+TKT02368,Account Management,High
+TKT02369,Account Management,Medium
+TKT02370,Product Feedback,High
+TKT02371,Billing,Medium
+TKT02372,Account Management,Low
+TKT02373,Technical Support,High
+TKT02374,Account Management,Medium
+TKT02375,Account Management,Low
+TKT02376,Account Management,Low
+TKT02377,Account Management,Medium
+TKT02378,Account Management,Low
+TKT02379,Product Feedback,Low
+TKT02380,Sales,Low
+TKT02381,Billing,Low
+TKT02382,Product Feedback,Low
+TKT02383,Billing,Low
+TKT02384,Product Feedback,High
+TKT02385,Sales,Medium
+TKT02386,Billing,Medium
+TKT02387,Product Feedback,Low
+TKT02388,Account Management,Low
+TKT02389,Sales,Low
+TKT02390,Billing,Medium
+TKT02391,Product Feedback,Medium
+TKT02392,Billing,Low
+TKT02393,Billing,Low
+TKT02394,Account Management,Low
+TKT02395,Sales,High
+TKT02396,Product Feedback,Low
+TKT02397,Technical Support,Low
+TKT02398,Technical Support,High
+TKT02399,Product Feedback,Medium
+TKT02400,Technical Support,High
+TKT02401,Billing,Low
+TKT02402,Sales,Medium
+TKT02403,Account Management,Medium
+TKT02404,Billing,Medium
+TKT02405,Technical Support,Low
+TKT02406,Account Management,Low
+TKT02407,Billing,Medium
+TKT02408,Product Feedback,Low
+TKT02409,Sales,High
+TKT02410,Account Management,Medium
+TKT02411,Account Management,Low
+TKT02412,Sales,High
+TKT02413,Product Feedback,Low
+TKT02414,Sales,Medium
+TKT02415,Account Management,High
+TKT02416,Billing,Medium
+TKT02417,Sales,Medium
+TKT02418,Account Management,Low
+TKT02419,Billing,High
+TKT02420,Billing,Low
+TKT02421,Technical Support,Medium
+TKT02422,Billing,Medium
+TKT02423,Sales,Medium
+TKT02424,Billing,Medium
+TKT02425,Product Feedback,Medium
+TKT02426,Account Management,Low
+TKT02427,Product Feedback,Low
+TKT02428,Account Management,Low
+TKT02429,Product Feedback,Medium
+TKT02430,Account Management,Low
+TKT02431,Sales,Medium
+TKT02432,Technical Support,Low
+TKT02433,Product Feedback,Low
+TKT02434,Sales,Low
+TKT02435,Sales,High
+TKT02436,Account Management,Medium
+TKT02437,Product Feedback,Low
+TKT02438,Sales,Medium
+TKT02439,Billing,Medium
+TKT02440,Billing,Medium
+TKT02441,Account Management,Medium
+TKT02442,Product Feedback,Low
+TKT02443,Sales,Low
+TKT02444,Technical Support,Low
+TKT02445,Technical Support,Medium
+TKT02446,Product Feedback,Medium
+TKT02447,Sales,Medium
+TKT02448,Sales,Medium
+TKT02449,Product Feedback,Low
+TKT02450,Technical Support,Low
+TKT02451,Technical Support,Low
+TKT02452,Product Feedback,Medium
+TKT02453,Sales,Low
+TKT02454,Sales,Medium
+TKT02455,Technical Support,Medium
+TKT02456,Sales,High
+TKT02457,Product Feedback,High
+TKT02458,Technical Support,Medium
+TKT02459,Product Feedback,High
+TKT02460,Sales,High
+TKT02461,Product Feedback,Low
+TKT02462,Billing,Medium
+TKT02463,Billing,Medium
+TKT02464,Technical Support,Medium
+TKT02465,Billing,High
+TKT02466,Billing,Medium
+TKT02467,Sales,Medium
+TKT02468,Account Management,Medium
+TKT02469,Product Feedback,Medium
+TKT02470,Account Management,High
+TKT02471,Technical Support,Medium
+TKT02472,Product Feedback,Medium
+TKT02473,Technical Support,Medium
+TKT02474,Technical Support,Medium
+TKT02475,Billing,Low
+TKT02476,Product Feedback,Medium
+TKT02477,Billing,Medium
+TKT02478,Technical Support,Low
+TKT02479,Product Feedback,Low
+TKT02480,Sales,High
+TKT02481,Technical Support,Low
+TKT02482,Sales,Medium
+TKT02483,Product Feedback,Low
+TKT02484,Product Feedback,Medium
+TKT02485,Product Feedback,Low
+TKT02486,Account Management,Low
+TKT02487,Technical Support,Medium
+TKT02488,Technical Support,High
+TKT02489,Billing,Low
+TKT02490,Technical Support,Low
+TKT02491,Product Feedback,Medium
+TKT02492,Billing,High
+TKT02493,Technical Support,Low
+TKT02494,Account Management,Medium
+TKT02495,Account Management,Low
+TKT02496,Sales,High
+TKT02497,Billing,Medium
+TKT02498,Account Management,High
+TKT02499,Billing,Medium
+TKT02500,Product Feedback,Medium
+TKT02501,Product Feedback,Low
+TKT02502,Technical Support,Medium
+TKT02503,Sales,Low
+TKT02504,Billing,High
+TKT02505,Product Feedback,Low
+TKT02506,Sales,Low
+TKT02507,Account Management,Low
+TKT02508,Product Feedback,Medium
+TKT02509,Technical Support,Low
+TKT02510,Product Feedback,Low
+TKT02511,Billing,Medium
+TKT02512,Billing,High
+TKT02513,Billing,Medium
+TKT02514,Product Feedback,Medium
+TKT02515,Account Management,High
+TKT02516,Product Feedback,Low
+TKT02517,Product Feedback,Low
+TKT02518,Billing,Low
+TKT02519,Billing,Medium
+TKT02520,Account Management,Medium
+TKT02521,Product Feedback,Low
+TKT02522,Product Feedback,High
+TKT02523,Technical Support,Low
+TKT02524,Account Management,Low
+TKT02525,Billing,High
+TKT02526,Billing,Medium
+TKT02527,Billing,Medium
+TKT02528,Technical Support,Medium
+TKT02529,Account Management,Low
+TKT02530,Sales,Low
+TKT02531,Technical Support,Low
+TKT02532,Sales,Low
+TKT02533,Account Management,Low
+TKT02534,Billing,Medium
+TKT02535,Account Management,High
+TKT02536,Billing,Low
+TKT02537,Technical Support,Low
+TKT02538,Technical Support,Low
+TKT02539,Account Management,Medium
+TKT02540,Sales,Medium
+TKT02541,Product Feedback,Low
+TKT02542,Technical Support,Medium
+TKT02543,Product Feedback,High
+TKT02544,Account Management,Low
+TKT02545,Account Management,Medium
+TKT02546,Billing,Low
+TKT02547,Billing,Medium
+TKT02548,Account Management,Medium
+TKT02549,Technical Support,Medium
+TKT02550,Sales,Low
+TKT02551,Sales,High
+TKT02552,Sales,Medium
+TKT02553,Product Feedback,Medium
+TKT02554,Sales,Low
+TKT02555,Billing,Low
+TKT02556,Billing,Low
+TKT02557,Sales,High
+TKT02558,Technical Support,Medium
+TKT02559,Billing,Medium
+TKT02560,Sales,Low
+TKT02561,Product Feedback,Low
+TKT02562,Technical Support,High
+TKT02563,Account Management,Low
+TKT02564,Technical Support,Low
+TKT02565,Product Feedback,Medium
+TKT02566,Product Feedback,Medium
+TKT02567,Technical Support,Medium
+TKT02568,Technical Support,High
+TKT02569,Technical Support,Medium
+TKT02570,Product Feedback,Low
+TKT02571,Sales,Low
+TKT02572,Billing,Low
+TKT02573,Sales,Medium
+TKT02574,Sales,Medium
+TKT02575,Sales,High
+TKT02576,Product Feedback,Low
+TKT02577,Account Management,Low
+TKT02578,Sales,Low
+TKT02579,Account Management,Low
+TKT02580,Product Feedback,High
+TKT02581,Product Feedback,Medium
+TKT02582,Product Feedback,Low
+TKT02583,Sales,Low
+TKT02584,Sales,Low
+TKT02585,Sales,High
+TKT02586,Product Feedback,High
+TKT02587,Sales,Medium
+TKT02588,Product Feedback,Medium
+TKT02589,Billing,Low
+TKT02590,Billing,Low
+TKT02591,Product Feedback,Low
+TKT02592,Billing,Low
+TKT02593,Sales,Medium
+TKT02594,Technical Support,Medium
+TKT02595,Technical Support,Low
+TKT02596,Technical Support,Medium
+TKT02597,Product Feedback,High
+TKT02598,Billing,Medium
+TKT02599,Sales,Medium
+TKT02600,Product Feedback,Medium
+TKT02601,Sales,Medium
+TKT02602,Billing,Low
+TKT02603,Sales,Medium
+TKT02604,Technical Support,Low
+TKT02605,Technical Support,Low
+TKT02606,Product Feedback,Medium
+TKT02607,Sales,Medium
+TKT02608,Technical Support,Medium
+TKT02609,Account Management,Medium
+TKT02610,Account Management,Low
+TKT02611,Billing,High
+TKT02612,Billing,Medium
+TKT02613,Product Feedback,Medium
+TKT02614,Account Management,High
+TKT02615,Sales,High
+TKT02616,Billing,Medium
+TKT02617,Sales,Low
+TKT02618,Billing,High
+TKT02619,Technical Support,Medium
+TKT02620,Product Feedback,Low
+TKT02621,Billing,High
+TKT02622,Sales,High
+TKT02623,Sales,Medium
+TKT02624,Product Feedback,Low
+TKT02625,Sales,Low
+TKT02626,Account Management,Medium
+TKT02627,Technical Support,Medium
+TKT02628,Technical Support,Low
+TKT02629,Product Feedback,Low
+TKT02630,Billing,Low
+TKT02631,Billing,Low
+TKT02632,Account Management,Low
+TKT02633,Product Feedback,Low
+TKT02634,Product Feedback,Medium
+TKT02635,Sales,Low
+TKT02636,Technical Support,Low
+TKT02637,Sales,Low
+TKT02638,Technical Support,Low
+TKT02639,Sales,High
+TKT02640,Product Feedback,Medium
+TKT02641,Technical Support,Medium
+TKT02642,Billing,Medium
+TKT02643,Billing,Low
+TKT02644,Product Feedback,Medium
+TKT02645,Product Feedback,High
+TKT02646,Product Feedback,Low
+TKT02647,Account Management,Medium
+TKT02648,Product Feedback,Medium
+TKT02649,Product Feedback,Low
+TKT02650,Sales,Medium
+TKT02651,Technical Support,Low
+TKT02652,Sales,Medium
+TKT02653,Sales,Medium
+TKT02654,Technical Support,High
+TKT02655,Billing,Medium
+TKT02656,Sales,Medium
+TKT02657,Account Management,High
+TKT02658,Sales,Low
+TKT02659,Sales,Low
+TKT02660,Technical Support,Low
+TKT02661,Technical Support,Medium
+TKT02662,Billing,High
+TKT02663,Sales,Low
+TKT02664,Account Management,Medium
+TKT02665,Product Feedback,Low
+TKT02666,Account Management,Medium
+TKT02667,Billing,Low
+TKT02668,Billing,High
+TKT02669,Account Management,High
+TKT02670,Product Feedback,High
+TKT02671,Technical Support,Medium
+TKT02672,Sales,Low
+TKT02673,Billing,Low
+TKT02674,Technical Support,Medium
+TKT02675,Sales,High
+TKT02676,Technical Support,Low
+TKT02677,Product Feedback,Low
+TKT02678,Billing,Low
+TKT02679,Product Feedback,Medium
+TKT02680,Account Management,Low
+TKT02681,Technical Support,Medium
+TKT02682,Account Management,Low
+TKT02683,Billing,Medium
+TKT02684,Technical Support,High
+TKT02685,Billing,Medium
+TKT02686,Technical Support,High
+TKT02687,Billing,Medium
+TKT02688,Product Feedback,Medium
+TKT02689,Technical Support,Low
+TKT02690,Account Management,Medium
+TKT02691,Technical Support,Medium
+TKT02692,Account Management,Low
+TKT02693,Billing,Medium
+TKT02694,Technical Support,Medium
+TKT02695,Sales,Low
+TKT02696,Sales,High
+TKT02697,Sales,Medium
+TKT02698,Product Feedback,Low
+TKT02699,Account Management,Medium
+TKT02700,Product Feedback,Medium
+TKT02701,Billing,Medium
+TKT02702,Technical Support,Low
+TKT02703,Sales,Low
+TKT02704,Sales,Low
+TKT02705,Account Management,Low
+TKT02706,Billing,Medium
+TKT02707,Product Feedback,High
+TKT02708,Account Management,Medium
+TKT02709,Billing,Medium
+TKT02710,Sales,High
+TKT02711,Product Feedback,Medium
+TKT02712,Product Feedback,Low
+TKT02713,Account Management,Low
+TKT02714,Product Feedback,Medium
+TKT02715,Product Feedback,Low
+TKT02716,Product Feedback,Low
+TKT02717,Billing,Low
+TKT02718,Billing,Medium
+TKT02719,Technical Support,Low
+TKT02720,Billing,High
+TKT02721,Sales,Medium
+TKT02722,Sales,Medium
+TKT02723,Product Feedback,Low
+TKT02724,Account Management,High
+TKT02725,Account Management,Medium
+TKT02726,Sales,Medium
+TKT02727,Technical Support,Medium
+TKT02728,Sales,High
+TKT02729,Account Management,Medium
+TKT02730,Billing,Medium
+TKT02731,Account Management,Medium
+TKT02732,Technical Support,Low
+TKT02733,Billing,High
+TKT02734,Billing,Low
+TKT02735,Product Feedback,Low
+TKT02736,Sales,Medium
+TKT02737,Product Feedback,Low
+TKT02738,Account Management,High
+TKT02739,Product Feedback,Low
+TKT02740,Technical Support,Low
+TKT02741,Technical Support,Medium
+TKT02742,Billing,Low
+TKT02743,Technical Support,Medium
+TKT02744,Account Management,Medium
+TKT02745,Billing,Medium
+TKT02746,Technical Support,High
+TKT02747,Sales,Medium
+TKT02748,Sales,Low
+TKT02749,Sales,Low
+TKT02750,Account Management,Low
+TKT02751,Technical Support,Medium
+TKT02752,Product Feedback,Medium
+TKT02753,Technical Support,Medium
+TKT02754,Billing,Medium
+TKT02755,Product Feedback,Medium
+TKT02756,Product Feedback,Medium
+TKT02757,Account Management,Low
+TKT02758,Account Management,Medium
+TKT02759,Billing,Medium
+TKT02760,Product Feedback,Medium
+TKT02761,Sales,Medium
+TKT02762,Sales,Low
+TKT02763,Technical Support,Low
+TKT02764,Account Management,Low
+TKT02765,Billing,Medium
+TKT02766,Technical Support,Medium
+TKT02767,Technical Support,Low
+TKT02768,Sales,Low
+TKT02769,Account Management,Medium
+TKT02770,Billing,Medium
+TKT02771,Billing,Medium
+TKT02772,Technical Support,Medium
+TKT02773,Technical Support,Low
+TKT02774,Sales,Medium
+TKT02775,Sales,Low
+TKT02776,Technical Support,Medium
+TKT02777,Product Feedback,Low
+TKT02778,Account Management,Low
+TKT02779,Technical Support,Medium
+TKT02780,Sales,Medium
+TKT02781,Product Feedback,High
+TKT02782,Sales,Low
+TKT02783,Account Management,High
+TKT02784,Account Management,Medium
+TKT02785,Account Management,Low
+TKT02786,Product Feedback,Medium
+TKT02787,Account Management,High
+TKT02788,Sales,Low
+TKT02789,Account Management,High
+TKT02790,Sales,High
+TKT02791,Product Feedback,Medium
+TKT02792,Technical Support,Medium
+TKT02793,Technical Support,Low
+TKT02794,Product Feedback,Medium
+TKT02795,Product Feedback,Medium
+TKT02796,Product Feedback,Medium
+TKT02797,Sales,Low
+TKT02798,Technical Support,Medium
+TKT02799,Technical Support,Medium
+TKT02800,Technical Support,Medium
+TKT02801,Technical Support,Low
+TKT02802,Sales,High
+TKT02803,Billing,High
+TKT02804,Billing,High
+TKT02805,Product Feedback,Low
+TKT02806,Billing,Medium
+TKT02807,Product Feedback,Medium
+TKT02808,Sales,Low
+TKT02809,Technical Support,High
+TKT02810,Technical Support,Medium
+TKT02811,Technical Support,Medium
+TKT02812,Product Feedback,Low
+TKT02813,Product Feedback,Low
+TKT02814,Product Feedback,Low
+TKT02815,Billing,Medium
+TKT02816,Account Management,Low
+TKT02817,Product Feedback,Low
+TKT02818,Sales,Low
+TKT02819,Product Feedback,Medium
+TKT02820,Billing,Low
+TKT02821,Billing,High
+TKT02822,Technical Support,Low
+TKT02823,Product Feedback,Low
+TKT02824,Account Management,Medium
+TKT02825,Product Feedback,Medium
+TKT02826,Billing,High
+TKT02827,Account Management,High
+TKT02828,Technical Support,Medium
+TKT02829,Product Feedback,High
+TKT02830,Product Feedback,Low
+TKT02831,Account Management,Medium
+TKT02832,Technical Support,Medium
+TKT02833,Technical Support,Low
+TKT02834,Technical Support,Low
+TKT02835,Billing,Low
+TKT02836,Account Management,Medium
+TKT02837,Account Management,Medium
+TKT02838,Billing,Medium
+TKT02839,Technical Support,Medium
+TKT02840,Account Management,Low
+TKT02841,Technical Support,Low
+TKT02842,Product Feedback,Medium
+TKT02843,Billing,Medium
+TKT02844,Account Management,High
+TKT02845,Billing,High
+TKT02846,Billing,High
+TKT02847,Technical Support,High
+TKT02848,Account Management,Low
+TKT02849,Account Management,Medium
+TKT02850,Billing,Medium
+TKT02851,Product Feedback,Low
+TKT02852,Technical Support,Medium
+TKT02853,Sales,Medium
+TKT02854,Product Feedback,Low
+TKT02855,Sales,Medium
+TKT02856,Billing,High
+TKT02857,Billing,Medium
+TKT02858,Billing,Low
+TKT02859,Sales,Medium
+TKT02860,Technical Support,Low
+TKT02861,Product Feedback,Medium
+TKT02862,Technical Support,Low
+TKT02863,Technical Support,Medium
+TKT02864,Product Feedback,Low
+TKT02865,Sales,Low
+TKT02866,Billing,High
+TKT02867,Sales,Medium
+TKT02868,Product Feedback,Low
+TKT02869,Account Management,Low
+TKT02870,Product Feedback,High
+TKT02871,Product Feedback,High
+TKT02872,Account Management,Low
+TKT02873,Sales,Medium
+TKT02874,Sales,Low
+TKT02875,Technical Support,Low
+TKT02876,Technical Support,Medium
+TKT02877,Technical Support,Low
+TKT02878,Technical Support,Medium
+TKT02879,Technical Support,Medium
+TKT02880,Technical Support,High
+TKT02881,Sales,Medium
+TKT02882,Technical Support,Low
+TKT02883,Billing,Medium
+TKT02884,Technical Support,High
+TKT02885,Sales,High
+TKT02886,Technical Support,Low
+TKT02887,Sales,Medium
+TKT02888,Account Management,Low
+TKT02889,Billing,Medium
+TKT02890,Account Management,Medium
+TKT02891,Account Management,Low
+TKT02892,Technical Support,High
+TKT02893,Technical Support,High
+TKT02894,Product Feedback,Medium
+TKT02895,Billing,Medium
+TKT02896,Product Feedback,Low
+TKT02897,Billing,Medium
+TKT02898,Billing,High
+TKT02899,Technical Support,High
+TKT02900,Account Management,High
+TKT02901,Technical Support,Low
+TKT02902,Billing,Medium
+TKT02903,Account Management,Medium
+TKT02904,Sales,Low
+TKT02905,Product Feedback,Low
+TKT02906,Technical Support,Medium
+TKT02907,Billing,Low
+TKT02908,Sales,Low
+TKT02909,Technical Support,Medium
+TKT02910,Billing,Medium
+TKT02911,Product Feedback,Medium
+TKT02912,Billing,Low
+TKT02913,Sales,Low
+TKT02914,Account Management,High
+TKT02915,Technical Support,High
+TKT02916,Account Management,Medium
+TKT02917,Product Feedback,Medium
+TKT02918,Sales,Low
+TKT02919,Billing,Medium
+TKT02920,Technical Support,Medium
+TKT02921,Product Feedback,High
+TKT02922,Sales,Low
+TKT02923,Technical Support,Low
+TKT02924,Technical Support,Low
+TKT02925,Sales,Medium
+TKT02926,Technical Support,Low
+TKT02927,Sales,Medium
+TKT02928,Account Management,Low
+TKT02929,Product Feedback,Medium
+TKT02930,Technical Support,High
+TKT02931,Sales,Medium
+TKT02932,Product Feedback,Low
+TKT02933,Billing,Medium
+TKT02934,Billing,High
+TKT02935,Account Management,Low
+TKT02936,Billing,Low
+TKT02937,Technical Support,High
+TKT02938,Account Management,Low
+TKT02939,Sales,Low
+TKT02940,Account Management,Medium
+TKT02941,Technical Support,Low
+TKT02942,Billing,Medium
+TKT02943,Billing,Medium
+TKT02944,Product Feedback,High
+TKT02945,Account Management,Low
+TKT02946,Technical Support,Medium
+TKT02947,Account Management,Low
+TKT02948,Billing,Medium
+TKT02949,Billing,High
+TKT02950,Product Feedback,High
+TKT02951,Sales,Low
+TKT02952,Billing,High
+TKT02953,Account Management,Medium
+TKT02954,Sales,High
+TKT02955,Account Management,Medium
+TKT02956,Account Management,Medium
+TKT02957,Billing,Medium
+TKT02958,Product Feedback,Medium
+TKT02959,Sales,High
+TKT02960,Sales,Medium
+TKT02961,Billing,Medium
+TKT02962,Account Management,Low
+TKT02963,Product Feedback,Low
+TKT02964,Technical Support,High
+TKT02965,Product Feedback,High
+TKT02966,Account Management,Low
+TKT02967,Billing,Medium
+TKT02968,Technical Support,Low
+TKT02969,Sales,Low
+TKT02970,Technical Support,High
+TKT02971,Product Feedback,Low
+TKT02972,Technical Support,Medium
+TKT02973,Billing,Medium
+TKT02974,Product Feedback,Low
+TKT02975,Sales,Low
+TKT02976,Product Feedback,Low
+TKT02977,Account Management,Low
+TKT02978,Account Management,Low
+TKT02979,Technical Support,Medium
+TKT02980,Account Management,Medium
+TKT02981,Product Feedback,Low
+TKT02982,Technical Support,Medium
+TKT02983,Sales,Medium
+TKT02984,Account Management,Medium
+TKT02985,Technical Support,Medium
+TKT02986,Sales,Medium
+TKT02987,Technical Support,High
+TKT02988,Technical Support,Low
+TKT02989,Billing,Low
+TKT02990,Billing,Low
+TKT02991,Account Management,Medium
+TKT02992,Billing,High
+TKT02993,Account Management,Low
+TKT02994,Product Feedback,Medium
+TKT02995,Sales,Low
+TKT02996,Billing,Low
+TKT02997,Technical Support,Low
+TKT02998,Sales,Low
+TKT02999,Account Management,High
