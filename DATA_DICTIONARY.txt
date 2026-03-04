@@ -1,0 +1,33 @@
+
+CAPSTONE PROJECT 8 – CUSTOMER SUPPORT TICKET ROUTING SYSTEM
+
+Total Tickets: 3,000
+Primary Key: ticket_id
+Target Variables:
+- department (5 classes)
+- priority (Low/Medium/High)
+
+Files:
+
+1. tickets.csv
+- ticket_id: Unique ticket identifier
+- ticket_text: Customer issue description
+- customer_tenure_months: Customer relationship duration
+- previous_tickets_count: Number of previous issues
+
+2. customers.csv
+- ticket_id: Foreign key
+- customer_region: Region of customer
+- account_type: Free/Premium/Enterprise
+
+3. labels.csv
+- ticket_id: Foreign key
+- department: Target routing department
+- priority: Target priority level
+
+Tasks:
+- Merge datasets correctly.
+- Perform department classification (multi-class).
+- Perform priority classification.
+- Compare TF-IDF, ANN, and BERT (frozen).
+- Benchmark performance and inference time.
