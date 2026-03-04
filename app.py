@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import joblib
 import numpy as np
 from scipy.sparse import hstack
-
+from fastapi.middleware.cors import CORSMiddleware
 import re
 import nltk
 from nltk.tokenize import word_tokenize
@@ -11,6 +11,19 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 # Download NLTK data (only first time)
+app = FastAPI()
+
+origins = [
+    "*",  # allow all origins (for testing)
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 nltk.download('punkt')
 nltk.download('punkt_tab')
