@@ -10,15 +10,15 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-# Download NLTK data (only first time)
 app = FastAPI()
 
 origins = [
-    "*",  # allow all origins (for testing)
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
 ]
 
 app.add_middleware(
-    CORSMiddleware,
+CORSMiddleware,
     allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
@@ -35,7 +35,6 @@ dept_model = joblib.load("department_model.pkl")
 priority_model = joblib.load("priority_model.pkl")
 tfidf = joblib.load("tfidf_vectorizer.pkl")
 
-app = FastAPI(title="Ticket Classification API")
 
 dept_mapping = {
     0: "Account",
