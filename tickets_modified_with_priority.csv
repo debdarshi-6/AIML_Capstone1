@@ -1,0 +1,2201 @@
+ticket_id,ticket_text,tenure,department,priority
+TKT00000,request system service team problem plan upgrade access,59,Sales,Medium
+TKT00001,problem system service feature review plan,16,Feedback,Medium
+TKT00002,customer help service login access server,53,Account,Medium
+TKT00003,service system request customer support feature suggestion authentication,13,Feedback,Low
+TKT00004,service platform support problem help bug server refund,55,Tech,Medium
+TKT00005,help request team platform profile password payment,57,Account,Medium
+TKT00006,support service issue login password quotation,2,Account,Medium
+TKT00007,help customer team platform bug api quotation,48,Tech,Medium
+TKT00008,platform system issue suggestion experience error,7,Feedback,Medium
+TKT00009,support help team service request invoice payment improvement,33,Billing,Medium
+TKT00010,help problem service customer quotation plan refund,6,Sales,Medium
+TKT00011,platform customer help issue plan demo feature,2,Sales,Medium
+TKT00012,service platform issue support help crash server profile,4,Tech,High
+TKT00013,issue service problem support team charge invoice server,18,Billing,Medium
+TKT00014,service request issue platform experience review invoice,38,Feedback,Medium
+TKT00015,customer platform system support problem quotation pricing crash,49,Sales,High
+TKT00016,request platform system api crash authentication,20,Tech,High
+TKT00017,issue team support problem suggestion feature authentication,57,Feedback,Medium
+TKT00018,issue service system request suggestion improvement upgrade,25,Feedback,Medium
+TKT00019,help service request problem charge subscription review,16,Billing,Medium
+TKT00020,problem customer system platform access password crash,48,Account,High
+TKT00021,customer help service demo pricing authentication,53,Sales,Medium
+TKT00022,team issue service api bug demo,10,Tech,Medium
+TKT00023,service support request team platform profile password api,39,Account,Medium
+TKT00024,help system platform customer api bug upgrade,9,Tech,Low
+TKT00025,service help issue customer support improvement suggestion invoice,53,Feedback,Medium
+TKT00026,problem customer service system improvement experience server,22,Feedback,Medium
+TKT00027,customer service platform refund subscription server,43,Billing,Medium
+TKT00028,help request customer experience improvement refund,17,Feedback,Low
+TKT00029,problem help support system customer crash api payment,40,Sales,High
+TKT00030,system service support problem team suggestion improvement access,23,Feedback,Medium
+TKT00031,request system problem platform bug crash pricing,2,Tech,High
+TKT00032,system team support help quotation demo review,33,Sales,Medium
+TKT00033,issue problem support platform team invoice payment error,31,Billing,Medium
+TKT00034,customer request team issue access profile refund,35,Account,Medium
+TKT00035,request team support issue service plan demo suggestion,23,Sales,Medium
+TKT00036,support issue platform service help upgrade demo improvement,52,Sales,Medium
+TKT00037,support request team problem password authentication payment,12,Account,Medium
+TKT00038,system issue team support review experience error,48,Feedback,Medium
+TKT00039,platform team problem support demo upgrade login,32,Sales,Medium
+TKT00040,help problem team service suggestion experience crash,10,Feedback,High
+TKT00041,help issue team subscription payment demo,58,Billing,Medium
+TKT00042,support platform help request invoice refund experience,53,Billing,Medium
+TKT00043,request system customer problem platform error api access,35,Tech,Medium
+TKT00044,system help team quotation upgrade access,16,Sales,Low
+TKT00045,service system team support suggestion review login,16,Feedback,Low
+TKT00046,service issue platform refund charge experience,4,Billing,Medium
+TKT00047,customer issue problem help team demo pricing review,55,Sales,Medium
+TKT00048,request problem system platform service charge refund password,44,Billing,Medium
+TKT00049,help system customer pricing quotation login,34,Sales,Medium
+TKT00050,platform customer problem access authentication upgrade,40,Account,Medium
+TKT00051,problem request customer issue help crash server pricing,53,Tech,High
+TKT00052,customer platform service payment refund quotation,34,Billing,Medium
+TKT00053,team customer help problem request review experience authentication,55,Feedback,Medium
+TKT00054,system customer problem issue platform improvement feature server,60,Feedback,Medium
+TKT00055,service customer request issue team upgrade quotation api,19,Sales,Medium
+TKT00056,service help system request access profile pricing,34,Account,Medium
+TKT00057,problem service request issue system upgrade plan suggestion,55,Sales,Medium
+TKT00058,request customer system help support crash api password,3,Tech,High
+TKT00059,support help system api crash password,21,Tech,High
+TKT00060,issue customer system help error server pricing,13,Tech,Medium
+TKT00061,service issue support platform demo upgrade charge,22,Sales,Medium
+TKT00062,system team problem request customer bug server invoice,28,Tech,Medium
+TKT00063,system support request problem service bug crash invoice,49,Tech,High
+TKT00064,problem support team plan upgrade experience,21,Sales,Medium
+TKT00065,platform service request system crash api improvement,31,Tech,High
+TKT00066,service help platform customer system demo pricing login,30,Sales,Medium
+TKT00067,service problem customer support pricing plan payment,23,Sales,Medium
+TKT00068,team platform system quotation upgrade review,21,Sales,Low
+TKT00069,platform issue request server api review,52,Tech,Medium
+TKT00070,team issue customer service problem api error suggestion,29,Sales,Medium
+TKT00071,help team platform issue request feature review charge,55,Feedback,Medium
+TKT00072,request team issue access profile payment,11,Account,Medium
+TKT00073,platform request support help experience review profile,50,Billing,Medium
+TKT00074,problem team platform system request authentication password bug,14,Account,Medium
+TKT00075,system customer platform issue bug crash pricing,9,Tech,High
+TKT00076,platform support request error bug experience,31,Tech,Medium
+TKT00077,service request platform help problem feature suggestion profile,47,Feedback,Medium
+TKT00078,help system service crash bug feature,20,Tech,High
+TKT00079,request service problem team system payment refund bug,52,Billing,Medium
+TKT00080,service help problem customer request payment invoice bug,44,Billing,Medium
+TKT00081,team support platform issue help profile authentication refund,2,Account,Medium
+TKT00082,support help platform team service pricing quotation crash,9,Sales,High
+TKT00083,platform system team help problem profile authentication pricing,38,Account,Medium
+TKT00084,issue service request profile access server,40,Account,Medium
+TKT00085,support team service system crash error payment,33,Tech,High
+TKT00086,support help request service payment charge experience,50,Billing,Medium
+TKT00087,problem team issue support platform crash bug quotation,41,Tech,High
+TKT00088,team customer platform support experience feature invoice,48,Feedback,Medium
+TKT00089,service support help issue login access review,5,Account,Medium
+TKT00090,service problem help feature suggestion login,8,Feedback,Medium
+TKT00091,help problem platform system suggestion feature server,29,Feedback,Medium
+TKT00092,request help service quotation plan error,4,Sales,Medium
+TKT00093,issue request support team customer login access demo,33,Account,Medium
+TKT00094,support problem platform service pricing quotation experience,4,Sales,Medium
+TKT00095,request issue service pricing plan improvement,40,Sales,Medium
+TKT00096,issue platform help refund charge server,56,Tech,Medium
+TKT00097,team support issue request customer upgrade plan invoice,49,Sales,Medium
+TKT00098,support service request team platform charge subscription bug,18,Billing,Low
+TKT00099,issue team help support server bug demo,26,Tech,Medium
+TKT00100,support problem customer improvement suggestion invoice,41,Account,Medium
+TKT00101,problem request platform help service refund invoice suggestion,52,Billing,Medium
+TKT00102,help system service request problem subscription invoice pricing,33,Billing,Medium
+TKT00103,help team system problem service api bug refund,57,Tech,Medium
+TKT00104,support issue system demo quotation api,24,Sales,Medium
+TKT00105,issue platform team charge refund feature,33,Billing,Medium
+TKT00106,issue platform customer invoice payment plan,15,Billing,Medium
+TKT00107,support platform problem pricing demo login,17,Sales,Medium
+TKT00108,customer system service problem quotation plan suggestion,3,Sales,Medium
+TKT00109,platform system support help request access login api,2,Account,Low
+TKT00110,service issue system support platform password authentication payment,36,Account,Medium
+TKT00111,service help problem quotation upgrade feature,4,Account,Medium
+TKT00112,issue platform problem support quotation plan payment,30,Sales,Medium
+TKT00113,help issue system customer suggestion feature api,49,Feedback,Medium
+TKT00114,request issue service customer platform profile authentication refund,56,Account,Medium
+TKT00115,service issue problem login access payment,44,Account,Medium
+TKT00116,issue service team access password charge,1,Account,Medium
+TKT00117,issue team service invoice payment demo,49,Billing,Medium
+TKT00118,support service issue help system crash api payment,44,Tech,High
+TKT00119,issue problem support platform plan pricing api,13,Sales,Medium
+TKT00120,service team issue request profile authentication experience,59,Account,Medium
+TKT00121,issue team support request charge invoice quotation,57,Billing,Medium
+TKT00122,team system support server crash login,4,Tech,High
+TKT00123,customer request problem help review feature api,12,Feedback,Medium
+TKT00124,support customer problem system service charge invoice password,35,Billing,Medium
+TKT00125,problem request platform issue upgrade plan crash,40,Sales,High
+TKT00126,system platform service improvement feature charge,23,Feedback,Low
+TKT00127,request system platform pricing plan access,46,Sales,Medium
+TKT00128,service issue system platform help quotation plan login,24,Sales,Medium
+TKT00129,issue platform help team charge invoice demo,46,Billing,Medium
+TKT00130,problem service issue platform login access improvement,32,Account,Medium
+TKT00131,customer team issue charge subscription feature,27,Billing,Medium
+TKT00132,request team system issue support api bug login,56,Tech,Medium
+TKT00133,request help problem support platform authentication profile server,31,Account,Medium
+TKT00134,system help platform request customer access profile quotation,3,Account,Low
+TKT00135,problem service request customer help quotation pricing password,44,Sales,Medium
+TKT00136,issue help service system platform crash api login,20,Tech,High
+TKT00137,customer system request support invoice payment password,18,Billing,Low
+TKT00138,system help platform request issue authentication access invoice,60,Account,Medium
+TKT00139,system request platform charge refund error,48,Billing,Medium
+TKT00140,customer service issue help request plan quotation experience,15,Sales,Medium
+TKT00141,problem customer issue error api profile,36,Tech,Medium
+TKT00142,issue service platform api crash pricing,32,Tech,High
+TKT00143,problem platform support server bug demo,11,Tech,Medium
+TKT00144,help problem team authentication password feature,46,Account,Medium
+TKT00145,request service issue help refund payment api,21,Billing,Medium
+TKT00146,system request customer problem service server bug feature,2,Tech,Medium
+TKT00147,support request system platform customer password authentication suggestion,60,Account,Medium
+TKT00148,service support request problem refund charge login,7,Billing,Medium
+TKT00149,help service platform charge invoice server,54,Billing,Medium
+TKT00150,system customer service problem server crash experience,27,Tech,High
+TKT00151,platform problem service help refund invoice password,5,Billing,Medium
+TKT00152,problem platform help issue profile authentication invoice,16,Account,Medium
+TKT00153,request problem issue password profile server,16,Account,Medium
+TKT00154,customer issue service review experience payment,20,Feedback,Medium
+TKT00155,issue customer platform login authentication quotation,50,Account,Medium
+TKT00156,team help issue service pricing demo refund,1,Sales,Medium
+TKT00157,issue platform help support problem profile login demo,18,Account,Medium
+TKT00158,request team service support crash server access,54,Tech,High
+TKT00159,service help support team system error api profile,51,Tech,Medium
+TKT00160,issue customer problem review experience invoice,36,Feedback,Medium
+TKT00161,customer platform service improvement feature demo,19,Feedback,Low
+TKT00162,support request customer help subscription charge server,57,Billing,Medium
+TKT00163,issue customer platform request service access authentication subscription,43,Account,Medium
+TKT00164,help system issue access login charge,20,Account,Medium
+TKT00165,customer service platform review improvement profile,51,Feedback,Medium
+TKT00166,platform support customer feature review refund,13,Feedback,Low
+TKT00167,service platform help customer team login authentication review,7,Account,Low
+TKT00168,platform service support password profile suggestion,28,Billing,Medium
+TKT00169,request team issue service system bug error invoice,52,Tech,Medium
+TKT00170,service help platform suggestion feature pricing,18,Feedback,Low
+TKT00171,problem issue request team crash server login,45,Tech,High
+TKT00172,service system request issue help access password demo,12,Account,Medium
+TKT00173,team system problem server bug experience,16,Tech,Medium
+TKT00174,request team system help customer error bug payment,31,Tech,Medium
+TKT00175,platform problem support crash server access,29,Tech,High
+TKT00176,problem customer system service help payment subscription suggestion,26,Billing,Medium
+TKT00177,request service support feature suggestion payment,53,Feedback,Medium
+TKT00178,system problem help customer payment subscription access,11,Billing,Medium
+TKT00179,problem request issue service api error subscription,28,Account,Medium
+TKT00180,platform problem customer team system suggestion review charge,22,Feedback,Medium
+TKT00181,request service platform invoice refund profile,49,Billing,Medium
+TKT00182,problem customer issue plan quotation review,52,Sales,Medium
+TKT00183,help support request experience review password,53,Feedback,Medium
+TKT00184,service platform problem customer issue suggestion experience charge,41,Account,Medium
+TKT00185,support service problem help team profile access pricing,33,Account,Medium
+TKT00186,team support issue bug server feature,50,Tech,Medium
+TKT00187,customer issue problem team bug crash quotation,31,Tech,High
+TKT00188,team help issue feature suggestion access,30,Feedback,Medium
+TKT00189,platform request issue support help upgrade pricing login,5,Sales,Medium
+TKT00190,team service help charge payment profile,38,Billing,Medium
+TKT00191,system customer platform issue help refund subscription suggestion,27,Billing,Medium
+TKT00192,system platform help login authentication charge,21,Account,Low
+TKT00193,platform help system issue team suggestion improvement invoice,47,Feedback,Medium
+TKT00194,request team platform login authentication feature,48,Account,Medium
+TKT00195,help system support plan upgrade subscription,50,Sales,Medium
+TKT00196,request help support suggestion experience crash,24,Feedback,High
+TKT00197,team issue service system platform charge subscription upgrade,12,Billing,Medium
+TKT00198,service problem request support upgrade quotation invoice,20,Sales,Medium
+TKT00199,customer problem platform help payment subscription profile,15,Billing,Medium
+TKT00200,problem platform support service issue plan demo login,12,Sales,Medium
+TKT00201,system issue team problem request pricing demo review,56,Sales,Medium
+TKT00202,issue platform request support service demo plan review,25,Sales,Medium
+TKT00203,problem support issue platform customer pricing plan password,58,Sales,Medium
+TKT00204,support request customer platform issue error bug access,59,Tech,Medium
+TKT00205,problem system service team invoice payment authentication,13,Billing,Medium
+TKT00206,platform team customer system problem demo quotation suggestion,59,Sales,Medium
+TKT00207,platform system request service crash api review,33,Tech,High
+TKT00208,issue platform support system subscription charge plan,6,Billing,Medium
+TKT00209,issue help system request customer refund subscription password,38,Billing,Medium
+TKT00210,team request system help authentication password error,60,Account,Medium
+TKT00211,issue team help service customer pricing demo authentication,37,Sales,Medium
+TKT00212,service request problem login profile payment,11,Account,Medium
+TKT00213,customer support request feature improvement server,37,Feedback,Medium
+TKT00214,request team issue service suggestion experience subscription,8,Feedback,Medium
+TKT00215,request customer team api bug login,32,Tech,Medium
+TKT00216,platform service team invoice subscription suggestion,41,Billing,Medium
+TKT00217,system support platform login profile server,30,Account,Medium
+TKT00218,problem customer platform crash server feature,4,Tech,High
+TKT00219,issue service help plan pricing feature,22,Sales,Medium
+TKT00220,team problem help platform upgrade pricing charge,22,Sales,Medium
+TKT00221,help support platform system experience suggestion api,46,Feedback,Medium
+TKT00222,team system support help problem profile authentication refund,37,Account,Medium
+TKT00223,problem team support service system pricing upgrade subscription,22,Sales,Medium
+TKT00224,system support problem password profile review,2,Account,Medium
+TKT00225,problem issue customer system help feature improvement plan,4,Feedback,Medium
+TKT00226,request help system refund subscription feature,29,Billing,Medium
+TKT00227,help support request experience feature access,33,Feedback,Medium
+TKT00228,problem service support team bug api payment,22,Tech,Medium
+TKT00229,request issue customer refund subscription password,28,Billing,Medium
+TKT00230,issue platform team service system api error feature,52,Tech,Medium
+TKT00231,request issue platform system quotation plan server,23,Sales,Medium
+TKT00232,system support problem crash bug login,33,Tech,High
+TKT00233,issue team platform help upgrade quotation experience,50,Sales,Medium
+TKT00234,system problem help server crash refund,10,Tech,High
+TKT00235,help service platform customer payment invoice server,35,Billing,Medium
+TKT00236,team help system support customer invoice subscription crash,45,Billing,High
+TKT00237,platform service help experience improvement subscription,54,Feedback,Medium
+TKT00238,problem system support platform review feature invoice,55,Feedback,Medium
+TKT00239,customer support team profile login bug,11,Account,Low
+TKT00240,problem help support bug api experience,38,Tech,Medium
+TKT00241,platform help team system review improvement upgrade,40,Feedback,Medium
+TKT00242,system help request team problem upgrade quotation authentication,55,Sales,Medium
+TKT00243,system team support issue request pricing plan bug,41,Sales,Medium
+TKT00244,request team problem platform support feature experience refund,27,Feedback,Medium
+TKT00245,help request platform team api server payment,30,Tech,Medium
+TKT00246,issue system help error server pricing,17,Tech,Medium
+TKT00247,issue team problem help platform api crash plan,45,Feedback,High
+TKT00248,help support team system platform payment charge suggestion,10,Billing,Low
+TKT00249,service issue platform help customer access profile error,60,Account,Medium
+TKT00250,issue help platform problem pricing upgrade access,34,Sales,Medium
+TKT00251,support help platform service pricing demo invoice,1,Billing,Low
+TKT00252,help team problem issue service refund charge suggestion,55,Billing,Medium
+TKT00253,support system team payment charge server,57,Billing,Medium
+TKT00254,customer team help platform system api crash charge,50,Feedback,High
+TKT00255,problem system platform api crash improvement,54,Tech,High
+TKT00256,system help service support customer quotation pricing suggestion,31,Sales,Medium
+TKT00257,team customer platform request service plan quotation payment,23,Sales,Low
+TKT00258,customer problem team experience feature bug,17,Feedback,Medium
+TKT00259,help system issue platform request server error demo,34,Tech,Medium
+TKT00260,support request system help invoice payment access,56,Billing,Medium
+TKT00261,team request system customer help crash api profile,51,Tech,High
+TKT00262,service system problem server bug login,21,Tech,Medium
+TKT00263,customer system help support team review experience plan,50,Feedback,Medium
+TKT00264,problem support service password authentication pricing,49,Account,Medium
+TKT00265,support request service customer plan quotation payment,42,Sales,Medium
+TKT00266,service support issue feature improvement profile,1,Feedback,Medium
+TKT00267,platform service support help customer bug api demo,8,Tech,Low
+TKT00268,request system team authentication access refund,2,Account,Low
+TKT00269,team system problem quotation pricing error,57,Sales,Medium
+TKT00270,help service team customer subscription payment demo,2,Billing,Low
+TKT00271,problem customer service team plan demo authentication,28,Sales,Medium
+TKT00272,system support platform request error crash access,59,Tech,High
+TKT00273,system problem issue subscription refund experience,7,Billing,Medium
+TKT00274,service request support system pricing plan crash,58,Sales,High
+TKT00275,support problem issue experience suggestion server,11,Sales,Medium
+TKT00276,system request service password login upgrade,19,Account,Low
+TKT00277,customer problem system subscription refund plan,4,Billing,Medium
+TKT00278,platform issue service improvement review profile,4,Feedback,Medium
+TKT00279,support service customer suggestion improvement subscription,2,Feedback,Low
+TKT00280,request service platform team issue plan pricing payment,23,Sales,Medium
+TKT00281,customer problem issue suggestion review login,6,Feedback,Medium
+TKT00282,issue problem service request customer charge payment server,53,Billing,Medium
+TKT00283,system help platform issue support quotation demo review,56,Sales,Medium
+TKT00284,request service problem support system server error plan,36,Tech,Medium
+TKT00285,platform service request team feature improvement server,43,Feedback,Medium
+TKT00286,team platform support issue problem experience suggestion upgrade,4,Feedback,Medium
+TKT00287,platform support team problem profile login charge,2,Account,Medium
+TKT00288,request support problem platform password profile payment,29,Account,Medium
+TKT00289,team service issue support api bug improvement,18,Tech,Medium
+TKT00290,team support service problem issue quotation plan payment,42,Sales,Medium
+TKT00291,platform service issue problem system password access error,11,Account,Medium
+TKT00292,customer service issue problem platform feature suggestion authentication,6,Feedback,Medium
+TKT00293,platform team issue request system suggestion review upgrade,34,Feedback,Medium
+TKT00294,problem support team issue service invoice refund upgrade,34,Billing,Medium
+TKT00295,issue request system platform customer charge subscription profile,54,Billing,Medium
+TKT00296,issue service request problem support error api pricing,16,Tech,Medium
+TKT00297,support service platform error server experience,39,Tech,Medium
+TKT00298,system support issue platform request pricing upgrade error,58,Sales,Medium
+TKT00299,help platform problem issue support feature improvement refund,21,Feedback,Medium
+TKT00300,help problem system issue quotation plan bug,59,Sales,Medium
+TKT00301,issue request problem system review experience server,44,Feedback,Medium
+TKT00302,service team help platform issue improvement review payment,32,Feedback,Medium
+TKT00303,system request issue team plan quotation crash,8,Account,High
+TKT00304,system problem customer team demo quotation profile,12,Sales,Medium
+TKT00305,team help customer service charge invoice api,17,Billing,Low
+TKT00306,support team help issue request crash error charge,49,Sales,High
+TKT00307,problem help support issue server api refund,40,Tech,Medium
+TKT00308,system customer support crash server improvement,35,Tech,High
+TKT00309,platform help request support system api server feature,45,Tech,Medium
+TKT00310,service team customer request issue improvement suggestion access,53,Feedback,Medium
+TKT00311,customer request team help feature improvement login,2,Feedback,Low
+TKT00312,service system customer password login quotation,23,Account,Low
+TKT00313,service issue help platform support upgrade quotation authentication,4,Sales,Medium
+TKT00314,team system support quotation plan improvement,7,Sales,Low
+TKT00315,problem system help support bug crash suggestion,20,Tech,High
+TKT00316,customer team problem request service charge refund error,46,Billing,Medium
+TKT00317,system issue request support bug server experience,35,Tech,Medium
+TKT00318,service support platform problem customer password access charge,24,Account,Medium
+TKT00319,request customer team problem profile login bug,16,Account,Medium
+TKT00320,request support help problem service login password crash,34,Account,High
+TKT00321,problem request help system customer profile authentication subscription,5,Account,Medium
+TKT00322,issue service team review suggestion plan,16,Feedback,Medium
+TKT00323,team platform help problem server api access,50,Tech,Medium
+TKT00324,support issue team bug api authentication,14,Tech,Medium
+TKT00325,team support system problem help refund payment review,29,Billing,Medium
+TKT00326,platform system request access authentication invoice,50,Account,Medium
+TKT00327,team service help payment charge feature,5,Billing,Low
+TKT00328,service platform support customer review improvement quotation,38,Feedback,Medium
+TKT00329,system issue service request experience review payment,56,Feedback,Medium
+TKT00330,service team support customer authentication login subscription,12,Account,Low
+TKT00331,customer system problem support help demo pricing suggestion,34,Sales,Medium
+TKT00332,issue request platform customer service bug api improvement,39,Tech,Medium
+TKT00333,team system issue demo quotation improvement,17,Sales,Medium
+TKT00334,issue system service customer request plan demo subscription,53,Sales,Medium
+TKT00335,system service customer help support quotation demo invoice,22,Sales,Low
+TKT00336,service platform help problem login authentication api,19,Account,Medium
+TKT00337,service problem platform issue demo quotation api,7,Sales,Medium
+TKT00338,problem customer issue system team server crash pricing,12,Tech,High
+TKT00339,support platform help team quotation plan review,42,Sales,Medium
+TKT00340,platform service system help request password authentication refund,44,Account,Medium
+TKT00341,platform team system service problem invoice subscription experience,33,Billing,Medium
+TKT00342,support system service issue payment subscription error,6,Billing,Medium
+TKT00343,service problem customer platform upgrade demo invoice,40,Sales,Medium
+TKT00344,platform help support access password demo,39,Account,Medium
+TKT00345,problem service team help request authentication password bug,33,Account,Medium
+TKT00346,platform issue customer support quotation upgrade authentication,45,Sales,Medium
+TKT00347,service issue customer platform team quotation upgrade experience,10,Sales,Medium
+TKT00348,service support customer help improvement experience upgrade,10,Feedback,Low
+TKT00349,service system problem password login review,45,Account,Medium
+TKT00350,system platform team support refund payment api,22,Feedback,Low
+TKT00351,team platform service system api crash login,59,Tech,High
+TKT00352,customer platform system service subscription payment quotation,12,Billing,Low
+TKT00353,support help platform problem customer error bug authentication,19,Tech,Medium
+TKT00354,problem support help customer server bug plan,53,Billing,Medium
+TKT00355,problem platform team service quotation plan charge,49,Sales,Medium
+TKT00356,platform issue system service support crash error demo,11,Tech,High
+TKT00357,issue problem support suggestion experience access,38,Feedback,Medium
+TKT00358,customer service request authentication access feature,59,Account,Medium
+TKT00359,system help platform issue login authentication api,7,Account,Medium
+TKT00360,problem platform request issue plan pricing refund,54,Sales,Medium
+TKT00361,support customer request help system improvement suggestion upgrade,2,Feedback,Low
+TKT00362,request platform team service error server profile,13,Tech,Medium
+TKT00363,platform request system support bug error access,47,Tech,Medium
+TKT00364,support request team system problem review improvement payment,17,Feedback,Medium
+TKT00365,team support issue customer error api access,46,Tech,Medium
+TKT00366,help issue team problem quotation pricing crash,22,Sales,High
+TKT00367,problem support customer team issue server error subscription,57,Tech,Medium
+TKT00368,help problem service issue system server error refund,60,Tech,Medium
+TKT00369,help issue problem platform pricing upgrade charge,4,Sales,Medium
+TKT00370,service problem request support refund payment upgrade,51,Billing,Medium
+TKT00371,customer issue problem support authentication login demo,34,Account,Medium
+TKT00372,service platform system upgrade quotation suggestion,41,Sales,Medium
+TKT00373,service request team issue platform plan demo access,13,Sales,Medium
+TKT00374,system customer service help request password login crash,1,Account,High
+TKT00375,customer system problem support improvement feature charge,7,Feedback,Medium
+TKT00376,system platform help problem access login server,28,Account,Medium
+TKT00377,service support problem invoice refund improvement,36,Billing,Medium
+TKT00378,service request system support issue api bug invoice,11,Tech,Medium
+TKT00379,service system team authentication login experience,17,Account,Low
+TKT00380,issue team request system support api bug improvement,46,Tech,Medium
+TKT00381,team request help system issue api bug feature,36,Tech,Medium
+TKT00382,service customer issue team error crash upgrade,31,Tech,High
+TKT00383,support platform customer experience feature subscription,18,Feedback,Low
+TKT00384,support problem request system subscription payment authentication,31,Billing,Medium
+TKT00385,platform service request help suggestion experience charge,13,Feedback,Low
+TKT00386,team system help pricing demo suggestion,58,Sales,Medium
+TKT00387,service help customer platform invoice payment access,7,Billing,Low
+TKT00388,request problem team charge invoice profile,29,Billing,Medium
+TKT00389,issue team help subscription invoice login,46,Billing,Medium
+TKT00390,service customer issue support review improvement subscription,56,Feedback,Medium
+TKT00391,system team platform server crash quotation,57,Tech,High
+TKT00392,help platform service customer request access login improvement,42,Account,Medium
+TKT00393,request problem help access authentication invoice,15,Account,Medium
+TKT00394,help support team improvement feature subscription,57,Feedback,Medium
+TKT00395,system support issue help request login password refund,21,Account,Medium
+TKT00396,team issue system experience feature access,49,Feedback,Medium
+TKT00397,request team service issue error crash subscription,30,Tech,High
+TKT00398,help system problem team platform experience review authentication,3,Feedback,Medium
+TKT00399,request system problem pricing demo api,44,Sales,Medium
+TKT00400,customer platform issue help service crash api invoice,23,Tech,High
+TKT00401,support team service customer error server demo,28,Tech,Medium
+TKT00402,support help service charge invoice server,55,Billing,Medium
+TKT00403,platform help support issue system bug api review,6,Tech,Medium
+TKT00404,service platform customer problem issue plan quotation invoice,5,Sales,Medium
+TKT00405,customer support team error server plan,24,Tech,Medium
+TKT00406,problem system team request charge refund pricing,34,Billing,Medium
+TKT00407,team problem system error server plan,28,Tech,Medium
+TKT00408,issue system support platform error bug upgrade,10,Account,Medium
+TKT00409,customer request platform help team profile access improvement,32,Account,Medium
+TKT00410,service request problem issue demo quotation experience,44,Sales,Medium
+TKT00411,request issue team feature experience pricing,8,Feedback,Medium
+TKT00412,platform issue service problem improvement review bug,1,Feedback,Medium
+TKT00413,team platform issue support system pricing upgrade api,11,Sales,Medium
+TKT00414,support customer system platform issue refund subscription password,27,Tech,Medium
+TKT00415,help system team charge payment quotation,41,Billing,Medium
+TKT00416,service platform system api crash pricing,13,Tech,High
+TKT00417,help problem team error bug improvement,19,Tech,Medium
+TKT00418,customer issue service help subscription invoice error,31,Billing,Medium
+TKT00419,service support customer improvement feature password,45,Feedback,Medium
+TKT00420,support service platform system quotation plan api,22,Billing,Low
+TKT00421,problem platform service server bug login,47,Tech,Medium
+TKT00422,help system service platform review improvement crash,58,Tech,High
+TKT00423,support issue request error server invoice,27,Tech,Medium
+TKT00424,issue system platform problem error api refund,24,Tech,Medium
+TKT00425,system request team server crash login,24,Tech,High
+TKT00426,customer problem help service refund subscription bug,50,Billing,Medium
+TKT00427,team customer platform help problem login access crash,37,Account,High
+TKT00428,team problem issue error crash login,49,Tech,High
+TKT00429,team help issue experience suggestion demo,2,Feedback,Medium
+TKT00430,help request system password profile bug,22,Account,Low
+TKT00431,system platform request team profile password review,47,Account,Medium
+TKT00432,platform service system help customer profile access upgrade,15,Account,Low
+TKT00433,system request help team issue demo pricing experience,53,Sales,Medium
+TKT00434,help system issue support crash error invoice,49,Tech,High
+TKT00435,request issue help support service feature suggestion plan,47,Feedback,Medium
+TKT00436,system request issue authentication access suggestion,49,Account,Medium
+TKT00437,problem service platform quotation upgrade refund,29,Sales,Medium
+TKT00438,help service team customer subscription refund improvement,45,Billing,Medium
+TKT00439,problem request support system service payment invoice login,52,Billing,Medium
+TKT00440,problem help system platform issue demo pricing bug,1,Sales,Medium
+TKT00441,service team support help platform feature suggestion bug,30,Feedback,Medium
+TKT00442,issue problem system request bug server invoice,59,Tech,Medium
+TKT00443,help problem request service platform api crash experience,2,Tech,High
+TKT00444,team customer issue help profile authentication review,52,Account,Medium
+TKT00445,customer help support bug api subscription,35,Tech,Medium
+TKT00446,team customer issue server crash review,3,Tech,High
+TKT00447,platform issue problem help suggestion review quotation,34,Feedback,Medium
+TKT00448,platform support service plan upgrade improvement,34,Sales,Medium
+TKT00449,issue problem customer help support server crash feature,25,Tech,High
+TKT00450,team help issue platform request password authentication demo,54,Account,Medium
+TKT00451,request issue problem service support quotation pricing access,37,Sales,Medium
+TKT00452,problem help request plan demo suggestion,59,Sales,Medium
+TKT00453,support system service request customer authentication password api,3,Account,Low
+TKT00454,help platform issue login profile pricing,24,Account,Medium
+TKT00455,issue platform request help error bug refund,35,Tech,Medium
+TKT00456,problem request system refund charge crash,11,Billing,High
+TKT00457,platform system service plan demo invoice,27,Sales,Medium
+TKT00458,service platform support customer pricing plan authentication,10,Sales,Low
+TKT00459,platform support team api server feature,13,Tech,Low
+TKT00460,platform help service customer quotation upgrade bug,16,Sales,Low
+TKT00461,customer support team request access password subscription,43,Account,Medium
+TKT00462,service platform problem review suggestion subscription,8,Feedback,Medium
+TKT00463,problem customer issue crash error review,20,Tech,High
+TKT00464,team platform customer request quotation plan subscription,35,Sales,Medium
+TKT00465,customer issue service team upgrade plan review,4,Sales,Medium
+TKT00466,platform system help team upgrade plan server,39,Sales,Medium
+TKT00467,issue service system platform bug crash authentication,1,Tech,High
+TKT00468,support system help team problem subscription payment demo,28,Billing,Medium
+TKT00469,customer system problem issue charge refund experience,55,Billing,Medium
+TKT00470,system help customer team support authentication profile crash,27,Account,High
+TKT00471,issue problem request system service suggestion feature charge,29,Feedback,Medium
+TKT00472,service problem system help issue pricing quotation suggestion,24,Sales,Medium
+TKT00473,team issue service platform suggestion feature refund,2,Feedback,Medium
+TKT00474,issue help problem customer platform upgrade pricing login,21,Sales,Medium
+TKT00475,system request team authentication login payment,51,Account,Medium
+TKT00476,team platform issue system demo plan suggestion,56,Sales,Medium
+TKT00477,problem team support customer issue review suggestion password,25,Feedback,Medium
+TKT00478,team service customer problem crash bug demo,31,Tech,High
+TKT00479,service problem platform upgrade demo profile,9,Sales,Medium
+TKT00480,platform problem service feature suggestion plan,12,Feedback,Medium
+TKT00481,support help platform experience review server,8,Feedback,Low
+TKT00482,problem issue team platform customer bug error access,42,Tech,Medium
+TKT00483,request service issue support bug crash quotation,28,Tech,High
+TKT00484,service request system crash server experience,33,Tech,High
+TKT00485,problem support request issue customer improvement review password,3,Billing,Medium
+TKT00486,team system customer help plan upgrade authentication,24,Feedback,Low
+TKT00487,system team customer issue crash api profile,45,Tech,High
+TKT00488,platform help customer bug server password,1,Tech,Low
+TKT00489,problem customer issue request password profile invoice,28,Account,Medium
+TKT00490,issue team system password login subscription,20,Account,Medium
+TKT00491,request team customer platform improvement experience bug,56,Feedback,Medium
+TKT00492,problem platform issue request api crash login,55,Tech,High
+TKT00493,problem team system review suggestion login,28,Feedback,Medium
+TKT00494,support platform issue request subscription refund password,27,Billing,Medium
+TKT00495,problem support system access login improvement,14,Account,Medium
+TKT00496,customer help problem api server review,36,Tech,Medium
+TKT00497,team issue service help invoice payment login,48,Billing,Medium
+TKT00498,support platform system login password api,9,Account,Low
+TKT00499,help problem issue system request experience review plan,14,Feedback,Medium
+TKT00500,help problem team customer request demo upgrade experience,9,Sales,Medium
+TKT00501,customer service support issue help payment charge login,13,Billing,Medium
+TKT00502,platform problem system request experience feature crash,24,Feedback,High
+TKT00503,service request system bug error experience,48,Tech,Medium
+TKT00504,customer request system issue service crash server login,39,Tech,High
+TKT00505,service issue team support subscription refund password,49,Billing,Medium
+TKT00506,team platform customer feature review charge,5,Feedback,Low
+TKT00507,request platform system invoice subscription authentication,19,Account,Low
+TKT00508,service problem team system charge refund pricing,6,Account,Medium
+TKT00509,team help customer api server quotation,27,Tech,Medium
+TKT00510,help request service system team feature suggestion invoice,49,Feedback,Medium
+TKT00511,problem support system team suggestion experience pricing,23,Feedback,Medium
+TKT00512,support issue problem authentication login subscription,60,Account,Medium
+TKT00513,customer service support platform feature suggestion quotation,6,Feedback,Low
+TKT00514,request system help error server invoice,28,Tech,Medium
+TKT00515,platform support customer system feature review authentication,20,Feedback,Low
+TKT00516,service issue problem customer authentication profile refund,33,Account,Medium
+TKT00517,platform support customer help quotation upgrade password,57,Sales,Medium
+TKT00518,request support help team api server review,30,Tech,Medium
+TKT00519,team support problem platform login authentication demo,58,Account,Medium
+TKT00520,team request support help customer demo pricing login,43,Sales,Medium
+TKT00521,platform issue system team invoice charge pricing,43,Billing,Medium
+TKT00522,support problem team review feature upgrade,16,Feedback,Medium
+TKT00523,customer issue team system quotation demo suggestion,7,Sales,Medium
+TKT00524,service team support system server api pricing,48,Tech,Medium
+TKT00525,request help service support problem experience feature quotation,23,Feedback,Medium
+TKT00526,customer problem team request suggestion feature access,30,Feedback,Medium
+TKT00527,problem request issue system support quotation plan api,12,Sales,Medium
+TKT00528,issue help system access authentication subscription,35,Account,Medium
+TKT00529,problem customer help platform improvement suggestion quotation,16,Feedback,Medium
+TKT00530,help request system platform pricing upgrade authentication,5,Account,Low
+TKT00531,support help team system problem server bug demo,3,Tech,Medium
+TKT00532,system support help upgrade plan server,25,Sales,Medium
+TKT00533,service platform system customer team quotation plan invoice,13,Sales,Low
+TKT00534,request service issue problem customer profile password server,47,Account,Medium
+TKT00535,platform request support service login profile demo,33,Account,Medium
+TKT00536,help issue team upgrade plan login,56,Sales,Medium
+TKT00537,service request customer demo pricing server,19,Sales,Low
+TKT00538,issue support help system request charge subscription login,49,Billing,Medium
+TKT00539,help request platform service problem bug crash password,27,Tech,High
+TKT00540,problem help issue team support charge subscription password,52,Billing,Medium
+TKT00541,customer request team improvement review refund,37,Feedback,Medium
+TKT00542,issue help platform api error charge,40,Tech,Medium
+TKT00543,platform issue system charge refund quotation,17,Billing,Medium
+TKT00544,help team customer system demo plan charge,5,Sales,Low
+TKT00545,support problem system help issue access password suggestion,9,Account,Medium
+TKT00546,request help problem platform support demo quotation error,15,Sales,Medium
+TKT00547,issue help system request platform server error invoice,38,Tech,Medium
+TKT00548,problem customer issue team support suggestion experience charge,34,Feedback,Medium
+TKT00549,request help service system password access demo,53,Account,Medium
+TKT00550,support help problem crash error upgrade,53,Tech,High
+TKT00551,service team system quotation plan invoice,49,Sales,Medium
+TKT00552,system team service request error server authentication,1,Feedback,Medium
+TKT00553,platform issue request subscription payment authentication,55,Billing,Medium
+TKT00554,help service system team error bug demo,4,Tech,Medium
+TKT00555,customer platform issue request subscription refund review,24,Account,Medium
+TKT00556,team service customer crash bug pricing,53,Tech,High
+TKT00557,support request issue login password error,11,Account,Medium
+TKT00558,team issue platform support help payment refund plan,25,Billing,Medium
+TKT00559,platform customer support problem bug crash upgrade,8,Tech,High
+TKT00560,customer platform support system improvement suggestion api,1,Feedback,Low
+TKT00561,service issue problem system request improvement suggestion crash,2,Feedback,High
+TKT00562,problem system issue customer pricing plan server,46,Sales,Medium
+TKT00563,help system issue service invoice payment error,8,Billing,Medium
+TKT00564,team system service customer help profile access payment,20,Account,Low
+TKT00565,customer service platform team issue review feature demo,56,Feedback,Medium
+TKT00566,request support platform system pricing plan refund,53,Sales,Medium
+TKT00567,platform problem issue request support error crash experience,13,Tech,High
+TKT00568,customer platform support service subscription charge login,36,Billing,Medium
+TKT00569,support platform team help problem bug crash quotation,12,Tech,High
+TKT00570,help team support platform issue subscription charge error,19,Billing,Medium
+TKT00571,team support service plan pricing api,31,Sales,Medium
+TKT00572,request support problem api server refund,42,Tech,Medium
+TKT00573,problem team issue login access suggestion,28,Account,Medium
+TKT00574,service issue request system help authentication profile review,60,Account,Medium
+TKT00575,issue problem platform service team review suggestion plan,26,Feedback,Medium
+TKT00576,support request help issue customer payment refund access,24,Billing,Medium
+TKT00577,system platform help team crash error feature,31,Tech,High
+TKT00578,help team service problem api error experience,45,Tech,Medium
+TKT00579,request problem issue service quotation pricing server,49,Sales,Medium
+TKT00580,issue service help password login improvement,9,Account,Medium
+TKT00581,customer help platform request quotation demo server,29,Account,Medium
+TKT00582,customer problem issue system access login pricing,50,Account,Medium
+TKT00583,customer platform system experience suggestion error,53,Feedback,Medium
+TKT00584,service platform support help bug server login,10,Tech,Low
+TKT00585,team problem issue help crash error login,29,Tech,High
+TKT00586,team platform help crash server login,19,Tech,High
+TKT00587,problem system customer help bug error experience,38,Tech,Medium
+TKT00588,system service support crash server profile,10,Tech,High
+TKT00589,issue team service problem refund payment pricing,2,Billing,Medium
+TKT00590,platform system support error bug demo,15,Tech,Medium
+TKT00591,service system help problem customer access password server,35,Account,Medium
+TKT00592,customer platform team payment refund plan,38,Billing,Medium
+TKT00593,team request service help support experience review login,12,Feedback,Low
+TKT00594,platform problem issue request customer login authentication upgrade,59,Account,Medium
+TKT00595,service issue problem customer crash error plan,41,Tech,High
+TKT00596,service team customer problem password access improvement,41,Account,Medium
+TKT00597,platform system service demo pricing bug,10,Sales,Low
+TKT00598,service problem issue team payment subscription crash,46,Billing,High
+TKT00599,team customer platform pricing demo login,47,Billing,Medium
+TKT00600,customer team help password login api,14,Account,Low
+TKT00601,problem support platform invoice refund suggestion,22,Billing,Medium
+TKT00602,service system problem issue platform experience improvement charge,12,Sales,Medium
+TKT00603,team service customer problem login access suggestion,31,Account,Medium
+TKT00604,support issue service help team suggestion experience upgrade,57,Feedback,Medium
+TKT00605,customer help system support issue crash api subscription,43,Tech,High
+TKT00606,customer request system login password refund,38,Account,Medium
+TKT00607,help issue service bug crash pricing,41,Tech,High
+TKT00608,request issue team service system password access plan,15,Account,Medium
+TKT00609,issue service support system customer crash error login,43,Tech,High
+TKT00610,service request platform bug api feature,41,Tech,Medium
+TKT00611,system issue help customer experience improvement refund,49,Feedback,Medium
+TKT00612,service customer help support feature improvement login,43,Feedback,Medium
+TKT00613,system service platform problem help experience feature authentication,21,Feedback,Medium
+TKT00614,issue platform customer help request suggestion improvement subscription,3,Feedback,Medium
+TKT00615,problem system support request improvement feature access,31,Feedback,Medium
+TKT00616,problem request support charge refund authentication,42,Billing,Medium
+TKT00617,customer problem request service server crash plan,10,Tech,High
+TKT00618,platform issue help request experience feature bug,52,Sales,Medium
+TKT00619,request service support problem help api crash charge,23,Tech,High
+TKT00620,service team system customer charge invoice password,22,Billing,Low
+TKT00621,service request team customer issue server bug plan,3,Tech,Medium
+TKT00622,platform customer service support password access upgrade,34,Account,Medium
+TKT00623,help service support platform invoice subscription crash,55,Billing,High
+TKT00624,team platform system bug server login,16,Tech,Low
+TKT00625,system team service request suggestion improvement crash,37,Feedback,High
+TKT00626,support problem service request team refund subscription quotation,14,Billing,Medium
+TKT00627,system service platform request pricing plan experience,12,Sales,Low
+TKT00628,help customer issue refund payment profile,15,Billing,Medium
+TKT00629,issue service problem help access login review,18,Account,Medium
+TKT00630,issue help team problem customer experience review login,32,Feedback,Medium
+TKT00631,issue team help crash error authentication,1,Tech,High
+TKT00632,team customer help service server api upgrade,46,Tech,Medium
+TKT00633,system request customer issue pricing plan profile,47,Sales,Medium
+TKT00634,system service team request invoice payment plan,60,Billing,Medium
+TKT00635,help support problem system request invoice charge review,54,Billing,Medium
+TKT00636,customer request problem system platform experience review demo,58,Feedback,Medium
+TKT00637,support customer help service team feature suggestion charge,41,Feedback,Medium
+TKT00638,issue service help plan pricing authentication,31,Sales,Medium
+TKT00639,support customer help pricing plan invoice,30,Sales,Medium
+TKT00640,request support platform team payment subscription review,22,Billing,Low
+TKT00641,help system issue demo upgrade improvement,26,Sales,Medium
+TKT00642,team service platform support issue experience suggestion password,36,Feedback,Medium
+TKT00643,customer system service platform team upgrade plan bug,54,Sales,Medium
+TKT00644,request team service customer demo pricing suggestion,33,Sales,Medium
+TKT00645,request customer support authentication password refund,48,Account,Medium
+TKT00646,problem system help customer payment charge access,6,Billing,Medium
+TKT00647,support problem platform issue suggestion improvement pricing,3,Feedback,Medium
+TKT00648,issue request support invoice refund password,46,Billing,Medium
+TKT00649,issue support platform bug crash authentication,28,Tech,High
+TKT00650,issue team support problem service feature experience quotation,50,Feedback,Medium
+TKT00651,help issue customer request plan demo invoice,15,Account,Medium
+TKT00652,request platform help review feature password,45,Feedback,Medium
+TKT00653,team help customer problem system experience improvement invoice,51,Feedback,Medium
+TKT00654,system team request api crash refund,49,Tech,High
+TKT00655,platform system issue support upgrade quotation authentication,15,Sales,Medium
+TKT00656,service request support help platform improvement review password,45,Feedback,Medium
+TKT00657,help platform service customer demo pricing login,23,Sales,Low
+TKT00658,problem customer support feature experience quotation,60,Feedback,Medium
+TKT00659,system customer help service plan quotation experience,51,Sales,Medium
+TKT00660,system problem customer support request feature suggestion access,53,Feedback,Medium
+TKT00661,service issue help feature experience refund,28,Feedback,Medium
+TKT00662,customer support system subscription refund api,40,Billing,Medium
+TKT00663,service customer request profile login review,29,Account,Medium
+TKT00664,customer service platform feature suggestion plan,37,Feedback,Medium
+TKT00665,issue request customer server error quotation,4,Tech,Medium
+TKT00666,system service customer demo pricing invoice,42,Sales,Medium
+TKT00667,customer system service invoice subscription feature,36,Billing,Medium
+TKT00668,help issue customer platform support improvement suggestion subscription,60,Sales,Medium
+TKT00669,customer help issue system quotation upgrade api,36,Sales,Medium
+TKT00670,platform service request subscription payment crash,18,Billing,High
+TKT00671,customer problem help platform error server charge,21,Tech,Medium
+TKT00672,platform request customer invoice charge access,53,Billing,Medium
+TKT00673,team platform help password profile quotation,11,Account,Low
+TKT00674,team request system api bug experience,23,Tech,Low
+TKT00675,team help system feature suggestion api,49,Feedback,Medium
+TKT00676,platform issue problem invoice payment profile,31,Billing,Medium
+TKT00677,help customer system upgrade plan crash,38,Sales,High
+TKT00678,team help request error server profile,13,Tech,Medium
+TKT00679,help customer issue service system refund subscription review,24,Billing,Medium
+TKT00680,platform problem customer system issue quotation upgrade crash,7,Sales,High
+TKT00681,system request service platform refund subscription experience,45,Billing,Medium
+TKT00682,system platform support team help api crash quotation,5,Tech,High
+TKT00683,issue team problem platform plan upgrade improvement,60,Sales,Medium
+TKT00684,support request help team service feature experience bug,46,Feedback,Medium
+TKT00685,help support platform request customer invoice charge login,27,Billing,Medium
+TKT00686,request help team issue service payment invoice api,43,Billing,Medium
+TKT00687,platform system issue pricing upgrade error,56,Sales,Medium
+TKT00688,problem request support system upgrade pricing login,27,Sales,Medium
+TKT00689,help team request customer system quotation plan experience,14,Sales,Low
+TKT00690,system support issue platform experience improvement upgrade,31,Feedback,Medium
+TKT00691,platform issue team request customer suggestion experience invoice,41,Feedback,Medium
+TKT00692,support customer service profile login pricing,34,Account,Medium
+TKT00693,help issue request platform support subscription payment feature,20,Billing,Medium
+TKT00694,problem system service crash server charge,18,Tech,High
+TKT00695,support issue system problem upgrade plan refund,45,Sales,Medium
+TKT00696,system platform request subscription invoice demo,35,Billing,Medium
+TKT00697,customer system platform password authentication improvement,38,Account,Medium
+TKT00698,support customer team api crash invoice,48,Tech,High
+TKT00699,support service help issue feature review subscription,12,Feedback,Medium
+TKT00700,support system platform issue charge refund password,23,Billing,Medium
+TKT00701,support system team service problem review improvement crash,51,Feedback,High
+TKT00702,request problem customer system support subscription charge pricing,31,Billing,Medium
+TKT00703,service request platform payment subscription quotation,32,Billing,Medium
+TKT00704,problem team help system customer bug server upgrade,43,Tech,Medium
+TKT00705,request issue customer problem support authentication password bug,46,Account,Medium
+TKT00706,team request issue access authentication suggestion,34,Account,Medium
+TKT00707,platform problem team support experience feature password,41,Feedback,Medium
+TKT00708,team system customer request help error api plan,5,Tech,Medium
+TKT00709,problem system service plan upgrade suggestion,18,Sales,Medium
+TKT00710,help support problem customer issue plan pricing bug,51,Sales,Medium
+TKT00711,platform problem system support server crash access,42,Tech,High
+TKT00712,platform service help experience feature error,12,Feedback,Medium
+TKT00713,support help issue experience suggestion demo,53,Feedback,Medium
+TKT00714,platform problem service system subscription invoice review,47,Billing,Medium
+TKT00715,support help issue platform invoice payment error,48,Billing,Medium
+TKT00716,platform problem team service issue authentication profile server,34,Account,Medium
+TKT00717,system help platform server crash profile,2,Tech,High
+TKT00718,system support problem issue bug error demo,1,Tech,Medium
+TKT00719,customer help request review experience access,16,Sales,Low
+TKT00720,platform system service help suggestion feature subscription,23,Feedback,Low
+TKT00721,request support platform system problem suggestion feature server,11,Feedback,Medium
+TKT00722,request help problem upgrade pricing bug,11,Sales,Medium
+TKT00723,issue platform request team help plan quotation api,1,Sales,Medium
+TKT00724,system request issue quotation plan review,52,Sales,Medium
+TKT00725,platform system issue login authentication improvement,29,Account,Medium
+TKT00726,help team problem system customer error api quotation,54,Tech,Medium
+TKT00727,team support system issue service improvement feature upgrade,34,Feedback,Medium
+TKT00728,service customer problem request login password pricing,8,Account,Medium
+TKT00729,issue service problem request crash bug login,58,Tech,High
+TKT00730,team system help request support authentication profile demo,35,Account,Medium
+TKT00731,service request problem profile password error,32,Account,Medium
+TKT00732,issue platform problem service request upgrade pricing refund,34,Sales,Medium
+TKT00733,customer problem help team request pricing quotation profile,7,Sales,Medium
+TKT00734,customer issue platform access login experience,23,Account,Medium
+TKT00735,team issue system customer charge subscription feature,35,Billing,Medium
+TKT00736,request service team platform feature experience demo,8,Feedback,Low
+TKT00737,request support team help demo plan feature,27,Sales,Medium
+TKT00738,platform system help team support feature review authentication,29,Feedback,Medium
+TKT00739,customer team request upgrade quotation api,8,Sales,Low
+TKT00740,team system service support password login error,28,Account,Medium
+TKT00741,customer team request review suggestion quotation,52,Billing,Medium
+TKT00742,platform help problem service charge invoice api,40,Account,Medium
+TKT00743,team system help issue access authentication feature,47,Account,Medium
+TKT00744,platform issue customer demo upgrade experience,9,Billing,Medium
+TKT00745,support problem service upgrade pricing invoice,28,Sales,Medium
+TKT00746,system help service support login profile quotation,24,Sales,Low
+TKT00747,service problem customer feature improvement server,11,Feedback,Medium
+TKT00748,problem customer service help review improvement error,22,Feedback,Medium
+TKT00749,request problem team demo pricing error,5,Sales,Medium
+TKT00750,service team support login password upgrade,48,Account,Medium
+TKT00751,problem help platform payment refund api,53,Billing,Medium
+TKT00752,help platform problem customer password login demo,58,Account,Medium
+TKT00753,help customer request improvement experience profile,14,Feedback,Low
+TKT00754,system platform service feature improvement login,20,Feedback,Low
+TKT00755,customer issue system refund payment password,41,Billing,Medium
+TKT00756,team system issue invoice payment bug,45,Billing,Medium
+TKT00757,system support request server bug access,43,Tech,Medium
+TKT00758,team customer problem plan quotation bug,10,Sales,Medium
+TKT00759,help team issue access login charge,53,Feedback,Medium
+TKT00760,platform help team customer charge payment password,49,Billing,Medium
+TKT00761,request help platform authentication login invoice,12,Account,Low
+TKT00762,problem team help refund subscription access,57,Billing,Medium
+TKT00763,issue team system demo quotation charge,31,Sales,Medium
+TKT00764,system platform customer team suggestion experience crash,26,Feedback,High
+TKT00765,service request platform server crash password,43,Tech,High
+TKT00766,support platform issue suggestion review api,57,Feedback,Medium
+TKT00767,problem customer team request pricing quotation crash,18,Sales,High
+TKT00768,problem service request help improvement feature pricing,23,Feedback,Medium
+TKT00769,platform help system support crash api authentication,16,Tech,High
+TKT00770,customer team issue request service pricing demo login,59,Sales,Medium
+TKT00771,request platform service team refund invoice bug,60,Feedback,Medium
+TKT00772,team issue problem customer review suggestion refund,7,Feedback,Medium
+TKT00773,problem team platform payment refund password,26,Billing,Medium
+TKT00774,platform help system issue charge refund access,55,Billing,Medium
+TKT00775,support help problem service subscription refund access,14,Billing,Medium
+TKT00776,help request platform error crash feature,24,Tech,High
+TKT00777,issue service team authentication password error,55,Account,Medium
+TKT00778,support request issue profile password plan,42,Account,Medium
+TKT00779,team request customer support issue bug server pricing,17,Tech,Medium
+TKT00780,support problem customer api bug suggestion,58,Tech,Medium
+TKT00781,platform problem support review suggestion crash,6,Feedback,High
+TKT00782,support problem platform login profile subscription,42,Account,Medium
+TKT00783,service request support team login authentication refund,13,Account,Low
+TKT00784,team support platform request system access password error,45,Account,Medium
+TKT00785,problem request platform help issue suggestion feature subscription,60,Feedback,Medium
+TKT00786,support request system error api upgrade,18,Tech,Medium
+TKT00787,help platform request plan pricing api,25,Sales,Medium
+TKT00788,service issue customer platform problem charge payment crash,49,Billing,High
+TKT00789,request help problem service bug error upgrade,18,Tech,Medium
+TKT00790,service issue request system feature review payment,16,Feedback,Medium
+TKT00791,platform service help problem plan demo server,14,Sales,Medium
+TKT00792,request service system problem issue pricing plan review,36,Billing,Medium
+TKT00793,support help customer login password payment,31,Account,Medium
+TKT00794,system issue help service feature review access,54,Feedback,Medium
+TKT00795,service support issue charge payment error,8,Billing,Medium
+TKT00796,platform customer request team experience feature quotation,58,Feedback,Medium
+TKT00797,team support service experience suggestion crash,17,Feedback,High
+TKT00798,help customer service system password access pricing,36,Account,Medium
+TKT00799,help customer request api bug access,52,Tech,Medium
+TKT00800,problem service team system platform password access upgrade,20,Account,Medium
+TKT00801,issue help customer request system charge payment profile,51,Billing,Medium
+TKT00802,issue system service problem request quotation plan feature,56,Sales,Medium
+TKT00803,platform team service charge refund plan,18,Billing,Low
+TKT00804,platform support issue customer system crash error improvement,55,Tech,High
+TKT00805,team service platform help customer suggestion review bug,37,Feedback,Medium
+TKT00806,help request service issue demo plan invoice,13,Sales,Medium
+TKT00807,request team help server api review,54,Sales,Medium
+TKT00808,customer help team system support error api upgrade,27,Tech,Medium
+TKT00809,service platform help system support invoice subscription quotation,39,Billing,Medium
+TKT00810,help system platform request service server bug profile,12,Tech,Low
+TKT00811,problem issue support experience review subscription,19,Feedback,Medium
+TKT00812,problem customer support improvement feature pricing,7,Feedback,Medium
+TKT00813,problem help team platform support error api quotation,11,Tech,Medium
+TKT00814,team system customer platform quotation plan password,57,Sales,Medium
+TKT00815,help system request problem team plan quotation improvement,11,Sales,Medium
+TKT00816,system request customer quotation upgrade subscription,40,Sales,Medium
+TKT00817,system service problem platform review experience subscription,60,Billing,Medium
+TKT00818,customer problem issue system help bug server review,27,Tech,Medium
+TKT00819,service problem platform help team api bug plan,17,Feedback,Medium
+TKT00820,platform customer support system suggestion review password,18,Feedback,Low
+TKT00821,team help problem request support subscription payment password,47,Billing,Medium
+TKT00822,team customer request service server error charge,16,Tech,Medium
+TKT00823,platform customer problem help plan demo access,59,Sales,Medium
+TKT00824,issue system request problem team server api refund,12,Tech,Medium
+TKT00825,support request problem upgrade plan experience,34,Sales,Medium
+TKT00826,customer issue team request plan quotation improvement,40,Sales,Medium
+TKT00827,issue customer help profile authentication upgrade,38,Account,Medium
+TKT00828,problem service customer authentication profile suggestion,41,Account,Medium
+TKT00829,support platform team profile access experience,34,Account,Medium
+TKT00830,help platform request customer team bug error invoice,9,Tech,Medium
+TKT00831,request team issue suggestion feature error,26,Feedback,Medium
+TKT00832,help support request system team feature improvement error,20,Feedback,Medium
+TKT00833,support team system platform customer plan demo server,10,Sales,Low
+TKT00834,issue service system charge invoice plan,18,Billing,Medium
+TKT00835,problem issue platform team support crash bug pricing,54,Tech,High
+TKT00836,request service system help problem login password charge,15,Account,Medium
+TKT00837,service team request server error demo,5,Tech,Medium
+TKT00838,support request issue team problem authentication profile payment,16,Account,Medium
+TKT00839,customer support service review improvement refund,15,Feedback,Low
+TKT00840,platform customer request team subscription charge review,22,Billing,Low
+TKT00841,team issue problem system refund invoice improvement,59,Billing,Medium
+TKT00842,service request issue support error crash authentication,7,Tech,High
+TKT00843,support issue service login password suggestion,52,Account,Medium
+TKT00844,system request team service platform profile login crash,40,Account,High
+TKT00845,team issue customer support help refund subscription pricing,21,Billing,Medium
+TKT00846,request service platform charge payment plan,34,Billing,Medium
+TKT00847,customer support request service platform refund invoice api,11,Billing,Low
+TKT00848,service request help team charge subscription review,4,Billing,Low
+TKT00849,service support issue team help profile password payment,17,Account,Medium
+TKT00850,team problem issue help refund charge improvement,59,Billing,Medium
+TKT00851,support customer issue system service access authentication experience,6,Account,Medium
+TKT00852,request support customer problem system charge payment quotation,4,Billing,Medium
+TKT00853,customer issue support team profile authentication server,43,Account,Medium
+TKT00854,platform issue problem improvement experience invoice,4,Feedback,Medium
+TKT00855,platform system support quotation upgrade invoice,56,Sales,Medium
+TKT00856,help platform team support demo quotation login,50,Sales,Medium
+TKT00857,service request support customer team plan demo experience,14,Sales,Low
+TKT00858,service system customer support profile login suggestion,25,Account,Medium
+TKT00859,platform support help service bug api login,49,Tech,Medium
+TKT00860,team system service problem invoice payment plan,19,Billing,Medium
+TKT00861,request problem system team support authentication profile demo,12,Account,Medium
+TKT00862,service customer request improvement feature crash,1,Feedback,High
+TKT00863,team help customer improvement review password,33,Feedback,Medium
+TKT00864,team platform system customer service invoice refund password,60,Billing,Medium
+TKT00865,problem system service support login access error,30,Account,Medium
+TKT00866,help system problem issue customer quotation demo charge,58,Sales,Medium
+TKT00867,issue service customer problem support bug server suggestion,41,Tech,Medium
+TKT00868,problem service support team suggestion improvement invoice,44,Feedback,Medium
+TKT00869,platform team customer access password refund,2,Account,Low
+TKT00870,issue request system support quotation upgrade server,18,Sales,Medium
+TKT00871,platform problem help support api server experience,26,Tech,Medium
+TKT00872,help system team support error api upgrade,28,Tech,Medium
+TKT00873,service customer system subscription invoice experience,24,Billing,Low
+TKT00874,help system request customer team crash api payment,28,Tech,High
+TKT00875,issue support team upgrade plan authentication,18,Sales,Medium
+TKT00876,customer platform help subscription invoice authentication,4,Billing,Low
+TKT00877,request system team subscription invoice suggestion,14,Billing,Low
+TKT00878,team customer help request suggestion improvement refund,55,Feedback,Medium
+TKT00879,platform problem team bug crash review,44,Tech,High
+TKT00880,request system problem feature improvement password,13,Feedback,Medium
+TKT00881,team problem support platform service upgrade pricing payment,19,Sales,Medium
+TKT00882,service support request platform team experience suggestion server,20,Feedback,Low
+TKT00883,platform problem help customer service server api subscription,49,Tech,Medium
+TKT00884,service system help support issue upgrade quotation profile,31,Sales,Medium
+TKT00885,team help system problem quotation pricing payment,5,Sales,Medium
+TKT00886,request support team customer service refund subscription error,47,Billing,Medium
+TKT00887,system team help issue password login error,59,Account,Medium
+TKT00888,system problem service refund payment demo,52,Billing,Medium
+TKT00889,platform support issue customer system password access crash,57,Sales,High
+TKT00890,system problem service team access authentication refund,25,Account,Medium
+TKT00891,help team issue server api payment,8,Tech,Medium
+TKT00892,team support service issue subscription invoice demo,17,Billing,Medium
+TKT00893,platform request support problem refund invoice server,22,Billing,Medium
+TKT00894,request team help feature review quotation,17,Feedback,Low
+TKT00895,platform support customer payment subscription login,18,Billing,Low
+TKT00896,customer problem team review experience payment,43,Feedback,Medium
+TKT00897,support customer team pricing quotation review,58,Sales,Medium
+TKT00898,support issue service help problem crash bug charge,40,Tech,High
+TKT00899,customer service support server crash plan,20,Tech,High
+TKT00900,system problem issue team plan quotation suggestion,16,Account,Medium
+TKT00901,platform problem service issue request charge refund improvement,24,Billing,Medium
+TKT00902,support service platform quotation plan suggestion,49,Sales,Medium
+TKT00903,customer platform team upgrade plan login,8,Sales,Low
+TKT00904,customer system help problem request upgrade demo error,18,Sales,Medium
+TKT00905,help customer problem refund charge quotation,11,Billing,Medium
+TKT00906,problem system help team quotation demo feature,39,Sales,Medium
+TKT00907,help service problem password login server,60,Account,Medium
+TKT00908,request help team server crash pricing,51,Tech,High
+TKT00909,problem support customer request improvement suggestion subscription,6,Feedback,Medium
+TKT00910,support service customer feature review access,31,Feedback,Medium
+TKT00911,system support help platform experience review invoice,51,Feedback,Medium
+TKT00912,team help issue customer login access charge,8,Account,Medium
+TKT00913,team request service issue problem feature experience demo,30,Feedback,Medium
+TKT00914,issue platform customer problem support api bug experience,19,Tech,Medium
+TKT00915,support issue platform profile password payment,32,Feedback,Medium
+TKT00916,request customer problem experience improvement plan,25,Feedback,Medium
+TKT00917,customer problem team password authentication upgrade,31,Account,Medium
+TKT00918,issue problem service help bug server pricing,58,Tech,Medium
+TKT00919,problem platform help request improvement suggestion error,20,Feedback,Medium
+TKT00920,system problem team suggestion review server,5,Feedback,Medium
+TKT00921,platform system customer feature experience refund,52,Feedback,Medium
+TKT00922,service request help customer system payment invoice experience,40,Billing,Medium
+TKT00923,customer help request improvement experience refund,45,Feedback,Medium
+TKT00924,team issue request support api crash charge,58,Tech,High
+TKT00925,request service issue platform team plan quotation api,38,Sales,Medium
+TKT00926,support customer service problem suggestion experience api,60,Feedback,Medium
+TKT00927,help issue request service customer bug crash experience,54,Tech,High
+TKT00928,problem customer team platform charge payment api,59,Billing,Medium
+TKT00929,system issue support service problem authentication profile demo,10,Account,Medium
+TKT00930,help request issue team plan upgrade profile,54,Sales,Medium
+TKT00931,system platform support request service feature suggestion payment,53,Feedback,Medium
+TKT00932,problem platform issue help login profile plan,47,Account,Medium
+TKT00933,request help customer service issue pricing demo authentication,52,Sales,Medium
+TKT00934,team customer request problem support upgrade quotation profile,16,Sales,Medium
+TKT00935,problem issue system review feature refund,46,Feedback,Medium
+TKT00936,team help problem customer issue server api invoice,27,Tech,Medium
+TKT00937,support issue team request system authentication login server,48,Tech,Medium
+TKT00938,team help customer system profile access review,34,Account,Medium
+TKT00939,service problem support request bug crash subscription,14,Tech,High
+TKT00940,team problem issue customer platform refund payment quotation,29,Billing,Medium
+TKT00941,system service support request pricing plan server,47,Sales,Medium
+TKT00942,team help request login password upgrade,6,Account,Low
+TKT00943,help issue platform problem team subscription payment profile,3,Billing,Medium
+TKT00944,team service problem upgrade plan payment,8,Sales,Medium
+TKT00945,help issue platform plan demo improvement,20,Sales,Medium
+TKT00946,problem customer platform team system plan upgrade profile,58,Sales,Medium
+TKT00947,platform request support system help charge subscription authentication,17,Billing,Low
+TKT00948,platform support help customer team charge payment feature,19,Billing,Low
+TKT00949,issue support customer server error authentication,60,Tech,Medium
+TKT00950,request issue platform payment refund access,41,Billing,Medium
+TKT00951,problem service issue profile authentication pricing,57,Account,Medium
+TKT00952,support problem issue service authentication login invoice,10,Account,Medium
+TKT00953,platform customer system plan quotation review,12,Sales,Low
+TKT00954,request system help support problem bug crash feature,36,Tech,High
+TKT00955,customer request platform review improvement plan,58,Feedback,Medium
+TKT00956,system issue service platform request authentication profile subscription,5,Account,Medium
+TKT00957,team help platform problem review suggestion server,28,Feedback,Medium
+TKT00958,request support problem quotation upgrade suggestion,30,Sales,Medium
+TKT00959,issue team system problem support bug server charge,12,Tech,Medium
+TKT00960,issue system support improvement review invoice,30,Feedback,Medium
+TKT00961,request customer help service profile access plan,27,Account,Medium
+TKT00962,problem issue service refund payment demo,21,Billing,Medium
+TKT00963,help support system issue customer pricing plan improvement,50,Sales,Medium
+TKT00964,issue request system team upgrade plan profile,16,Sales,Medium
+TKT00965,support problem platform system customer refund subscription demo,11,Billing,Medium
+TKT00966,system platform problem issue support review suggestion demo,40,Feedback,Medium
+TKT00967,issue help service system platform quotation pricing subscription,51,Sales,Medium
+TKT00968,issue platform service access authentication pricing,54,Account,Medium
+TKT00969,help support request improvement suggestion payment,29,Feedback,Medium
+TKT00970,service request customer system team server api invoice,13,Tech,Low
+TKT00971,customer help support request platform subscription invoice review,55,Billing,Medium
+TKT00972,system problem platform help issue quotation upgrade invoice,50,Sales,Medium
+TKT00973,support issue service request access authentication pricing,38,Account,Medium
+TKT00974,service problem customer experience feature error,46,Feedback,Medium
+TKT00975,problem team customer improvement suggestion plan,12,Feedback,Medium
+TKT00976,platform issue problem bug error login,56,Tech,Medium
+TKT00977,team system help feature review access,3,Feedback,Low
+TKT00978,help customer request team system quotation upgrade error,13,Sales,Medium
+TKT00979,platform issue customer experience improvement server,45,Sales,Medium
+TKT00980,problem customer support server error charge,25,Tech,Medium
+TKT00981,help customer platform plan demo suggestion,50,Sales,Medium
+TKT00982,team customer support request issue login profile charge,22,Account,Medium
+TKT00983,customer help problem experience suggestion profile,12,Feedback,Medium
+TKT00984,problem system issue customer team invoice refund crash,28,Billing,High
+TKT00985,help service support customer system quotation upgrade login,23,Sales,Low
+TKT00986,customer problem support system team feature improvement invoice,25,Feedback,Medium
+TKT00987,platform request problem quotation upgrade access,12,Sales,Medium
+TKT00988,request issue platform system help quotation upgrade access,39,Sales,Medium
+TKT00989,team platform customer request payment subscription upgrade,27,Billing,Medium
+TKT00990,problem request system support server bug refund,48,Tech,Medium
+TKT00991,support request system customer review suggestion authentication,38,Feedback,Medium
+TKT00992,service issue problem customer request password profile error,11,Account,Medium
+TKT00993,problem issue system crash error login,3,Tech,High
+TKT00994,platform issue team service pricing quotation subscription,5,Sales,Medium
+TKT00995,issue customer request help server bug feature,23,Tech,Medium
+TKT00996,platform problem support system service crash error refund,2,Tech,High
+TKT00997,problem customer platform request team pricing plan server,14,Sales,Medium
+TKT00998,system platform service problem customer error crash plan,4,Tech,High
+TKT00999,request system issue platform service review experience bug,36,Feedback,Medium
+TKT01000,problem team customer improvement experience plan,20,Feedback,Medium
+TKT01001,request service problem crash server improvement,26,Billing,High
+TKT01002,problem service platform issue request review feature pricing,51,Feedback,Medium
+TKT01003,problem customer request login access plan,37,Account,Medium
+TKT01004,issue service help request pricing plan review,49,Sales,Medium
+TKT01005,team request customer support issue payment refund server,26,Billing,Medium
+TKT01006,platform service issue team profile password server,6,Account,Medium
+TKT01007,support help problem system plan demo suggestion,22,Sales,Medium
+TKT01008,service issue customer platform team authentication password payment,4,Account,Medium
+TKT01009,service problem request platform support improvement suggestion upgrade,51,Feedback,Medium
+TKT01010,issue service customer server error subscription,10,Tech,Medium
+TKT01011,help service platform issue support access password error,59,Account,Medium
+TKT01012,team service help problem error bug upgrade,53,Tech,Medium
+TKT01013,customer team help platform system authentication profile bug,41,Account,Medium
+TKT01014,team help service issue server crash login,54,Tech,High
+TKT01015,help support issue invoice subscription quotation,39,Billing,Medium
+TKT01016,issue team support customer request payment invoice authentication,40,Billing,Medium
+TKT01017,team support issue problem access password payment,30,Account,Medium
+TKT01018,support problem request system customer crash error improvement,46,Tech,High
+TKT01019,system help platform subscription refund upgrade,60,Billing,Medium
+TKT01020,support system issue api error upgrade,6,Tech,Medium
+TKT01021,team request platform service suggestion feature crash,49,Feedback,High
+TKT01022,support help platform password authentication suggestion,41,Account,Medium
+TKT01023,system request problem help platform feature experience login,43,Feedback,Medium
+TKT01024,platform service customer system team error bug profile,17,Tech,Medium
+TKT01025,system customer platform password access feature,45,Account,Medium
+TKT01026,team request issue experience feature authentication,29,Feedback,Medium
+TKT01027,problem support issue request customer authentication login bug,37,Account,Medium
+TKT01028,service problem support platform experience improvement password,41,Feedback,Medium
+TKT01029,platform customer service suggestion experience bug,6,Feedback,Low
+TKT01030,help support service team review experience upgrade,16,Feedback,Low
+TKT01031,customer service issue platform profile login pricing,39,Account,Medium
+TKT01032,request service customer suggestion improvement server,17,Feedback,Low
+TKT01033,issue request team support password login pricing,59,Feedback,Medium
+TKT01034,service support problem issue help server crash feature,28,Tech,High
+TKT01035,platform request problem improvement suggestion pricing,6,Feedback,Medium
+TKT01036,issue support platform customer authentication login feature,6,Account,Medium
+TKT01037,platform problem request system api bug charge,36,Tech,Medium
+TKT01038,platform help support service issue login authentication demo,30,Account,Medium
+TKT01039,support service problem request platform plan demo refund,58,Sales,Medium
+TKT01040,customer support team help review experience quotation,6,Feedback,Low
+TKT01041,support problem request system customer login authentication quotation,24,Account,Medium
+TKT01042,platform issue system service help charge payment profile,8,Billing,Medium
+TKT01043,customer request system api error demo,39,Tech,Medium
+TKT01044,platform support service feature improvement plan,58,Feedback,Medium
+TKT01045,help team system platform service experience feature server,27,Feedback,Medium
+TKT01046,system issue customer team review suggestion payment,31,Feedback,Medium
+TKT01047,issue problem request service error crash charge,9,Tech,High
+TKT01048,issue help customer server crash profile,7,Tech,High
+TKT01049,issue team request customer support api bug subscription,10,Tech,Medium
+TKT01050,platform team customer system service feature review error,7,Feedback,Medium
+TKT01051,support issue service problem team password profile crash,45,Account,High
+TKT01052,team support customer issue request refund payment error,3,Billing,Medium
+TKT01053,system problem team help bug api charge,56,Tech,Medium
+TKT01054,request platform customer bug crash review,59,Tech,High
+TKT01055,problem service team profile access feature,15,Account,Medium
+TKT01056,help customer team system experience improvement plan,59,Feedback,Medium
+TKT01057,issue customer request charge payment crash,55,Billing,High
+TKT01058,support service problem request login access experience,12,Account,Medium
+TKT01059,support problem issue access authentication refund,14,Account,Medium
+TKT01060,support service team system customer review experience invoice,14,Feedback,Low
+TKT01061,team customer service system improvement experience api,19,Feedback,Low
+TKT01062,request problem system platform help authentication profile quotation,34,Account,Medium
+TKT01063,request system help problem upgrade quotation feature,39,Sales,Medium
+TKT01064,problem service platform issue system profile access error,40,Account,Medium
+TKT01065,system issue service request team login password charge,39,Account,Medium
+TKT01066,customer help service team request review experience server,14,Feedback,Low
+TKT01067,help service customer platform issue profile login subscription,54,Account,Medium
+TKT01068,service platform support team improvement feature refund,45,Feedback,Medium
+TKT01069,team customer issue support platform pricing quotation authentication,51,Sales,Medium
+TKT01070,support team issue help customer review experience quotation,47,Feedback,Medium
+TKT01071,problem request system refund invoice access,46,Billing,Medium
+TKT01072,customer issue help service platform payment refund access,26,Billing,Medium
+TKT01073,request problem support issue customer server crash quotation,45,Tech,High
+TKT01074,help support problem platform request password profile improvement,32,Account,Medium
+TKT01075,problem help system password profile suggestion,38,Tech,Medium
+TKT01076,service problem platform customer issue server bug plan,44,Tech,Medium
+TKT01077,system help service support server api plan,59,Tech,Medium
+TKT01078,support customer help team demo plan bug,28,Sales,Medium
+TKT01079,problem platform issue service team error server payment,23,Tech,Medium
+TKT01080,customer system help invoice subscription feature,20,Billing,Low
+TKT01081,system support platform service problem feature suggestion charge,50,Feedback,Medium
+TKT01082,issue system team help review feature plan,57,Feedback,Medium
+TKT01083,support problem request help improvement feature profile,27,Feedback,Medium
+TKT01084,problem system service team experience feature quotation,7,Feedback,Medium
+TKT01085,support help request problem review feature plan,41,Feedback,Medium
+TKT01086,help team service crash api review,9,Tech,High
+TKT01087,system team service charge invoice api,45,Billing,Medium
+TKT01088,system customer support platform pricing demo access,27,Sales,Medium
+TKT01089,issue problem team login password server,30,Account,Medium
+TKT01090,support request problem issue improvement experience invoice,17,Billing,Medium
+TKT01091,service customer problem request support suggestion feature profile,17,Feedback,Medium
+TKT01092,customer request team support problem charge payment bug,14,Billing,Medium
+TKT01093,team service system crash error review,47,Tech,High
+TKT01094,team service request issue invoice refund improvement,12,Billing,Medium
+TKT01095,team help service problem improvement review crash,25,Feedback,High
+TKT01096,service customer help subscription refund error,27,Billing,Medium
+TKT01097,team help service payment charge pricing,59,Billing,Medium
+TKT01098,request problem customer payment subscription profile,45,Billing,Medium
+TKT01099,platform service problem team system access authentication upgrade,29,Account,Medium
+TKT01100,support customer request issue api bug suggestion,4,Tech,Medium
+TKT01101,customer system support profile password server,51,Account,Medium
+TKT01102,team customer platform request issue profile password suggestion,13,Account,Medium
+TKT01103,service problem help team customer review experience upgrade,13,Feedback,Medium
+TKT01104,request service system support access profile demo,40,Account,Medium
+TKT01105,system problem help issue profile access review,9,Account,Medium
+TKT01106,team help system experience review password,48,Feedback,Medium
+TKT01107,team support service login profile server,9,Account,Low
+TKT01108,support request system team customer pricing plan profile,42,Sales,Medium
+TKT01109,platform service issue request system login password api,34,Account,Medium
+TKT01110,request service system help customer suggestion review crash,51,Sales,High
+TKT01111,customer request system invoice charge upgrade,49,Billing,Medium
+TKT01112,problem issue support service login access crash,28,Account,High
+TKT01113,request system support customer team access login server,44,Account,Medium
+TKT01114,system customer service problem bug api experience,5,Tech,Medium
+TKT01115,problem request issue team api bug quotation,52,Tech,Medium
+TKT01116,problem platform help upgrade plan login,10,Sales,Medium
+TKT01117,team system customer platform quotation upgrade crash,17,Sales,High
+TKT01118,request system platform customer subscription charge quotation,21,Billing,Low
+TKT01119,support issue team problem pricing plan server,44,Sales,Medium
+TKT01120,support problem system bug server upgrade,31,Tech,Medium
+TKT01121,service team system upgrade plan improvement,42,Sales,Medium
+TKT01122,issue system team support problem invoice refund improvement,59,Billing,Medium
+TKT01123,service issue team customer demo upgrade crash,17,Sales,High
+TKT01124,help team problem error bug pricing,21,Tech,Medium
+TKT01125,support problem help customer api crash invoice,55,Tech,High
+TKT01126,problem help issue error server suggestion,22,Tech,Medium
+TKT01127,customer request system team problem login profile experience,37,Account,Medium
+TKT01128,team issue help customer crash server invoice,15,Tech,High
+TKT01129,service system platform request upgrade quotation server,37,Sales,Medium
+TKT01130,support issue help request server bug review,35,Tech,Medium
+TKT01131,service platform help request access login bug,2,Account,Low
+TKT01132,team request problem server error profile,25,Tech,Medium
+TKT01133,team issue support customer refund payment pricing,17,Billing,Medium
+TKT01134,request help problem platform plan demo server,17,Sales,Medium
+TKT01135,team help support customer problem api bug refund,46,Tech,Medium
+TKT01136,customer help service problem platform access profile quotation,56,Account,Medium
+TKT01137,issue system problem invoice subscription login,60,Billing,Medium
+TKT01138,team customer problem support refund subscription error,17,Billing,Medium
+TKT01139,support issue system invoice refund profile,16,Billing,Medium
+TKT01140,help request platform experience suggestion access,4,Feedback,Low
+TKT01141,issue request support password authentication improvement,13,Account,Medium
+TKT01142,platform problem system customer help suggestion experience login,23,Feedback,Medium
+TKT01143,support issue help request service refund invoice bug,33,Billing,Medium
+TKT01144,platform system issue review improvement pricing,31,Feedback,Medium
+TKT01145,system problem team customer review suggestion plan,14,Feedback,Medium
+TKT01146,platform customer request service upgrade plan api,33,Sales,Medium
+TKT01147,support system team request password login refund,60,Account,Medium
+TKT01148,issue help support team platform plan pricing authentication,32,Sales,Medium
+TKT01149,service system issue profile authentication suggestion,59,Account,Medium
+TKT01150,platform team system help request quotation plan suggestion,34,Sales,Medium
+TKT01151,service request issue system platform password authentication review,21,Account,Medium
+TKT01152,service platform request quotation demo login,42,Sales,Medium
+TKT01153,platform support issue system customer error server charge,51,Tech,Medium
+TKT01154,system help support profile login bug,15,Account,Low
+TKT01155,customer help service demo upgrade authentication,12,Sales,Low
+TKT01156,team help issue request api error experience,39,Tech,Medium
+TKT01157,support customer issue request crash bug improvement,14,Tech,High
+TKT01158,help service customer charge payment improvement,20,Billing,Low
+TKT01159,support issue service customer bug server experience,40,Tech,Medium
+TKT01160,request problem team system experience review subscription,45,Feedback,Medium
+TKT01161,issue request system upgrade demo crash,22,Sales,High
+TKT01162,issue platform request customer system subscription refund plan,8,Billing,Medium
+TKT01163,issue system problem platform improvement feature charge,25,Feedback,Medium
+TKT01164,problem platform team help refund subscription profile,43,Billing,Medium
+TKT01165,support issue problem service login password quotation,27,Account,Medium
+TKT01166,issue service support help quotation demo improvement,18,Sales,Medium
+TKT01167,team problem platform help bug crash profile,19,Tech,High
+TKT01168,customer issue team feature improvement refund,13,Feedback,Medium
+TKT01169,service request help error api charge,23,Tech,Medium
+TKT01170,team platform help crash api pricing,41,Tech,High
+TKT01171,problem request help team server error suggestion,42,Tech,Medium
+TKT01172,customer platform service review feature authentication,30,Feedback,Medium
+TKT01173,platform service team problem review suggestion pricing,27,Feedback,Medium
+TKT01174,help issue platform team login profile demo,51,Account,Medium
+TKT01175,issue support system service demo upgrade password,30,Sales,Medium
+TKT01176,service support system issue team pricing plan error,55,Sales,Medium
+TKT01177,service customer request team help bug api profile,31,Tech,Medium
+TKT01178,help team request service password authentication pricing,37,Account,Medium
+TKT01179,team service help system password profile charge,48,Account,Medium
+TKT01180,support customer team issue system experience improvement invoice,47,Feedback,Medium
+TKT01181,issue service system invoice subscription feature,25,Billing,Medium
+TKT01182,help system platform team request pricing upgrade refund,19,Sales,Low
+TKT01183,issue system team service invoice charge experience,36,Billing,Medium
+TKT01184,customer problem support platform profile login crash,41,Account,High
+TKT01185,platform customer support authentication access improvement,35,Account,Medium
+TKT01186,problem request support issue platform login profile refund,45,Account,Medium
+TKT01187,issue service problem system platform authentication login crash,40,Account,High
+TKT01188,platform customer system server api pricing,30,Tech,Medium
+TKT01189,issue team platform customer problem pricing upgrade bug,23,Tech,Medium
+TKT01190,platform request customer plan pricing crash,54,Sales,High
+TKT01191,problem service help request charge invoice profile,41,Billing,Medium
+TKT01192,service customer request problem feature improvement bug,52,Feedback,Medium
+TKT01193,system issue platform support team access profile crash,60,Account,High
+TKT01194,problem support system payment invoice demo,7,Tech,Medium
+TKT01195,help system support review suggestion bug,55,Feedback,Medium
+TKT01196,issue platform system support customer experience feature authentication,22,Feedback,Medium
+TKT01197,service help issue request bug api experience,19,Tech,Medium
+TKT01198,request team issue bug api payment,41,Tech,Medium
+TKT01199,problem request system help issue refund subscription authentication,46,Billing,Medium
+TKT01200,issue system request error bug experience,27,Tech,Medium
+TKT01201,support system help problem error server invoice,5,Tech,Medium
+TKT01202,platform service team profile password bug,2,Account,Low
+TKT01203,help service platform problem system password profile review,50,Account,Medium
+TKT01204,system customer service feature suggestion login,16,Feedback,Low
+TKT01205,problem support system pricing demo error,8,Sales,Medium
+TKT01206,team support request suggestion feature upgrade,15,Feedback,Low
+TKT01207,request help customer team service authentication access error,5,Account,Medium
+TKT01208,system issue problem help bug crash pricing,15,Tech,High
+TKT01209,help team issue error server authentication,37,Tech,Medium
+TKT01210,customer platform support plan pricing experience,23,Sales,Low
+TKT01211,help problem system payment invoice login,43,Billing,Medium
+TKT01212,support platform customer request problem demo pricing crash,35,Sales,High
+TKT01213,system problem request service issue crash bug password,3,Tech,High
+TKT01214,customer issue team request review feature profile,8,Feedback,Medium
+TKT01215,help customer team error server profile,15,Tech,Medium
+TKT01216,system platform service customer request demo plan payment,36,Sales,Medium
+TKT01217,issue help support service login profile feature,58,Account,Medium
+TKT01218,platform team issue help system subscription charge pricing,58,Billing,Medium
+TKT01219,request team service crash server suggestion,25,Tech,High
+TKT01220,system request problem plan demo refund,5,Sales,Medium
+TKT01221,issue request support help system suggestion experience api,3,Feedback,Medium
+TKT01222,help customer system platform service login access upgrade,19,Account,Low
+TKT01223,customer platform support authentication password improvement,24,Account,Low
+TKT01224,support service issue system platform pricing demo profile,25,Sales,Medium
+TKT01225,system support team authentication profile bug,58,Account,Medium
+TKT01226,system platform problem review suggestion invoice,6,Feedback,Medium
+TKT01227,problem customer request team upgrade pricing refund,23,Sales,Medium
+TKT01228,customer system help access password quotation,44,Account,Medium
+TKT01229,service team issue feature suggestion password,9,Feedback,Medium
+TKT01230,request system platform help profile login refund,52,Account,Medium
+TKT01231,customer issue platform invoice charge pricing,13,Billing,Medium
+TKT01232,support issue request charge invoice suggestion,18,Billing,Medium
+TKT01233,request customer support platform team access profile quotation,4,Account,Low
+TKT01234,issue platform customer request service upgrade plan server,48,Sales,Medium
+TKT01235,request problem customer issue service improvement suggestion access,1,Feedback,Medium
+TKT01236,request support service team review experience api,16,Feedback,Low
+TKT01237,issue system customer team service profile login invoice,12,Account,Medium
+TKT01238,help service support issue platform plan quotation access,43,Sales,Medium
+TKT01239,platform problem team feature experience error,54,Feedback,Medium
+TKT01240,support team system customer platform access authentication experience,59,Account,Medium
+TKT01241,platform system request issue subscription payment review,33,Billing,Medium
+TKT01242,team problem service pricing demo profile,18,Sales,Medium
+TKT01243,team service customer issue improvement feature authentication,29,Feedback,Medium
+TKT01244,request service help customer password profile improvement,60,Account,Medium
+TKT01245,system request customer problem pricing plan password,28,Sales,Medium
+TKT01246,service platform team issue demo pricing invoice,51,Sales,Medium
+TKT01247,request help system experience review quotation,14,Feedback,Low
+TKT01248,system request service platform customer pricing upgrade invoice,18,Sales,Low
+TKT01249,issue system problem service request authentication access quotation,18,Account,Medium
+TKT01250,customer support platform bug error charge,51,Tech,Medium
+TKT01251,support problem team system help demo plan experience,33,Sales,Medium
+TKT01252,help problem service team customer authentication password feature,56,Account,Medium
+TKT01253,customer team help platform request pricing quotation access,48,Sales,Medium
+TKT01254,request platform customer service crash server suggestion,19,Tech,High
+TKT01255,service problem issue review improvement subscription,54,Feedback,Medium
+TKT01256,help problem team support platform pricing upgrade password,12,Sales,Medium
+TKT01257,issue platform problem feature suggestion plan,57,Feedback,Medium
+TKT01258,help support team service issue authentication access improvement,18,Account,Medium
+TKT01259,request platform customer payment invoice api,56,Billing,Medium
+TKT01260,help issue customer team service crash server demo,17,Tech,High
+TKT01261,issue help service system bug crash review,47,Tech,High
+TKT01262,request system issue customer experience review plan,40,Feedback,Medium
+TKT01263,problem platform issue team customer crash server improvement,31,Tech,High
+TKT01264,system issue problem customer login authentication pricing,48,Account,Medium
+TKT01265,help platform problem request customer upgrade plan suggestion,33,Sales,Medium
+TKT01266,request issue platform team help demo pricing login,30,Sales,Medium
+TKT01267,problem customer system platform experience improvement plan,42,Feedback,Medium
+TKT01268,request customer help platform issue password access invoice,25,Account,Medium
+TKT01269,team problem issue service help api crash profile,31,Tech,High
+TKT01270,system customer service profile authentication subscription,25,Account,Medium
+TKT01271,problem customer help pricing quotation suggestion,32,Feedback,Medium
+TKT01272,team system platform api crash profile,21,Tech,High
+TKT01273,support help system request platform improvement experience pricing,25,Feedback,Medium
+TKT01274,team request issue system platform pricing plan charge,32,Sales,Medium
+TKT01275,support service problem feature improvement subscription,34,Feedback,Medium
+TKT01276,issue problem request customer crash server charge,20,Tech,High
+TKT01277,customer problem team request api server refund,20,Tech,Medium
+TKT01278,customer issue system bug error experience,42,Tech,Medium
+TKT01279,team system platform service error crash quotation,10,Tech,High
+TKT01280,platform service team issue plan quotation bug,30,Sales,Medium
+TKT01281,problem system team support quotation upgrade profile,57,Sales,Medium
+TKT01282,customer support system problem error crash feature,51,Tech,High
+TKT01283,request help system review improvement login,45,Feedback,Medium
+TKT01284,issue platform customer demo quotation improvement,2,Sales,Medium
+TKT01285,service team help issue problem review experience invoice,8,Feedback,Medium
+TKT01286,platform customer issue help team error crash profile,51,Tech,High
+TKT01287,issue customer problem service upgrade quotation review,59,Sales,Medium
+TKT01288,customer service support system issue experience suggestion charge,60,Feedback,Medium
+TKT01289,platform support system request service charge payment password,11,Billing,Low
+TKT01290,help team platform authentication profile quotation,50,Account,Medium
+TKT01291,request team problem issue platform access password plan,29,Account,Medium
+TKT01292,platform request team problem customer password access suggestion,14,Account,Medium
+TKT01293,request help problem payment refund server,2,Billing,Medium
+TKT01294,problem platform request system plan pricing crash,42,Sales,High
+TKT01295,team platform request support customer upgrade pricing subscription,25,Sales,Medium
+TKT01296,system issue problem invoice payment access,25,Billing,Medium
+TKT01297,support problem platform demo upgrade invoice,15,Sales,Medium
+TKT01298,service platform support system request pricing upgrade charge,17,Sales,Low
+TKT01299,support problem system help customer refund subscription quotation,4,Billing,Medium
+TKT01300,team customer platform authentication password bug,24,Account,Low
+TKT01301,customer platform request help api crash profile,23,Tech,High
+TKT01302,team problem request system support payment subscription plan,13,Billing,Medium
+TKT01303,support team system invoice payment upgrade,17,Billing,Low
+TKT01304,customer support help service upgrade demo crash,27,Sales,High
+TKT01305,team problem platform request review feature plan,60,Feedback,Medium
+TKT01306,customer help request platform support api bug profile,50,Tech,Medium
+TKT01307,customer system team help service improvement suggestion quotation,24,Feedback,Low
+TKT01308,customer system request support plan quotation improvement,26,Sales,Medium
+TKT01309,customer service system help problem experience suggestion pricing,58,Feedback,Medium
+TKT01310,issue platform support help charge subscription improvement,36,Billing,Medium
+TKT01311,platform problem team system bug error payment,15,Tech,Medium
+TKT01312,service platform system support bug crash refund,5,Tech,High
+TKT01313,issue request platform help refund charge password,54,Billing,Medium
+TKT01314,problem platform support team request authentication profile quotation,2,Account,Medium
+TKT01315,support request platform help refund subscription review,43,Billing,Medium
+TKT01316,problem system issue customer team experience feature upgrade,43,Feedback,Medium
+TKT01317,customer system problem login password review,6,Feedback,Medium
+TKT01318,request service platform help system payment refund login,50,Billing,Medium
+TKT01319,team service problem issue refund charge api,54,Billing,Medium
+TKT01320,problem system issue improvement review charge,48,Feedback,Medium
+TKT01321,team system service request plan upgrade charge,45,Sales,Medium
+TKT01322,request help issue payment invoice quotation,23,Billing,Medium
+TKT01323,system issue problem service crash api profile,33,Tech,High
+TKT01324,service request problem feature experience charge,9,Feedback,Medium
+TKT01325,request customer issue problem feature experience error,60,Feedback,Medium
+TKT01326,issue platform help access login bug,46,Account,Medium
+TKT01327,issue service request customer team invoice subscription password,59,Billing,Medium
+TKT01328,team platform customer help issue invoice charge error,56,Billing,Medium
+TKT01329,system team platform pricing plan login,3,Sales,Low
+TKT01330,system help customer team issue error bug refund,15,Tech,Medium
+TKT01331,support customer team platform feature suggestion payment,29,Feedback,Medium
+TKT01332,team service support problem request quotation plan experience,15,Sales,Medium
+TKT01333,system platform problem issue refund invoice upgrade,55,Billing,Medium
+TKT01334,service issue help team problem plan demo feature,55,Feedback,Medium
+TKT01335,request issue platform upgrade plan review,22,Sales,Medium
+TKT01336,team customer service request quotation upgrade login,22,Sales,Low
+TKT01337,customer support issue plan demo review,58,Feedback,Medium
+TKT01338,help team platform server api invoice,45,Tech,Medium
+TKT01339,problem service team platform customer payment invoice error,25,Billing,Medium
+TKT01340,customer help problem system pricing quotation password,60,Sales,Medium
+TKT01341,service help platform subscription payment plan,28,Billing,Medium
+TKT01342,help platform service problem refund charge crash,58,Billing,High
+TKT01343,problem system platform service team suggestion review refund,13,Feedback,Medium
+TKT01344,platform system help team pricing demo payment,39,Sales,Medium
+TKT01345,problem issue platform request customer charge refund feature,31,Billing,Medium
+TKT01346,support platform team issue login profile quotation,18,Account,Medium
+TKT01347,support platform customer team request pricing demo review,49,Billing,Medium
+TKT01348,support platform problem issue login profile quotation,10,Account,Medium
+TKT01349,team problem request error api login,44,Tech,Medium
+TKT01350,team request support customer issue profile access crash,14,Account,High
+TKT01351,service help support issue crash api invoice,27,Tech,High
+TKT01352,platform request customer authentication profile payment,55,Account,Medium
+TKT01353,team request support problem access authentication upgrade,4,Account,Medium
+TKT01354,customer system request subscription invoice improvement,44,Billing,Medium
+TKT01355,request platform customer team help password authentication demo,9,Account,Low
+TKT01356,help support service review experience server,24,Feedback,Low
+TKT01357,team problem customer access profile server,42,Account,Medium
+TKT01358,system support help experience feature error,2,Feedback,Medium
+TKT01359,platform help issue system charge subscription pricing,30,Billing,Medium
+TKT01360,request team service customer platform quotation plan review,16,Sales,Low
+TKT01361,customer support system problem invoice refund profile,20,Billing,Medium
+TKT01362,problem system help team crash bug password,27,Tech,High
+TKT01363,platform customer help review feature upgrade,11,Feedback,Low
+TKT01364,platform help support demo plan bug,21,Sales,Low
+TKT01365,issue problem system crash error subscription,46,Tech,High
+TKT01366,support problem platform help pricing quotation bug,28,Sales,Medium
+TKT01367,request problem service help suggestion improvement bug,46,Feedback,Medium
+TKT01368,help customer team support access profile crash,35,Account,High
+TKT01369,system help customer problem team crash api access,36,Tech,High
+TKT01370,service request issue system crash api charge,33,Tech,High
+TKT01371,platform request issue api crash demo,4,Tech,High
+TKT01372,service system issue team request feature improvement password,29,Feedback,Medium
+TKT01373,request support customer platform problem access login improvement,52,Account,Medium
+TKT01374,help system service team issue authentication profile pricing,14,Account,Medium
+TKT01375,team platform support help payment charge api,35,Billing,Medium
+TKT01376,problem team help request platform bug api upgrade,37,Tech,Medium
+TKT01377,platform issue system support help login profile suggestion,16,Account,Medium
+TKT01378,team service request access password quotation,23,Account,Low
+TKT01379,system customer help team platform authentication login charge,25,Account,Medium
+TKT01380,support service help invoice subscription login,48,Billing,Medium
+TKT01381,request team service problem system demo pricing payment,40,Sales,Medium
+TKT01382,problem issue platform charge payment demo,44,Billing,Medium
+TKT01383,problem system request charge invoice bug,46,Billing,Medium
+TKT01384,request help problem support issue pricing plan payment,46,Sales,Medium
+TKT01385,help platform customer system plan quotation profile,27,Sales,Medium
+TKT01386,team help issue improvement experience refund,8,Feedback,Medium
+TKT01387,request system customer team upgrade demo crash,57,Sales,High
+TKT01388,system service customer request api crash improvement,21,Tech,High
+TKT01389,help platform issue request customer error server demo,38,Tech,Medium
+TKT01390,platform system team api crash review,14,Tech,High
+TKT01391,request customer problem service access profile quotation,21,Billing,Medium
+TKT01392,team help customer support service invoice refund crash,37,Billing,High
+TKT01393,system help platform service customer invoice payment login,23,Billing,Low
+TKT01394,issue team problem pricing quotation invoice,3,Sales,Medium
+TKT01395,problem platform service request improvement suggestion login,9,Feedback,Medium
+TKT01396,system help request support issue profile login review,13,Account,Medium
+TKT01397,help team support quotation pricing suggestion,39,Sales,Medium
+TKT01398,team request platform payment invoice server,43,Billing,Medium
+TKT01399,help issue customer platform service quotation plan improvement,44,Sales,Medium
+TKT01400,request issue customer bug crash charge,28,Tech,High
+TKT01401,issue customer system team platform payment subscription access,21,Feedback,Medium
+TKT01402,customer team platform upgrade demo subscription,13,Sales,Low
+TKT01403,support issue platform service payment subscription demo,22,Billing,Medium
+TKT01404,team customer problem platform issue pricing upgrade payment,27,Sales,Medium
+TKT01405,system team platform problem service suggestion review bug,10,Feedback,Medium
+TKT01406,customer help support invoice refund feature,1,Billing,Low
+TKT01407,help support issue server error payment,8,Tech,Medium
+TKT01408,platform service help support team plan pricing payment,21,Sales,Low
+TKT01409,team help platform upgrade pricing charge,18,Sales,Low
+TKT01410,issue system platform bug error access,37,Tech,Medium
+TKT01411,platform help customer problem issue error bug charge,11,Tech,Medium
+TKT01412,help system customer platform support payment charge upgrade,18,Billing,Low
+TKT01413,issue help support charge refund access,20,Billing,Medium
+TKT01414,system help problem service customer server crash upgrade,32,Tech,High
+TKT01415,support service issue help platform password authentication demo,56,Account,Medium
+TKT01416,customer support problem bug error improvement,48,Tech,Medium
+TKT01417,support platform system error api payment,57,Tech,Medium
+TKT01418,team customer service problem login password bug,28,Account,Medium
+TKT01419,platform customer service charge refund error,47,Billing,Medium
+TKT01420,team service help server crash upgrade,28,Tech,High
+TKT01421,system customer problem upgrade pricing suggestion,8,Sales,Medium
+TKT01422,team problem support help pricing upgrade bug,30,Sales,Medium
+TKT01423,issue request help problem review experience subscription,48,Feedback,Medium
+TKT01424,problem request help login password upgrade,38,Account,Medium
+TKT01425,team service customer support platform demo upgrade error,16,Sales,Medium
+TKT01426,support issue problem platform customer upgrade demo access,13,Sales,Medium
+TKT01427,support help system customer service crash api payment,2,Tech,High
+TKT01428,service support problem system review improvement api,20,Feedback,Medium
+TKT01429,support help problem team platform server error demo,50,Tech,Medium
+TKT01430,service request help authentication profile suggestion,30,Account,Medium
+TKT01431,system customer service support bug server refund,45,Tech,Medium
+TKT01432,team request system support help api error subscription,16,Tech,Medium
+TKT01433,problem customer system issue support plan upgrade profile,21,Sales,Medium
+TKT01434,team support service pricing plan profile,47,Sales,Medium
+TKT01435,platform support help request customer payment subscription login,54,Billing,Medium
+TKT01436,request customer service platform access login charge,6,Account,Low
+TKT01437,team issue request quotation upgrade api,12,Sales,Medium
+TKT01438,system issue customer error crash review,52,Tech,High
+TKT01439,support customer request problem platform password authentication api,57,Account,Medium
+TKT01440,request platform system plan pricing password,7,Sales,Low
+TKT01441,customer support help authentication profile server,45,Account,Medium
+TKT01442,help service platform request refund subscription error,9,Billing,Medium
+TKT01443,service help customer team support server crash invoice,4,Tech,High
+TKT01444,customer platform service system authentication access improvement,14,Account,Low
+TKT01445,request problem support help feature improvement charge,33,Feedback,Medium
+TKT01446,platform request problem refund charge experience,32,Billing,Medium
+TKT01447,problem issue service review improvement invoice,11,Feedback,Medium
+TKT01448,support help problem platform system improvement suggestion error,37,Feedback,Medium
+TKT01449,support platform service team charge subscription pricing,13,Billing,Low
+TKT01450,request service customer issue team api bug suggestion,36,Tech,Medium
+TKT01451,issue team help payment charge demo,23,Sales,Medium
+TKT01452,problem support issue server crash subscription,60,Tech,High
+TKT01453,help platform request pricing plan password,25,Sales,Medium
+TKT01454,system problem platform review experience server,30,Feedback,Medium
+TKT01455,issue support help improvement feature bug,24,Billing,Medium
+TKT01456,support help customer server bug experience,45,Tech,Medium
+TKT01457,help platform team system demo quotation review,6,Sales,Low
+TKT01458,customer issue platform system support password profile payment,26,Account,Medium
+TKT01459,help system support customer request review experience crash,50,Feedback,High
+TKT01460,help platform support customer issue review improvement server,15,Feedback,Medium
+TKT01461,support team help authentication login suggestion,13,Billing,Low
+TKT01462,team issue problem refund invoice authentication,44,Billing,Medium
+TKT01463,platform request problem help login profile refund,52,Feedback,Medium
+TKT01464,team support platform system help refund charge profile,45,Billing,Medium
+TKT01465,platform customer team issue system crash error plan,7,Tech,High
+TKT01466,help problem customer team support error server profile,33,Tech,Medium
+TKT01467,issue customer request platform help improvement review payment,39,Feedback,Medium
+TKT01468,platform request help customer bug crash refund,48,Tech,High
+TKT01469,team customer support problem upgrade quotation authentication,32,Sales,Medium
+TKT01470,support request customer issue pricing quotation bug,38,Sales,Medium
+TKT01471,help service support team problem quotation pricing crash,36,Sales,High
+TKT01472,problem service support login access suggestion,42,Tech,Medium
+TKT01473,customer platform problem service login access upgrade,51,Account,Medium
+TKT01474,issue request support charge subscription password,53,Billing,Medium
+TKT01475,customer platform request password profile crash,53,Account,High
+TKT01476,service help system issue problem error bug payment,9,Tech,Medium
+TKT01477,platform request service customer authentication password invoice,6,Account,Low
+TKT01478,team support service plan demo password,22,Sales,Low
+TKT01479,request help issue experience improvement charge,15,Feedback,Medium
+TKT01480,team platform help payment subscription improvement,31,Billing,Medium
+TKT01481,issue team platform subscription invoice authentication,31,Billing,Medium
+TKT01482,customer issue service support help access login invoice,29,Account,Medium
+TKT01483,request issue team platform profile login pricing,35,Account,Medium
+TKT01484,system issue platform problem support review improvement access,37,Feedback,Medium
+TKT01485,service problem platform help profile access feature,58,Account,Medium
+TKT01486,help customer team system request password authentication crash,22,Account,High
+TKT01487,platform issue request customer problem payment invoice login,52,Billing,Medium
+TKT01488,problem customer help access profile charge,41,Account,Medium
+TKT01489,problem issue customer help crash error plan,44,Tech,High
+TKT01490,support help request access authentication demo,37,Account,Medium
+TKT01491,problem help service team system suggestion experience demo,33,Feedback,Medium
+TKT01492,platform team help issue api crash payment,42,Tech,High
+TKT01493,help system customer refund subscription plan,14,Billing,Low
+TKT01494,team request system help support improvement suggestion login,40,Feedback,Medium
+TKT01495,platform issue problem service help server crash login,9,Tech,High
+TKT01496,request system support review feature error,44,Feedback,Medium
+TKT01497,platform customer support access profile bug,13,Account,Low
+TKT01498,customer support help service api crash pricing,31,Tech,High
+TKT01499,team platform system service support error bug invoice,44,Tech,Medium
+TKT01500,support problem team login profile error,53,Account,Medium
+TKT01501,service problem system customer error server payment,15,Tech,Medium
+TKT01502,request problem issue service platform review improvement error,1,Feedback,Medium
+TKT01503,help customer support system quotation pricing invoice,35,Sales,Medium
+TKT01504,request issue support customer subscription charge feature,31,Billing,Medium
+TKT01505,platform request issue service help server crash refund,28,Tech,High
+TKT01506,problem request issue support subscription refund suggestion,31,Billing,Medium
+TKT01507,team system request problem help server api subscription,30,Tech,Medium
+TKT01508,service customer issue team help server bug invoice,46,Tech,Medium
+TKT01509,service team platform system request server api profile,46,Tech,Medium
+TKT01510,request problem system issue team quotation plan refund,33,Sales,Medium
+TKT01511,support problem issue help platform login password refund,45,Account,Medium
+TKT01512,issue platform problem service api crash subscription,43,Tech,High
+TKT01513,help service customer platform suggestion feature api,33,Feedback,Medium
+TKT01514,platform help support service upgrade pricing invoice,16,Sales,Low
+TKT01515,platform team help subscription refund demo,48,Billing,Medium
+TKT01516,customer system problem issue platform subscription invoice error,50,Billing,Medium
+TKT01517,platform support team issue experience feature access,29,Feedback,Medium
+TKT01518,platform system problem help team pricing quotation feature,19,Sales,Medium
+TKT01519,service request team charge payment crash,45,Billing,High
+TKT01520,customer platform system api error refund,29,Tech,Medium
+TKT01521,platform service help problem invoice refund password,43,Billing,Medium
+TKT01522,issue problem help feature experience upgrade,29,Feedback,Medium
+TKT01523,system issue support customer plan pricing access,53,Sales,Medium
+TKT01524,issue customer platform help request api error review,16,Tech,Medium
+TKT01525,help support customer platform server crash profile,16,Tech,High
+TKT01526,system customer platform help team login profile charge,10,Account,Low
+TKT01527,customer help request refund invoice suggestion,53,Billing,Medium
+TKT01528,system customer request access authentication pricing,20,Account,Low
+TKT01529,platform service customer issue support pricing upgrade bug,34,Sales,Medium
+TKT01530,request customer system platform server api payment,20,Tech,Low
+TKT01531,service request problem help experience suggestion authentication,15,Feedback,Medium
+TKT01532,help team request issue problem authentication login subscription,42,Account,Medium
+TKT01533,help issue problem profile access quotation,5,Account,Medium
+TKT01534,issue platform customer service team pricing demo password,38,Sales,Medium
+TKT01535,team support problem customer platform login password payment,29,Account,Medium
+TKT01536,request service support customer problem quotation plan access,2,Sales,Medium
+TKT01537,problem service help support team access authentication payment,4,Account,Medium
+TKT01538,support service customer platform demo plan login,16,Sales,Low
+TKT01539,service issue help team customer error bug suggestion,60,Tech,Medium
+TKT01540,help customer request support access authentication suggestion,12,Account,Low
+TKT01541,problem customer team feature improvement quotation,23,Tech,Medium
+TKT01542,support issue request refund subscription server,24,Billing,Medium
+TKT01543,service request platform help server crash invoice,21,Tech,High
+TKT01544,help team service server crash profile,41,Tech,High
+TKT01545,support issue customer team authentication profile crash,9,Account,High
+TKT01546,help customer support platform login access api,45,Account,Medium
+TKT01547,request system problem team platform access password experience,26,Account,Medium
+TKT01548,platform service support suggestion improvement demo,46,Feedback,Medium
+TKT01549,team support request problem pricing plan review,32,Sales,Medium
+TKT01550,help system problem customer issue plan pricing suggestion,10,Sales,Medium
+TKT01551,system request service support feature review error,60,Feedback,Medium
+TKT01552,system customer problem subscription charge pricing,28,Billing,Medium
+TKT01553,issue help platform support customer access login feature,13,Account,Medium
+TKT01554,issue service support payment invoice api,46,Billing,Medium
+TKT01555,request service support customer team profile login improvement,11,Account,Low
+TKT01556,help team platform support customer upgrade demo improvement,21,Sales,Low
+TKT01557,help problem customer charge refund improvement,42,Billing,Medium
+TKT01558,service issue support profile authentication payment,47,Account,Medium
+TKT01559,issue support team problem review improvement refund,58,Feedback,Medium
+TKT01560,platform help request problem support experience improvement quotation,44,Feedback,Medium
+TKT01561,issue team request system help login authentication charge,50,Account,Medium
+TKT01562,system problem platform request customer upgrade pricing access,40,Billing,Medium
+TKT01563,issue customer team error api refund,59,Tech,Medium
+TKT01564,platform customer service problem bug api suggestion,47,Tech,Medium
+TKT01565,system problem request platform demo pricing suggestion,4,Sales,Medium
+TKT01566,request customer support problem review experience server,21,Feedback,Medium
+TKT01567,help issue customer team profile password bug,44,Account,Medium
+TKT01568,request customer platform authentication login charge,47,Account,Medium
+TKT01569,support problem platform access password feature,52,Account,Medium
+TKT01570,request system problem upgrade quotation password,42,Sales,Medium
+TKT01571,customer system team issue request suggestion experience demo,22,Feedback,Medium
+TKT01572,platform support request customer team server error improvement,2,Tech,Medium
+TKT01573,system service problem platform profile password review,46,Account,Medium
+TKT01574,team platform service help system refund payment experience,51,Billing,Medium
+TKT01575,customer support help password login review,15,Account,Low
+TKT01576,system service issue refund subscription plan,39,Account,Medium
+TKT01577,system platform help access password api,45,Account,Medium
+TKT01578,service support problem issue improvement feature server,55,Feedback,Medium
+TKT01579,customer service system help request refund invoice bug,46,Billing,Medium
+TKT01580,issue team help support crash server experience,57,Tech,High
+TKT01581,support team problem system upgrade plan authentication,16,Sales,Medium
+TKT01582,request help issue charge payment bug,13,Billing,Medium
+TKT01583,help platform problem system service crash bug demo,39,Tech,High
+TKT01584,service issue platform problem authentication profile charge,53,Account,Medium
+TKT01585,system team customer support service profile password experience,39,Account,Medium
+TKT01586,system service request review suggestion authentication,19,Feedback,Low
+TKT01587,platform problem help request review experience subscription,41,Feedback,Medium
+TKT01588,problem issue service team improvement suggestion api,8,Feedback,Medium
+TKT01589,support system service error server experience,34,Tech,Medium
+TKT01590,help problem issue quotation demo bug,54,Sales,Medium
+TKT01591,system customer issue help service demo quotation profile,56,Sales,Medium
+TKT01592,platform system team support help access authentication feature,7,Account,Low
+TKT01593,customer help support suggestion review server,19,Feedback,Low
+TKT01594,team support platform profile password improvement,17,Sales,Low
+TKT01595,customer problem service access login pricing,34,Account,Medium
+TKT01596,problem system customer help request profile password server,25,Account,Medium
+TKT01597,team problem request upgrade demo refund,49,Sales,Medium
+TKT01598,platform help request team support server api invoice,15,Tech,Low
+TKT01599,system platform help review experience login,40,Feedback,Medium
+TKT01600,service request help subscription payment improvement,38,Billing,Medium
+TKT01601,team system service access authentication invoice,46,Account,Medium
+TKT01602,system help customer crash api review,60,Tech,High
+TKT01603,team customer issue platform pricing demo subscription,38,Sales,Medium
+TKT01604,system issue team request platform charge refund upgrade,51,Billing,Medium
+TKT01605,request platform customer system problem subscription payment experience,42,Billing,Medium
+TKT01606,help system problem request support server error suggestion,60,Tech,Medium
+TKT01607,problem support issue system platform error crash demo,57,Tech,High
+TKT01608,help issue platform customer crash bug demo,6,Tech,High
+TKT01609,help system request service login authentication experience,56,Account,Medium
+TKT01610,platform team problem invoice charge plan,55,Billing,Medium
+TKT01611,system issue customer review feature invoice,32,Billing,Medium
+TKT01612,help system service issue problem charge payment server,11,Billing,Medium
+TKT01613,service system problem bug error pricing,15,Tech,Medium
+TKT01614,request support team platform service improvement suggestion upgrade,32,Feedback,Medium
+TKT01615,request system platform service customer login password feature,52,Account,Medium
+TKT01616,platform team issue refund subscription pricing,22,Sales,Medium
+TKT01617,service request problem team bug server plan,43,Tech,Medium
+TKT01618,help customer service system request review experience refund,19,Feedback,Low
+TKT01619,problem help team platform support review suggestion subscription,34,Feedback,Medium
+TKT01620,issue system help profile password error,57,Account,Medium
+TKT01621,problem team issue platform support authentication password pricing,35,Account,Medium
+TKT01622,customer help system feature experience profile,36,Feedback,Medium
+TKT01623,customer team problem request subscription invoice crash,17,Billing,High
+TKT01624,problem system issue error api pricing,28,Tech,Medium
+TKT01625,help platform system customer request login profile demo,42,Account,Medium
+TKT01626,issue support team service review experience crash,1,Tech,High
+TKT01627,help system service experience improvement demo,39,Feedback,Medium
+TKT01628,customer issue system service help crash server subscription,4,Tech,High
+TKT01629,customer request support pricing quotation bug,26,Sales,Medium
+TKT01630,customer system team subscription invoice experience,28,Billing,Medium
+TKT01631,problem system help service issue feature suggestion plan,8,Feedback,Medium
+TKT01632,team issue support customer suggestion feature authentication,57,Feedback,Medium
+TKT01633,support customer service platform team payment subscription plan,16,Billing,Low
+TKT01634,platform support issue system customer server error pricing,45,Tech,Medium
+TKT01635,platform problem request system team password authentication refund,28,Account,Medium
+TKT01636,team customer request help authentication password feature,29,Account,Medium
+TKT01637,service request customer payment invoice profile,56,Billing,Medium
+TKT01638,support team problem pricing quotation api,8,Sales,Medium
+TKT01639,service problem help customer issue server crash quotation,23,Tech,High
+TKT01640,customer service request platform charge subscription bug,27,Billing,Medium
+TKT01641,platform request system customer support crash server profile,8,Tech,High
+TKT01642,customer request service support team quotation plan payment,4,Sales,Low
+TKT01643,customer platform help pricing demo crash,40,Sales,High
+TKT01644,request help team support customer upgrade quotation payment,3,Sales,Low
+TKT01645,request problem service platform help invoice payment crash,37,Billing,High
+TKT01646,request issue problem plan pricing authentication,17,Feedback,Medium
+TKT01647,help issue team customer error api invoice,10,Tech,Medium
+TKT01648,service problem support team login access review,41,Account,Medium
+TKT01649,problem help customer issue feature review plan,4,Feedback,Medium
+TKT01650,support problem service system customer pricing plan bug,25,Sales,Medium
+TKT01651,help team request platform feature suggestion demo,37,Feedback,Medium
+TKT01652,issue help system feature experience quotation,24,Feedback,Medium
+TKT01653,platform problem customer feature experience refund,60,Feedback,Medium
+TKT01654,service help issue quotation pricing payment,28,Sales,Medium
+TKT01655,problem issue platform plan pricing invoice,53,Sales,Medium
+TKT01656,problem service help team issue bug crash upgrade,45,Tech,High
+TKT01657,platform request problem issue support demo pricing review,47,Sales,Medium
+TKT01658,team system customer problem pricing quotation crash,19,Sales,High
+TKT01659,platform problem service system customer authentication access crash,48,Account,High
+TKT01660,platform customer team profile login review,22,Account,Low
+TKT01661,support service help plan quotation error,22,Sales,Medium
+TKT01662,platform problem request authentication access improvement,58,Account,Medium
+TKT01663,help platform support customer request upgrade demo experience,29,Sales,Medium
+TKT01664,help service system bug api login,50,Tech,Medium
+TKT01665,service team request experience improvement server,21,Feedback,Low
+TKT01666,customer help support pricing upgrade invoice,25,Sales,Medium
+TKT01667,platform team customer problem experience improvement password,51,Feedback,Medium
+TKT01668,customer support team system request access profile charge,39,Account,Medium
+TKT01669,problem request team issue system feature experience login,8,Feedback,Medium
+TKT01670,service platform customer server crash refund,13,Billing,High
+TKT01671,issue request system customer subscription refund plan,22,Billing,Medium
+TKT01672,problem customer service help payment charge api,24,Billing,Medium
+TKT01673,help issue customer login access crash,9,Account,High
+TKT01674,request team support system help login profile bug,39,Account,Medium
+TKT01675,help support system customer service bug server payment,49,Tech,Medium
+TKT01676,issue system request support team improvement review demo,60,Feedback,Medium
+TKT01677,team support system help profile login refund,47,Account,Medium
+TKT01678,request system help support team server error pricing,13,Tech,Medium
+TKT01679,support system request server crash experience,55,Tech,High
+TKT01680,system platform issue customer help payment invoice experience,12,Billing,Medium
+TKT01681,help problem service team customer server crash experience,1,Tech,High
+TKT01682,platform system request issue support profile login bug,11,Account,Medium
+TKT01683,service problem platform issue help invoice charge crash,30,Billing,High
+TKT01684,issue problem customer suggestion feature subscription,2,Feedback,Medium
+TKT01685,service help problem system payment charge upgrade,2,Billing,Medium
+TKT01686,team request problem customer system error crash refund,16,Tech,High
+TKT01687,service platform support crash server pricing,9,Tech,High
+TKT01688,request support platform issue login authentication refund,44,Account,Medium
+TKT01689,support system problem upgrade pricing crash,18,Sales,High
+TKT01690,help request team problem support plan demo charge,18,Sales,Medium
+TKT01691,team support issue bug server access,39,Tech,Medium
+TKT01692,support platform help team feature suggestion api,16,Feedback,Low
+TKT01693,support system service issue crash server login,59,Tech,High
+TKT01694,team platform problem system issue server bug improvement,21,Billing,Medium
+TKT01695,service system support request customer demo quotation feature,9,Sales,Low
+TKT01696,service team support platform experience review bug,44,Feedback,Medium
+TKT01697,help support issue customer problem plan quotation feature,8,Sales,Medium
+TKT01698,team service support error api demo,1,Tech,Medium
+TKT01699,customer support request team help pricing upgrade bug,42,Tech,Medium
+TKT01700,support help request customer team experience suggestion bug,57,Feedback,Medium
+TKT01701,problem team support payment invoice api,18,Billing,Medium
+TKT01702,customer help issue improvement experience demo,39,Feedback,Medium
+TKT01703,customer issue request crash bug refund,36,Tech,High
+TKT01704,customer system team plan quotation crash,1,Sales,High
+TKT01705,issue problem service suggestion feature crash,20,Feedback,High
+TKT01706,system platform service request customer authentication profile bug,27,Account,Medium
+TKT01707,problem help system customer authentication password crash,13,Account,High
+TKT01708,platform issue help request authentication login charge,49,Billing,Medium
+TKT01709,issue customer platform review improvement authentication,6,Feedback,Medium
+TKT01710,support request help team suggestion review invoice,14,Feedback,Low
+TKT01711,team system customer quotation upgrade refund,29,Sales,Medium
+TKT01712,platform customer issue access profile demo,19,Account,Medium
+TKT01713,platform request issue experience suggestion subscription,37,Feedback,Medium
+TKT01714,service issue request experience feature refund,23,Feedback,Medium
+TKT01715,request issue customer support pricing demo error,30,Sales,Medium
+TKT01716,team system help platform authentication password payment,53,Feedback,Medium
+TKT01717,customer request service access password charge,3,Account,Low
+TKT01718,support request service team charge payment server,49,Billing,Medium
+TKT01719,team problem help plan demo payment,10,Sales,Medium
+TKT01720,customer platform problem issue support feature review demo,16,Feedback,Medium
+TKT01721,request problem platform support charge refund suggestion,21,Billing,Medium
+TKT01722,support service issue quotation pricing bug,4,Sales,Medium
+TKT01723,customer system team issue access authentication subscription,58,Billing,Medium
+TKT01724,problem help system team service feature improvement charge,14,Feedback,Medium
+TKT01725,team request system help issue charge invoice upgrade,20,Billing,Medium
+TKT01726,system issue customer help login password refund,33,Account,Medium
+TKT01727,platform system team customer crash server profile,35,Tech,High
+TKT01728,request support team platform review feature access,28,Feedback,Medium
+TKT01729,request platform service upgrade pricing bug,16,Sales,Low
+TKT01730,system team help problem error bug review,10,Tech,Medium
+TKT01731,support service issue platform demo plan authentication,54,Sales,Medium
+TKT01732,issue service request help support server crash authentication,42,Feedback,High
+TKT01733,platform customer system service issue profile password feature,24,Account,Medium
+TKT01734,problem support issue customer team bug server upgrade,52,Tech,Medium
+TKT01735,team customer help support server crash demo,51,Account,High
+TKT01736,platform request team system upgrade demo bug,17,Sales,Low
+TKT01737,help support platform problem demo quotation payment,24,Sales,Medium
+TKT01738,system support platform problem team quotation pricing charge,48,Sales,Medium
+TKT01739,support system help invoice charge quotation,51,Billing,Medium
+TKT01740,team customer support problem system plan demo bug,48,Sales,Medium
+TKT01741,help system service customer access profile crash,26,Account,High
+TKT01742,support platform system problem customer review experience bug,7,Feedback,Medium
+TKT01743,team service issue platform authentication profile payment,29,Account,Medium
+TKT01744,help platform issue team refund charge password,48,Billing,Medium
+TKT01745,customer service platform issue help bug server charge,28,Tech,Medium
+TKT01746,team problem service issue support demo plan review,11,Sales,Medium
+TKT01747,issue support request platform help plan demo access,43,Sales,Medium
+TKT01748,problem service request help issue refund payment authentication,15,Billing,Medium
+TKT01749,problem system help pricing upgrade refund,43,Sales,Medium
+TKT01750,platform problem request charge subscription bug,18,Billing,Medium
+TKT01751,system platform team profile authentication payment,51,Account,Medium
+TKT01752,customer problem issue access profile crash,50,Account,High
+TKT01753,service issue problem help request invoice refund authentication,47,Billing,Medium
+TKT01754,team issue support problem access password feature,25,Account,Medium
+TKT01755,help support problem system platform improvement review plan,30,Feedback,Medium
+TKT01756,support team issue request service crash server authentication,4,Tech,High
+TKT01757,help problem customer service feature improvement bug,11,Feedback,Medium
+TKT01758,request help service customer bug error login,33,Tech,Medium
+TKT01759,issue request help system bug api access,58,Tech,Medium
+TKT01760,platform customer problem request team profile access demo,59,Account,Medium
+TKT01761,support system team pricing quotation api,4,Billing,Low
+TKT01762,request customer system help plan quotation server,22,Tech,Low
+TKT01763,problem help issue support customer profile authentication refund,51,Account,Medium
+TKT01764,request help team service support quotation demo invoice,35,Sales,Medium
+TKT01765,issue problem help request customer login password server,11,Account,Medium
+TKT01766,support request service customer system server api quotation,34,Tech,Medium
+TKT01767,support help team password access pricing,58,Account,Medium
+TKT01768,system platform team service request improvement suggestion bug,38,Feedback,Medium
+TKT01769,customer support team service upgrade demo charge,55,Sales,Medium
+TKT01770,platform request help team problem pricing plan password,30,Sales,Medium
+TKT01771,platform team issue request service review experience error,21,Feedback,Medium
+TKT01772,request system support bug server profile,37,Tech,Medium
+TKT01773,issue request service support customer experience improvement upgrade,12,Feedback,Medium
+TKT01774,problem service help support team error bug payment,44,Tech,Medium
+TKT01775,support problem service subscription charge api,52,Billing,Medium
+TKT01776,request help platform system issue authentication password refund,36,Account,Medium
+TKT01777,customer team system request server bug improvement,17,Tech,Low
+TKT01778,system help platform service problem crash bug demo,52,Tech,High
+TKT01779,problem team platform help invoice charge demo,1,Billing,Medium
+TKT01780,platform issue team service crash bug upgrade,7,Tech,High
+TKT01781,service support help system request pricing quotation feature,43,Sales,Medium
+TKT01782,customer platform service system bug error suggestion,13,Tech,Medium
+TKT01783,issue support team system plan pricing profile,45,Billing,Medium
+TKT01784,help system request customer support feature suggestion invoice,38,Feedback,Medium
+TKT01785,problem system request service experience feature quotation,49,Feedback,Medium
+TKT01786,system service problem plan upgrade access,6,Sales,Medium
+TKT01787,customer team request support issue invoice refund review,15,Billing,Medium
+TKT01788,service issue system request support error api experience,50,Sales,Medium
+TKT01789,platform issue service charge refund authentication,17,Billing,Medium
+TKT01790,team support request service help crash error experience,52,Tech,High
+TKT01791,support customer issue demo quotation suggestion,55,Sales,Medium
+TKT01792,system help platform service bug api feature,2,Tech,Low
+TKT01793,help issue problem customer support upgrade pricing crash,15,Sales,High
+TKT01794,help system platform bug error pricing,47,Tech,Medium
+TKT01795,problem issue service request team login authentication bug,15,Account,Medium
+TKT01796,problem support system customer request authentication login pricing,48,Account,Medium
+TKT01797,service request platform problem system pricing upgrade password,10,Sales,Medium
+TKT01798,problem help service login password review,1,Account,Medium
+TKT01799,team help service platform profile login review,11,Account,Low
+TKT01800,system issue team platform server api demo,39,Tech,Medium
+TKT01801,request platform system error crash pricing,57,Tech,High
+TKT01802,support platform issue suggestion improvement bug,43,Feedback,Medium
+TKT01803,issue support platform plan demo experience,21,Sales,Medium
+TKT01804,help platform customer refund invoice authentication,33,Billing,Medium
+TKT01805,system problem support issue profile access demo,10,Account,Medium
+TKT01806,system issue problem review improvement error,14,Feedback,Medium
+TKT01807,customer issue service problem support profile password api,43,Account,Medium
+TKT01808,problem customer issue help review feature charge,48,Feedback,Medium
+TKT01809,customer support help suggestion review error,9,Feedback,Medium
+TKT01810,platform problem team server error demo,11,Tech,Medium
+TKT01811,support system customer service request login profile server,22,Account,Low
+TKT01812,request problem help team platform profile password bug,37,Account,Medium
+TKT01813,help service request platform system payment subscription experience,60,Billing,Medium
+TKT01814,help support customer platform service review suggestion pricing,50,Feedback,Medium
+TKT01815,customer help issue problem payment invoice crash,7,Billing,High
+TKT01816,issue help team profile login plan,22,Account,Medium
+TKT01817,help issue request support platform login password upgrade,4,Account,Medium
+TKT01818,team help system service request error bug payment,42,Tech,Medium
+TKT01819,issue system customer pricing quotation subscription,9,Sales,Medium
+TKT01820,problem issue team subscription payment pricing,52,Billing,Medium
+TKT01821,team support request quotation upgrade experience,54,Sales,Medium
+TKT01822,help platform problem login access pricing,21,Account,Medium
+TKT01823,problem system support team error server refund,53,Tech,Medium
+TKT01824,help issue service support customer feature suggestion error,53,Feedback,Medium
+TKT01825,team support customer system help refund charge authentication,13,Billing,Low
+TKT01826,system platform team help refund subscription experience,12,Billing,Low
+TKT01827,system problem team login access refund,48,Account,Medium
+TKT01828,service platform help plan pricing authentication,18,Sales,Low
+TKT01829,help request customer problem quotation demo charge,5,Sales,Medium
+TKT01830,system problem customer platform charge refund demo,18,Account,Medium
+TKT01831,service issue system help crash error subscription,5,Tech,High
+TKT01832,team request help issue support upgrade pricing review,41,Sales,Medium
+TKT01833,service help platform server bug plan,48,Tech,Medium
+TKT01834,platform system help support request invoice subscription bug,1,Billing,Low
+TKT01835,system request team help profile password quotation,27,Account,Medium
+TKT01836,help customer service upgrade plan improvement,11,Sales,Low
+TKT01837,customer request issue support system password authentication server,13,Account,Medium
+TKT01838,system issue problem request server api payment,55,Tech,Medium
+TKT01839,team help service support server api access,28,Tech,Medium
+TKT01840,help team service support experience improvement pricing,33,Feedback,Medium
+TKT01841,support team help bug crash quotation,58,Account,High
+TKT01842,problem help service request customer crash error suggestion,53,Tech,High
+TKT01843,team system issue login authentication pricing,4,Account,Medium
+TKT01844,team customer system platform support payment subscription profile,1,Billing,Low
+TKT01845,service support customer help suggestion feature access,3,Tech,Low
+TKT01846,issue support problem service request feature suggestion login,54,Feedback,Medium
+TKT01847,platform problem issue pricing upgrade refund,2,Sales,Medium
+TKT01848,system service help support invoice refund improvement,14,Billing,Low
+TKT01849,team help request issue customer suggestion review password,49,Feedback,Medium
+TKT01850,problem customer platform charge subscription error,28,Billing,Medium
+TKT01851,issue service team refund payment api,2,Billing,Medium
+TKT01852,problem request support issue customer quotation upgrade payment,51,Sales,Medium
+TKT01853,request issue problem team support experience review bug,44,Feedback,Medium
+TKT01854,support service problem improvement suggestion upgrade,25,Feedback,Medium
+TKT01855,support service help team bug crash quotation,42,Tech,High
+TKT01856,customer issue system subscription refund improvement,50,Billing,Medium
+TKT01857,support system help service invoice payment review,52,Billing,Medium
+TKT01858,service system help request quotation upgrade api,58,Sales,Medium
+TKT01859,issue request customer error bug profile,17,Tech,Medium
+TKT01860,team customer help problem access profile pricing,6,Account,Medium
+TKT01861,customer problem help request demo pricing payment,32,Sales,Medium
+TKT01862,help request issue problem platform server error review,48,Tech,Medium
+TKT01863,issue team support invoice refund access,12,Billing,Medium
+TKT01864,customer team issue bug server charge,24,Tech,Medium
+TKT01865,customer support team server api plan,30,Tech,Medium
+TKT01866,service customer team help support password access feature,49,Account,Medium
+TKT01867,service team help request issue api crash charge,13,Tech,High
+TKT01868,platform request service password access refund,59,Account,Medium
+TKT01869,help service support problem profile password payment,54,Account,Medium
+TKT01870,request issue customer support error bug profile,54,Tech,Medium
+TKT01871,platform request team system support experience improvement demo,58,Feedback,Medium
+TKT01872,customer issue platform system subscription refund login,49,Billing,Medium
+TKT01873,service team system issue password authentication quotation,4,Account,Medium
+TKT01874,request issue support help system experience feature login,49,Feedback,Medium
+TKT01875,request customer service feature improvement login,22,Feedback,Low
+TKT01876,issue problem request help profile authentication charge,22,Billing,Medium
+TKT01877,team customer service issue refund invoice bug,16,Billing,Medium
+TKT01878,problem support request system access authentication plan,29,Tech,Medium
+TKT01879,problem support issue help improvement review password,56,Feedback,Medium
+TKT01880,issue help support access authentication crash,26,Account,High
+TKT01881,problem team support system customer subscription payment server,8,Billing,Medium
+TKT01882,support system service request problem api server login,27,Tech,Medium
+TKT01883,issue problem help request upgrade plan review,15,Tech,Medium
+TKT01884,customer team help support problem improvement suggestion charge,49,Feedback,Medium
+TKT01885,team request help pricing quotation refund,40,Sales,Medium
+TKT01886,system support platform team invoice subscription plan,17,Billing,Low
+TKT01887,system request team access password crash,48,Account,High
+TKT01888,system support request service issue server crash suggestion,9,Tech,High
+TKT01889,system issue service team password authentication pricing,55,Account,Medium
+TKT01890,problem customer system bug error authentication,18,Tech,Medium
+TKT01891,request customer help issue system plan quotation authentication,45,Sales,Medium
+TKT01892,service platform support demo upgrade error,10,Sales,Medium
+TKT01893,help issue problem customer error server password,26,Tech,Medium
+TKT01894,platform issue customer system team charge refund improvement,11,Billing,Medium
+TKT01895,system support issue request api crash pricing,32,Tech,High
+TKT01896,request customer service issue system error server pricing,7,Tech,Medium
+TKT01897,request help support system problem invoice subscription password,4,Billing,Medium
+TKT01898,problem platform service experience suggestion api,7,Feedback,Medium
+TKT01899,request service system pricing plan subscription,17,Sales,Low
+TKT01900,support problem team service system experience feature plan,54,Feedback,Medium
+TKT01901,issue request system plan quotation server,18,Sales,Medium
+TKT01902,service help problem issue feature experience charge,42,Feedback,Medium
+TKT01903,support issue problem platform system error api plan,46,Tech,Medium
+TKT01904,system request customer payment invoice suggestion,47,Billing,Medium
+TKT01905,team system issue problem platform charge subscription password,35,Billing,Medium
+TKT01906,system service problem crash bug login,21,Tech,High
+TKT01907,request system customer problem team plan demo error,1,Sales,Medium
+TKT01908,service request team platform help review feature subscription,60,Feedback,Medium
+TKT01909,issue team platform request system feature improvement refund,56,Feedback,Medium
+TKT01910,help service problem team crash error demo,25,Tech,High
+TKT01911,problem request customer charge payment feature,8,Billing,Medium
+TKT01912,problem support help issue system suggestion review pricing,24,Feedback,Medium
+TKT01913,issue problem service plan demo error,60,Sales,Medium
+TKT01914,help issue customer support system review improvement plan,39,Feedback,Medium
+TKT01915,system help customer issue request charge invoice error,22,Billing,Medium
+TKT01916,system support platform issue request crash bug subscription,11,Tech,High
+TKT01917,problem platform support help customer plan upgrade charge,18,Sales,Medium
+TKT01918,team issue system help support charge invoice upgrade,39,Billing,Medium
+TKT01919,request team help charge payment plan,8,Billing,Low
+TKT01920,support request help service customer access authentication bug,19,Account,Low
+TKT01921,issue support help team api server feature,34,Tech,Medium
+TKT01922,problem customer system service platform charge invoice login,35,Billing,Medium
+TKT01923,problem issue service password authentication upgrade,10,Account,Medium
+TKT01924,service issue request customer platform improvement feature bug,52,Feedback,Medium
+TKT01925,customer problem team bug api profile,21,Tech,Medium
+TKT01926,service issue system quotation demo profile,4,Sales,Medium
+TKT01927,issue request system subscription charge api,34,Billing,Medium
+TKT01928,system platform help support customer invoice payment error,47,Billing,Medium
+TKT01929,platform support customer suggestion feature access,16,Feedback,Low
+TKT01930,platform system request crash api quotation,43,Tech,High
+TKT01931,platform support request suggestion review authentication,49,Feedback,Medium
+TKT01932,help service support system subscription refund feature,9,Billing,Low
+TKT01933,service request problem team subscription charge demo,46,Billing,Medium
+TKT01934,service support request invoice subscription feature,20,Billing,Low
+TKT01935,service request issue team suggestion feature upgrade,4,Feedback,Medium
+TKT01936,platform team service problem issue error api charge,11,Billing,Medium
+TKT01937,help issue request upgrade pricing api,50,Sales,Medium
+TKT01938,issue problem team support invoice payment password,57,Billing,Medium
+TKT01939,issue team customer problem feature review authentication,54,Feedback,Medium
+TKT01940,support platform request login access api,52,Account,Medium
+TKT01941,team problem help system request bug api access,37,Tech,Medium
+TKT01942,service request team support quotation plan review,55,Sales,Medium
+TKT01943,customer support system request access password improvement,34,Account,Medium
+TKT01944,help issue customer experience review authentication,25,Feedback,Medium
+TKT01945,support service customer help team profile password payment,17,Account,Low
+TKT01946,customer support problem issue plan upgrade api,5,Sales,Medium
+TKT01947,platform help problem support issue improvement review payment,9,Feedback,Medium
+TKT01948,platform help request team issue charge payment review,7,Billing,Medium
+TKT01949,problem team customer server error review,60,Tech,Medium
+TKT01950,team customer problem system service experience suggestion payment,30,Feedback,Medium
+TKT01951,service support request team invoice subscription profile,30,Billing,Medium
+TKT01952,help support issue customer payment charge api,29,Billing,Medium
+TKT01953,support platform system plan demo experience,49,Sales,Medium
+TKT01954,service issue help crash api experience,24,Tech,High
+TKT01955,help service platform error bug upgrade,39,Tech,Medium
+TKT01956,request platform support problem authentication login feature,19,Account,Medium
+TKT01957,request issue help customer support api error improvement,38,Tech,Medium
+TKT01958,platform help issue plan quotation authentication,48,Sales,Medium
+TKT01959,service system customer refund invoice crash,52,Billing,High
+TKT01960,service platform system customer password login experience,37,Account,Medium
+TKT01961,issue platform service team invoice charge error,31,Billing,Medium
+TKT01962,team issue customer problem system charge refund pricing,24,Billing,Medium
+TKT01963,customer platform support problem issue subscription invoice api,5,Billing,Medium
+TKT01964,problem help system server api feature,24,Sales,Medium
+TKT01965,team support customer demo quotation profile,47,Sales,Medium
+TKT01966,team system issue review experience refund,20,Feedback,Medium
+TKT01967,issue platform system error crash subscription,46,Tech,High
+TKT01968,issue problem request platform error bug upgrade,41,Tech,Medium
+TKT01969,platform problem issue service support authentication profile review,20,Account,Medium
+TKT01970,team service help issue server api feature,47,Tech,Medium
+TKT01971,system help problem feature improvement demo,49,Feedback,Medium
+TKT01972,platform customer issue request feature review login,59,Feedback,Medium
+TKT01973,problem help system invoice payment bug,10,Billing,Medium
+TKT01974,issue team service system problem access login subscription,21,Account,Medium
+TKT01975,service platform request system password profile plan,36,Account,Medium
+TKT01976,support team system profile login invoice,30,Account,Medium
+TKT01977,request system service access profile experience,3,Account,Low
+TKT01978,support request help quotation pricing profile,29,Sales,Medium
+TKT01979,support request problem system platform error server plan,10,Tech,Medium
+TKT01980,system platform service issue help api bug upgrade,54,Tech,Medium
+TKT01981,customer platform service improvement experience quotation,49,Feedback,Medium
+TKT01982,customer help issue platform request error server subscription,38,Tech,Medium
+TKT01983,team request system access login invoice,16,Account,Low
+TKT01984,customer help system problem upgrade pricing suggestion,3,Sales,Medium
+TKT01985,customer platform team suggestion feature quotation,13,Feedback,Low
+TKT01986,platform issue support feature experience quotation,43,Feedback,Medium
+TKT01987,customer team support service crash api refund,3,Tech,High
+TKT01988,platform support customer system help login access review,46,Account,Medium
+TKT01989,platform service help customer quotation plan review,47,Sales,Medium
+TKT01990,system issue help support improvement suggestion bug,16,Feedback,Medium
+TKT01991,platform problem support request profile login improvement,42,Account,Medium
+TKT01992,request team platform system access login upgrade,36,Account,Medium
+TKT01993,service help system customer invoice refund authentication,9,Tech,Low
+TKT01994,request help issue team platform authentication access crash,54,Account,High
+TKT01995,customer issue team support system charge subscription server,55,Billing,Medium
+TKT01996,platform customer request issue support demo plan access,56,Sales,Medium
+TKT01997,team platform help customer quotation demo login,56,Sales,Medium
+TKT01998,problem support customer platform suggestion feature pricing,59,Feedback,Medium
+TKT01999,customer issue team help improvement feature upgrade,4,Feedback,Medium
+TKT02000,request issue help system customer invoice charge error,57,Billing,Medium
+TKT02001,support platform help issue request authentication password bug,49,Account,Medium
+TKT02002,system issue team problem customer password access invoice,36,Account,Medium
+TKT02003,support system team service pricing plan suggestion,25,Sales,Medium
+TKT02004,request customer help experience improvement error,35,Feedback,Medium
+TKT02005,issue problem support team system api crash login,41,Tech,High
+TKT02006,problem issue system customer request crash error login,22,Tech,High
+TKT02007,request problem service team help profile login demo,33,Account,Medium
+TKT02008,support service team review suggestion refund,17,Feedback,Low
+TKT02009,problem team support issue help improvement review upgrade,21,Billing,Medium
+TKT02010,team platform help request system plan quotation access,43,Sales,Medium
+TKT02011,support request problem crash server experience,6,Tech,High
+TKT02012,system request problem experience review authentication,10,Feedback,Medium
+TKT02013,support problem system request feature suggestion password,54,Feedback,Medium
+TKT02014,system customer request issue problem feature improvement error,49,Feedback,Medium
+TKT02015,platform request customer password authentication server,18,Billing,Low
+TKT02016,support team system crash api feature,48,Tech,High
+TKT02017,issue service customer help improvement suggestion subscription,28,Feedback,Medium
+TKT02018,team support service system issue login authentication pricing,18,Account,Medium
+TKT02019,team customer system support charge subscription profile,56,Billing,Medium
+TKT02020,problem service customer request system upgrade plan error,26,Sales,Medium
+TKT02021,service issue problem payment refund upgrade,46,Billing,Medium
+TKT02022,help request support issue feature suggestion server,20,Feedback,Medium
+TKT02023,problem customer system platform demo plan bug,28,Sales,Medium
+TKT02024,system problem help plan quotation suggestion,23,Sales,Medium
+TKT02025,request problem help customer system api error plan,30,Tech,Medium
+TKT02026,platform support help system problem feature review quotation,8,Feedback,Medium
+TKT02027,request issue problem help improvement review api,13,Feedback,Medium
+TKT02028,customer platform service issue invoice charge password,12,Sales,Medium
+TKT02029,system team problem platform service improvement feature api,26,Feedback,Medium
+TKT02030,request support help system upgrade demo suggestion,31,Sales,Medium
+TKT02031,problem issue platform profile password error,51,Account,Medium
+TKT02032,platform customer problem system support suggestion review upgrade,22,Feedback,Medium
+TKT02033,support service customer refund subscription authentication,32,Billing,Medium
+TKT02034,team issue help api crash upgrade,8,Tech,High
+TKT02035,customer platform service crash bug upgrade,17,Tech,High
+TKT02036,help service issue system demo plan payment,8,Sales,Medium
+TKT02037,request help team error api profile,29,Tech,Medium
+TKT02038,system service problem invoice subscription quotation,26,Billing,Medium
+TKT02039,system help platform support invoice charge crash,24,Billing,High
+TKT02040,customer help system problem team refund invoice bug,52,Billing,Medium
+TKT02041,issue problem customer profile password suggestion,43,Account,Medium
+TKT02042,help request team issue support demo upgrade review,25,Sales,Medium
+TKT02043,service help problem issue team experience suggestion subscription,35,Feedback,Medium
+TKT02044,system team customer service suggestion feature error,14,Feedback,Medium
+TKT02045,support platform system help bug api pricing,22,Tech,Low
+TKT02046,support problem customer help system review improvement refund,23,Feedback,Medium
+TKT02047,team support problem service demo pricing refund,41,Sales,Medium
+TKT02048,support platform team system issue improvement suggestion access,14,Feedback,Medium
+TKT02049,platform request issue team profile login crash,14,Account,High
+TKT02050,system request issue refund charge improvement,52,Billing,Medium
+TKT02051,request support team system subscription refund quotation,33,Billing,Medium
+TKT02052,problem support team issue request access authentication pricing,29,Account,Medium
+TKT02053,platform request problem support demo quotation charge,20,Sales,Medium
+TKT02054,platform issue problem request payment refund password,2,Billing,Medium
+TKT02055,issue problem support help server api charge,56,Tech,Medium
+TKT02056,request issue help system team pricing upgrade charge,37,Sales,Medium
+TKT02057,team request customer help platform upgrade plan feature,60,Feedback,Medium
+TKT02058,issue service request quotation upgrade server,14,Sales,Medium
+TKT02059,system issue request customer quotation upgrade crash,31,Sales,High
+TKT02060,team customer help demo quotation suggestion,13,Sales,Low
+TKT02061,support request team review experience refund,34,Feedback,Medium
+TKT02062,support help request refund charge profile,57,Billing,Medium
+TKT02063,request service help system support invoice payment quotation,24,Billing,Low
+TKT02064,service customer support demo pricing feature,26,Sales,Medium
+TKT02065,customer support help system pricing quotation access,13,Sales,Low
+TKT02066,team customer problem issue system feature suggestion quotation,8,Feedback,Medium
+TKT02067,system issue platform request help password profile charge,56,Account,Medium
+TKT02068,platform team help charge refund error,24,Billing,Medium
+TKT02069,platform help service system invoice subscription improvement,1,Billing,Low
+TKT02070,problem system team charge invoice profile,12,Billing,Medium
+TKT02071,team service system request problem login authentication improvement,36,Account,Medium
+TKT02072,help service problem access password improvement,25,Account,Medium
+TKT02073,problem issue support request pricing demo improvement,28,Sales,Medium
+TKT02074,customer platform request review feature access,38,Feedback,Medium
+TKT02075,system customer request error bug profile,23,Tech,Medium
+TKT02076,problem platform request service refund subscription demo,32,Billing,Medium
+TKT02077,team service support help suggestion review password,49,Feedback,Medium
+TKT02078,customer service team request api server quotation,57,Tech,Medium
+TKT02079,service system request api bug profile,21,Tech,Low
+TKT02080,system service problem issue request password login review,28,Account,Medium
+TKT02081,request service issue feature improvement bug,59,Feedback,Medium
+TKT02082,system problem request team support login authentication subscription,54,Feedback,Medium
+TKT02083,issue team support feature suggestion quotation,31,Feedback,Medium
+TKT02084,service team system platform upgrade pricing feature,56,Sales,Medium
+TKT02085,request platform service upgrade pricing server,25,Sales,Medium
+TKT02086,problem help issue request profile authentication charge,55,Account,Medium
+TKT02087,team problem customer login password refund,56,Account,Medium
+TKT02088,support customer system issue problem plan upgrade suggestion,23,Sales,Medium
+TKT02089,request issue customer problem upgrade plan experience,12,Sales,Medium
+TKT02090,customer platform problem experience suggestion payment,36,Feedback,Medium
+TKT02091,request service customer system platform plan demo server,7,Sales,Low
+TKT02092,help support request team login profile server,29,Account,Medium
+TKT02093,help customer team bug error refund,32,Tech,Medium
+TKT02094,help problem platform support issue pricing plan profile,19,Sales,Medium
+TKT02095,issue team service request improvement experience plan,47,Tech,Medium
+TKT02096,team request service help access password server,7,Account,Low
+TKT02097,issue request team service payment subscription error,25,Billing,Medium
+TKT02098,customer team problem password login suggestion,11,Account,Medium
+TKT02099,support platform request customer refund invoice upgrade,59,Billing,Medium
+TKT02100,system request platform subscription refund review,55,Billing,Medium
+TKT02101,help team request service suggestion feature demo,16,Feedback,Low
+TKT02102,request problem help system service password profile bug,32,Account,Medium
+TKT02103,request customer support improvement experience plan,34,Feedback,Medium
+TKT02104,team system help authentication password server,30,Billing,Medium
+TKT02105,platform support system problem feature improvement refund,60,Feedback,Medium
+TKT02106,help support issue crash error invoice,5,Tech,High
+TKT02107,help request support system service access login charge,55,Account,Medium
+TKT02108,help problem issue system customer refund payment access,16,Billing,Medium
+TKT02109,team request platform improvement experience plan,29,Feedback,Medium
+TKT02110,system request problem support refund charge password,19,Tech,Medium
+TKT02111,platform help support feature review error,38,Feedback,Medium
+TKT02112,problem service support password access demo,2,Account,Medium
+TKT02113,issue service request customer improvement suggestion subscription,3,Feedback,Medium
+TKT02114,support service request customer issue payment invoice suggestion,24,Billing,Medium
+TKT02115,service customer system invoice payment authentication,59,Billing,Medium
+TKT02116,service customer issue system payment charge crash,39,Billing,High
+TKT02117,issue support platform authentication profile charge,59,Account,Medium
+TKT02118,request platform team review experience access,35,Feedback,Medium
+TKT02119,team request service platform suggestion feature bug,23,Feedback,Low
+TKT02120,platform customer request issue plan upgrade access,20,Sales,Medium
+TKT02121,problem system customer issue password authentication suggestion,7,Account,Medium
+TKT02122,support service request experience review invoice,52,Feedback,Medium
+TKT02123,support team request server crash experience,12,Tech,High
+TKT02124,system support team plan demo charge,17,Sales,Low
+TKT02125,issue support customer demo upgrade charge,22,Sales,Medium
+TKT02126,support problem customer improvement suggestion subscription,34,Feedback,Medium
+TKT02127,problem platform system team experience suggestion api,34,Feedback,Medium
+TKT02128,system issue support experience review authentication,40,Feedback,Medium
+TKT02129,support help request plan demo refund,45,Sales,Medium
+TKT02130,help issue platform customer service access password crash,33,Account,High
+TKT02131,system platform help service support crash api payment,12,Feedback,High
+TKT02132,problem customer system help charge payment feature,21,Billing,Medium
+TKT02133,service help platform system issue pricing quotation review,9,Account,Medium
+TKT02134,support service system help plan demo charge,50,Sales,Medium
+TKT02135,team request customer service feature experience quotation,49,Feedback,Medium
+TKT02136,platform issue service system feature experience login,46,Feedback,Medium
+TKT02137,problem platform request invoice payment bug,55,Billing,Medium
+TKT02138,request service support platform customer error crash suggestion,23,Tech,High
+TKT02139,system platform problem crash api experience,37,Tech,High
+TKT02140,system request problem payment charge plan,27,Billing,Medium
+TKT02141,system issue team support improvement suggestion profile,11,Feedback,Medium
+TKT02142,platform customer support help suggestion review demo,18,Feedback,Low
+TKT02143,request help system platform team login access payment,14,Account,Low
+TKT02144,platform support request feature experience payment,30,Feedback,Medium
+TKT02145,platform team issue support problem experience suggestion demo,39,Feedback,Medium
+TKT02146,team system service support problem access password feature,33,Account,Medium
+TKT02147,customer request platform service suggestion improvement authentication,41,Feedback,Medium
+TKT02148,system issue platform customer charge refund improvement,60,Billing,Medium
+TKT02149,help system customer password profile api,26,Account,Medium
+TKT02150,service request problem support review feature demo,27,Feedback,Medium
+TKT02151,team support service help feature experience bug,11,Feedback,Low
+TKT02152,request issue problem platform login authentication api,30,Account,Medium
+TKT02153,system team request error api charge,17,Tech,Medium
+TKT02154,problem request support demo pricing experience,13,Sales,Medium
+TKT02155,team support customer service payment refund plan,47,Billing,Medium
+TKT02156,platform team service api error demo,29,Tech,Medium
+TKT02157,platform help system profile password demo,11,Account,Low
+TKT02158,system service team customer problem access password experience,44,Account,Medium
+TKT02159,platform service help support login authentication pricing,8,Account,Low
+TKT02160,issue problem platform support help password login suggestion,23,Account,Medium
+TKT02161,help system platform issue charge refund login,12,Billing,Medium
+TKT02162,customer team issue request platform review experience demo,37,Feedback,Medium
+TKT02163,support team system pricing demo authentication,37,Sales,Medium
+TKT02164,customer support issue system problem login profile crash,38,Account,High
+TKT02165,issue request platform team system error crash login,10,Tech,High
+TKT02166,platform system team problem password access subscription,15,Account,Medium
+TKT02167,request customer platform problem team api bug payment,27,Account,Medium
+TKT02168,help service system subscription payment profile,1,Billing,Low
+TKT02169,problem team system platform authentication login feature,46,Account,Medium
+TKT02170,issue request problem service system password profile charge,49,Account,Medium
+TKT02171,service platform help payment refund quotation,29,Billing,Medium
+TKT02172,system support customer authentication profile quotation,40,Account,Medium
+TKT02173,customer issue help password authentication upgrade,12,Account,Medium
+TKT02174,request system support customer platform demo quotation bug,52,Sales,Medium
+TKT02175,problem request issue server crash upgrade,12,Tech,High
+TKT02176,help problem request invoice payment error,56,Billing,Medium
+TKT02177,system platform team plan pricing password,39,Sales,Medium
+TKT02178,system help team platform service password access review,17,Account,Low
+TKT02179,problem issue team platform demo upgrade experience,43,Sales,Medium
+TKT02180,issue system help request upgrade demo server,55,Sales,Medium
+TKT02181,request customer problem platform authentication profile crash,42,Account,High
+TKT02182,issue request service customer team plan pricing feature,56,Sales,Medium
+TKT02183,service system customer request subscription charge profile,45,Billing,Medium
+TKT02184,help team support problem customer demo upgrade refund,41,Sales,Medium
+TKT02185,team request help platform bug api experience,42,Tech,Medium
+TKT02186,problem help service server api plan,18,Tech,Medium
+TKT02187,customer problem support system help experience review invoice,33,Feedback,Medium
+TKT02188,platform team problem demo pricing bug,12,Sales,Medium
+TKT02189,service help platform quotation pricing subscription,44,Sales,Medium
+TKT02190,service issue team upgrade quotation suggestion,5,Feedback,Medium
+TKT02191,service help team customer problem crash bug authentication,9,Tech,High
+TKT02192,customer help team platform login password improvement,46,Account,Medium
+TKT02193,request team platform issue customer server bug pricing,19,Tech,Medium
+TKT02194,problem team service issue customer bug crash quotation,56,Tech,High
+TKT02195,team problem platform authentication password error,35,Account,Medium
+TKT02196,service customer team issue demo quotation review,56,Sales,Medium
+TKT02197,platform team customer password authentication refund,24,Account,Low
+TKT02198,team support help customer system bug server improvement,24,Tech,Low
+TKT02199,request system issue service crash bug login,55,Tech,High
