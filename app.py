@@ -2,13 +2,14 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
 import numpy as np
-from scipy.sparse import hstack
+from scipy.sparse import csr_matrix, hstack
 from fastapi.middleware.cors import CORSMiddleware
 import re
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from sklearn.preprocessing import StandardScaler
 
 app = FastAPI()
 
@@ -25,15 +26,17 @@ CORSMiddleware,
     allow_headers=["*"],
 )
 
+scaler = StandardScaler()
+
 nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Load models and vectorizer
-dept_model = joblib.load("department_model.pkl")
-priority_model = joblib.load("priority_model.pkl")
-tfidf = joblib.load("tfidf_vectorizer.pkl")
+dept_model = joblib.load("department_new.pkl")
+priority_model = joblib.load("priority_new.pkl")
+tfidf = joblib.load("tfidf.pkl")
 
 
 dept_mapping = {
@@ -77,22 +80,25 @@ def preprocess_text(text):
 @app.post("/predict")
 def predict_ticket(data: TicketRequest):
     try:
-        print("Received text:", data.ticket_text)
+        # print("Received text:", data.ticket_text)
 
         cleaned_ticket = preprocess_text(data.ticket_text)
         print("Cleaned:", cleaned_ticket)
 
         ticket_tfidf = tfidf.transform([cleaned_ticket])
         print("TFIDF shape:", ticket_tfidf.shape)
+        
+        new_tenure = 12
+        tenure_scaled = scaler.fit_transform([[new_tenure]])
 
-        dummy_features = np.array([[30, 1, 1]])
-        print("Dummy shape:", dummy_features.shape)
+        # dummy_features = np.array([[30, 1, 1]])
+        # print("Dummy shape:", dummy_features.shape)
+        final_input = hstack([ticket_tfidf, csr_matrix(tenure_scaled)])
+        # ticket_features = hstack([ticket_tfidf, dummy_features])
+        # print("Final feature shape:", ticket_features.shape)
 
-        ticket_features = hstack([ticket_tfidf, dummy_features])
-        print("Final feature shape:", ticket_features.shape)
-
-        dept_prediction = dept_model.predict(ticket_features)[0]
-        priority_prediction = priority_model.predict(ticket_features)[0]
+        dept_prediction = dept_model.predict(final_input)
+        priority_prediction = priority_model.predict(final_input)
 
         return {
             "Department": dept_mapping[int(dept_prediction)],
